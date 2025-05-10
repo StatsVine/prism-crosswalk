@@ -1,0 +1,49 @@
+name: Build and commit export files
+
+on:
+  workflow_dispatch:  # manually triggered
+  #push:
+  #  branches:
+  #    - main
+  # Optional: uncomment to run every day at midnight UTC
+  #schedule:
+  #  - cron: '0 0 * * *'  # This runs the action every day at midnight UTC.
+
+jobs:
+  build_mlb_exports:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Clone prism-crosswalk-data repo
+        run: |
+          git clone https://github.com/statsvine/prism-crosswalk-data.git ../crosswalk-data
+      
+      - name: Clone prism-tools repo
+        run: |
+          git clone https://github.com/statsvine/prism-tools.git ../tools
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+
+      - name: pip install dependencies
+        run: |
+          pip install -r ../tools/requirements.txt
+
+      - name: Run MLB build script
+        run: |
+          python3 ../tools/crosswalk/build_players_exports.py ../crosswalk-data/data/mlb/players.csv exports/mlb --core-schema ../crosswalk-data/schema/players.yaml --source-schema ../crosswalk-data/schema/leagues/mlb/sources.yaml
+
+      - name: Commit export files
+        run: |
+          git config --global user.name "PRISM Build Bot"
+          git config --global user.email "statvine+prism@gmail.com"
+          git add exports/
+          git commit -m "Automated build: Update MLB output files" || echo "No changes to commit"
+          git push origin main
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
