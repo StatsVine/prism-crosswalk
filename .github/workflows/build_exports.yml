@@ -19,11 +19,11 @@ jobs:
 
       - name: Clone prism-crosswalk-data repo
         run: |
-          git clone https://github.com/statsvine/prism-crosswalk-data.git ../crosswalk-data
+          git clone https://github.com/statsvine/prism-crosswalk-data.git data
       
       - name: Clone prism-tools repo
         run: |
-          git clone https://github.com/statsvine/prism-tools.git ../tools
+          git clone https://github.com/statsvine/prism-tools.git tools
 
       - name: Set up Python
         uses: actions/setup-python@v2
@@ -32,11 +32,11 @@ jobs:
 
       - name: pip install dependencies
         run: |
-          pip install -r ../tools/requirements.txt
+          pip install -r tools/requirements.txt
 
       - name: Run MLB build script
         run: |
-          python3 ../tools/crosswalk/build_players_exports.py ../crosswalk-data/data/mlb/players.csv exports/mlb --core-schema ../crosswalk-data/schema/players.yaml --source-schema ../crosswalk-data/schema/leagues/mlb/sources.yaml
+          python3 tools/crosswalk/build_players_exports.py data/data/mlb/players.csv exports/mlb --core-schema data/schema/players.yaml --source-schema data/schema/leagues/mlb/sources.yaml
 
       - name: Commit export files
         run: |
