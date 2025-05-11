@@ -6563,7 +6563,7 @@
     "birth_month": "8",
     "birth_day": "20",
     "bbref_id": "hortoca01",
-    "fangraphs_id": "sa3020860",
+    "fangraphs_id": "31872",
     "mlbam_id": "690990",
     "nfbc_id": "11886",
     "sfbb_id": "hortoca01",
@@ -8789,6 +8789,21 @@
     "sfbb_id": "lawlajo01",
     "yahoo_id": "12355"
   },
+  "lugoma01": {
+    "prism_id": "fw8spljj6w",
+    "last_name": "Lugo",
+    "first_name": "Matthew",
+    "middle_name": null,
+    "birth_year": "2001",
+    "birth_month": "5",
+    "birth_day": "9",
+    "bbref_id": "lugoma01",
+    "fangraphs_id": "25980",
+    "mlbam_id": "683090",
+    "nfbc_id": "12270",
+    "sfbb_id": null,
+    "yahoo_id": "11737"
+  },
   "langfwy01": {
     "prism_id": "fwb7kbrq08",
     "last_name": "Langford",
@@ -9343,6 +9358,21 @@
     "nfbc_id": "10831",
     "sfbb_id": "torkesp01",
     "yahoo_id": "11914"
+  },
+  "alvarel01": {
+    "prism_id": "gqc2nv91nw",
+    "last_name": "Alvarado",
+    "first_name": "Elvis",
+    "middle_name": null,
+    "birth_year": "1999",
+    "birth_month": "2",
+    "birth_day": "23",
+    "bbref_id": "alvarel01",
+    "fangraphs_id": "21662",
+    "mlbam_id": "665660",
+    "nfbc_id": "12340",
+    "sfbb_id": null,
+    "yahoo_id": "60180"
   },
   "heinety01": {
     "prism_id": "gqcmj338y8",
