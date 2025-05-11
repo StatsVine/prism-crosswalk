@@ -2,6 +2,8 @@ name: Build and commit export files
 
 on:
   workflow_dispatch:  # manually triggered
+  repository_dispatch:
+    types: [crosswalk-data-updated]
   #push:
   #  branches:
   #    - main
