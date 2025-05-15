@@ -3749,6 +3749,21 @@
     "sfbb_id": null,
     "yahoo_id": "60389"
   },
+  "gordoco01": {
+    "prism_id": "6cdn5ye0lr",
+    "last_name": "Gordon",
+    "first_name": "Colton",
+    "middle_name": null,
+    "birth_year": "1998",
+    "birth_month": "12",
+    "birth_day": "20",
+    "bbref_id": "gordoco01",
+    "fangraphs_id": "31312",
+    "mlbam_id": "676467",
+    "nfbc_id": "12069",
+    "sfbb_id": null,
+    "yahoo_id": "60195"
+  },
   "delcaad01": {
     "prism_id": "6cqr2cvj14",
     "last_name": "Del Castillo",
@@ -11428,6 +11443,21 @@
     "nfbc_id": "10210",
     "sfbb_id": "coningr01",
     "yahoo_id": "11555"
+  },
+  "fishebr02": {
+    "prism_id": "kyw2p4ms50",
+    "last_name": "Fisher",
+    "first_name": "Braydon",
+    "middle_name": null,
+    "birth_year": "2000",
+    "birth_month": "7",
+    "birth_day": "26",
+    "bbref_id": "fishebr02",
+    "fangraphs_id": "24609",
+    "mlbam_id": "680755",
+    "nfbc_id": "12394",
+    "sfbb_id": null,
+    "yahoo_id": "11479"
   },
   "harrith01": {
     "prism_id": "kzdcxzczcm",
