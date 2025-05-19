@@ -6614,6 +6614,15 @@
     "sfbb_id": "abelmi01",
     "yahoo_id": "12166"
   },
+  "trivilo01": {
+    "prism_id": "mwyjsxpjqd",
+    "bbref_id": "trivilo01",
+    "fangraphs_id": "15043",
+    "mlbam_id": "642152",
+    "nfbc_id": "9885",
+    "sfbb_id": "trivilo01",
+    "yahoo_id": "10997"
+  },
   "gorema01": {
     "prism_id": "mxllee20h0",
     "bbref_id": "gorema01",
@@ -8621,6 +8630,15 @@
     "sfbb_id": "martida03",
     "yahoo_id": "12617"
   },
+  "strichu01": {
+    "prism_id": "v8r6xlf8bh",
+    "bbref_id": "strichu01",
+    "fangraphs_id": "7836",
+    "mlbam_id": "519326",
+    "nfbc_id": "8890",
+    "sfbb_id": "strichu01",
+    "yahoo_id": "9809"
+  },
   "martiau01": {
     "prism_id": "v93v30k410",
     "bbref_id": "martiau01",
@@ -9088,6 +9106,15 @@
     "nfbc_id": "9292",
     "sfbb_id": "stratch01",
     "yahoo_id": "10311"
+  },
+  "mcgeeea01": {
+    "prism_id": "wvbxmsrqc8",
+    "bbref_id": "mcgeeea01",
+    "fangraphs_id": "22176",
+    "mlbam_id": "668834",
+    "nfbc_id": "11579",
+    "sfbb_id": "mcgeeea01",
+    "yahoo_id": "12705"
   },
   "mccarja02": {
     "prism_id": "wx81tpmg34",
