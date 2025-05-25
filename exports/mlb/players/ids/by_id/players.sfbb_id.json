@@ -3329,6 +3329,15 @@
     "sfbb_id": "sosale01",
     "yahoo_id": "12420"
   },
+  "junkja01": {
+    "prism_id": "bsfecj7edh",
+    "bbref_id": "junkja01",
+    "fangraphs_id": "23301",
+    "mlbam_id": "676083",
+    "nfbc_id": "11280",
+    "sfbb_id": "junkja01",
+    "yahoo_id": "12263"
+  },
   "housead01": {
     "prism_id": "bvjp7t1j6d",
     "bbref_id": "housead01",
@@ -9592,6 +9601,15 @@
     "nfbc_id": "9847",
     "sfbb_id": "gombeau01",
     "yahoo_id": "11006"
+  },
+  "vavrate01": {
+    "prism_id": "y49yq74y4m",
+    "bbref_id": "vavrate01",
+    "fangraphs_id": "24400",
+    "mlbam_id": "679631",
+    "nfbc_id": "10429",
+    "sfbb_id": "vavrate01",
+    "yahoo_id": "11303"
   },
   "bednada01": {
     "prism_id": "y5qcrfhv1m",

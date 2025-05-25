@@ -5549,6 +5549,21 @@
     "sfbb_id": "sosale01",
     "yahoo_id": "12420"
   },
+  "junkja01": {
+    "prism_id": "bsfecj7edh",
+    "last_name": "Junk",
+    "first_name": "Janson",
+    "middle_name": null,
+    "birth_year": "1996",
+    "birth_month": "1",
+    "birth_day": "15",
+    "bbref_id": "junkja01",
+    "fangraphs_id": "23301",
+    "mlbam_id": "676083",
+    "nfbc_id": "11280",
+    "sfbb_id": "junkja01",
+    "yahoo_id": "12263"
+  },
   "housead01": {
     "prism_id": "bvjp7t1j6d",
     "last_name": "Houser",
@@ -15988,6 +16003,21 @@
     "nfbc_id": "9847",
     "sfbb_id": "gombeau01",
     "yahoo_id": "11006"
+  },
+  "vavrate01": {
+    "prism_id": "y49yq74y4m",
+    "last_name": "Vavra",
+    "first_name": "Terrin",
+    "middle_name": null,
+    "birth_year": "1997",
+    "birth_month": "5",
+    "birth_day": "12",
+    "bbref_id": "vavrate01",
+    "fangraphs_id": "24400",
+    "mlbam_id": "679631",
+    "nfbc_id": "10429",
+    "sfbb_id": "vavrate01",
+    "yahoo_id": "11303"
   },
   "bednada01": {
     "prism_id": "y5qcrfhv1m",
