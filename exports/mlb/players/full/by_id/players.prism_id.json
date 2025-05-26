@@ -7379,6 +7379,21 @@
     "sfbb_id": "westbjo01",
     "yahoo_id": "12122"
   },
+  "cmzm30k2gr": {
+    "prism_id": "cmzm30k2gr",
+    "last_name": "Osuna",
+    "first_name": "Alejandro",
+    "middle_name": null,
+    "birth_year": "2002",
+    "birth_month": "10",
+    "birth_day": "10",
+    "bbref_id": "osunaal02",
+    "fangraphs_id": "sa3015127",
+    "mlbam_id": "696030",
+    "nfbc_id": "12300",
+    "sfbb_id": null,
+    "yahoo_id": "60436"
+  },
   "cnytr461lw": {
     "prism_id": "cnytr461lw",
     "last_name": "Murphy",
@@ -8833,6 +8848,21 @@
     "nfbc_id": "10286",
     "sfbb_id": "thaisma01",
     "yahoo_id": "10497"
+  },
+  "eyzwkfztcm": {
+    "prism_id": "eyzwkfztcm",
+    "last_name": "Sánchez",
+    "first_name": "Ali",
+    "middle_name": null,
+    "birth_year": "1997",
+    "birth_month": "1",
+    "birth_day": "20",
+    "bbref_id": "sanchal04",
+    "fangraphs_id": "18551",
+    "mlbam_id": "645305",
+    "nfbc_id": "10752",
+    "sfbb_id": null,
+    "yahoo_id": "11676"
   },
   "f0qfbzshjr": {
     "prism_id": "f0qfbzshjr",
@@ -13103,7 +13133,7 @@
     "birth_month": "12",
     "birth_day": "26",
     "bbref_id": null,
-    "fangraphs_id": "sa918676",
+    "fangraphs_id": "25844",
     "mlbam_id": "669722",
     "nfbc_id": "10858",
     "sfbb_id": null,
@@ -13693,6 +13723,21 @@
     "nfbc_id": "11578",
     "sfbb_id": "brennwi02",
     "yahoo_id": "12703"
+  },
+  "nd4j0zm7m8": {
+    "prism_id": "nd4j0zm7m8",
+    "last_name": "Hummel",
+    "first_name": "Cooper",
+    "middle_name": null,
+    "birth_year": "1994",
+    "birth_month": "11",
+    "birth_day": "28",
+    "bbref_id": "hummeco01",
+    "fangraphs_id": "19458",
+    "mlbam_id": "669450",
+    "nfbc_id": "11332",
+    "sfbb_id": "hummeco01",
+    "yahoo_id": "12348"
   },
   "ne5bf71l18": {
     "prism_id": "ne5bf71l18",
@@ -14623,6 +14668,21 @@
     "nfbc_id": "10193",
     "sfbb_id": "ruizes01",
     "yahoo_id": "11378"
+  },
+  "pvbszcz9g8": {
+    "prism_id": "pvbszcz9g8",
+    "last_name": "McGuire",
+    "first_name": "Reese",
+    "middle_name": null,
+    "birth_year": "1995",
+    "birth_month": "3",
+    "birth_day": "2",
+    "bbref_id": "mcguire01",
+    "fangraphs_id": "15674",
+    "mlbam_id": "624512",
+    "nfbc_id": "8699",
+    "sfbb_id": "mcguire01",
+    "yahoo_id": "9615"
   },
   "pw4sbcynl4": {
     "prism_id": "pw4sbcynl4",
@@ -18758,7 +18818,7 @@
     "birth_month": "12",
     "birth_day": "12",
     "bbref_id": "mayerma01",
-    "fangraphs_id": "sa3017114",
+    "fangraphs_id": "29668",
     "mlbam_id": "691785",
     "nfbc_id": "11934",
     "sfbb_id": "mayerma01",
