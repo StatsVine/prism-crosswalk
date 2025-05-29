@@ -1320,6 +1320,21 @@
     "yahoo_id": "12718"
   },
   {
+    "prism_id": "1tr68entmr",
+    "last_name": "Bowman",
+    "first_name": "Matt",
+    "middle_name": null,
+    "birth_year": "1991",
+    "birth_month": "5",
+    "birth_day": "31",
+    "bbref_id": "bowmama01",
+    "fangraphs_id": "13528",
+    "mlbam_id": "621199",
+    "nfbc_id": "9273",
+    "sfbb_id": "bowmama01",
+    "yahoo_id": "10246"
+  },
+  {
     "prism_id": "1vtz4mm2f8",
     "last_name": "Klein",
     "first_name": "Will",
@@ -5362,8 +5377,8 @@
     "birth_year": "1995",
     "birth_month": "12",
     "birth_day": "31",
-    "bbref_id": null,
-    "fangraphs_id": "sa3006562",
+    "bbref_id": "hiralya01",
+    "fangraphs_id": "25215",
     "mlbam_id": "682274",
     "nfbc_id": "12399",
     "sfbb_id": null,
@@ -7408,6 +7423,21 @@
     "nfbc_id": "11610",
     "sfbb_id": "westbjo01",
     "yahoo_id": "12122"
+  },
+  {
+    "prism_id": "clvncrw08w",
+    "last_name": "Hoffmann",
+    "first_name": "Andrew",
+    "middle_name": null,
+    "birth_year": "2000",
+    "birth_month": "2",
+    "birth_day": "2",
+    "bbref_id": null,
+    "fangraphs_id": "sa3017202",
+    "mlbam_id": "694851",
+    "nfbc_id": "12401",
+    "sfbb_id": null,
+    "yahoo_id": "60204"
   },
   {
     "prism_id": "cmzm30k2gr",
@@ -11922,7 +11952,7 @@
     "mlbam_id": "676755",
     "nfbc_id": "10604",
     "sfbb_id": null,
-    "yahoo_id": "52313"
+    "yahoo_id": "12034"
   },
   {
     "prism_id": "kq4p58yp0w",

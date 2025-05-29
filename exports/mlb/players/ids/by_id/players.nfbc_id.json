@@ -791,6 +791,15 @@
     "sfbb_id": "harriho03",
     "yahoo_id": "12718"
   },
+  "9273": {
+    "prism_id": "1tr68entmr",
+    "bbref_id": "bowmama01",
+    "fangraphs_id": "13528",
+    "mlbam_id": "621199",
+    "nfbc_id": "9273",
+    "sfbb_id": "bowmama01",
+    "yahoo_id": "10246"
+  },
   "11983": {
     "prism_id": "1vtz4mm2f8",
     "bbref_id": "kleinwi01",
@@ -3205,8 +3214,8 @@
   },
   "12399": {
     "prism_id": "8hrwgf3jvw",
-    "bbref_id": null,
-    "fangraphs_id": "sa3006562",
+    "bbref_id": "hiralya01",
+    "fangraphs_id": "25215",
     "mlbam_id": "682274",
     "nfbc_id": "12399",
     "sfbb_id": null,
@@ -4435,6 +4444,15 @@
     "nfbc_id": "11610",
     "sfbb_id": "westbjo01",
     "yahoo_id": "12122"
+  },
+  "12401": {
+    "prism_id": "clvncrw08w",
+    "bbref_id": null,
+    "fangraphs_id": "sa3017202",
+    "mlbam_id": "694851",
+    "nfbc_id": "12401",
+    "sfbb_id": null,
+    "yahoo_id": "60204"
   },
   "12300": {
     "prism_id": "cmzm30k2gr",
@@ -7143,7 +7161,7 @@
     "mlbam_id": "676755",
     "nfbc_id": "10604",
     "sfbb_id": null,
-    "yahoo_id": "52313"
+    "yahoo_id": "12034"
   },
   "10326": {
     "prism_id": "kq4p58yp0w",
