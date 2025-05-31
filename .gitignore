@@ -1,4 +1,5 @@
 _data/
+public/exports/
 
 # Created by https://www.toptal.com/developers/gitignore/api/vim,node,astro,linux,macos,dotenv,windows,intellij
 # Edit at https://www.toptal.com/developers/gitignore?templates=vim,node,astro,linux,macos,dotenv,windows,intellij
