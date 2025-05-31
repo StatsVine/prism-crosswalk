@@ -7979,6 +7979,21 @@
     "sfbb_id": "alexaja01",
     "yahoo_id": "12628"
   },
+  "brighje01": {
+    "prism_id": "gdr9el2h1r",
+    "last_name": "Brigham",
+    "first_name": "Jeff",
+    "middle_name": null,
+    "birth_year": "1992",
+    "birth_month": "2",
+    "birth_day": "16",
+    "bbref_id": "brighje01",
+    "fangraphs_id": "16631",
+    "mlbam_id": "656257",
+    "nfbc_id": "10092",
+    "sfbb_id": "brighje01",
+    "yahoo_id": "11152"
+  },
   "suwinja01": {
     "prism_id": "ge2rv5hmdw",
     "last_name": "Suwinski",
@@ -9403,6 +9418,21 @@
     "nfbc_id": "11726",
     "sfbb_id": "englema01",
     "yahoo_id": "11551"
+  },
+  "vargail01": {
+    "prism_id": "jxvly3gjqh",
+    "last_name": "Vargas",
+    "first_name": "Ildemaro",
+    "middle_name": null,
+    "birth_year": "1991",
+    "birth_month": "7",
+    "birth_day": "16",
+    "bbref_id": "vargail01",
+    "fangraphs_id": "13324",
+    "mlbam_id": "545121",
+    "nfbc_id": "9562",
+    "sfbb_id": "vargail01",
+    "yahoo_id": "10752"
   },
   "freemty01": {
     "prism_id": "jzxfskxexm",
@@ -11203,6 +11233,21 @@
     "nfbc_id": "11102",
     "sfbb_id": "bailepa01",
     "yahoo_id": "12054"
+  },
+  "altavda01": {
+    "prism_id": "n047zx56gw",
+    "last_name": "Altavilla",
+    "first_name": "Dan",
+    "middle_name": null,
+    "birth_year": "1992",
+    "birth_month": "9",
+    "birth_day": "8",
+    "bbref_id": "altavda01",
+    "fangraphs_id": "16507",
+    "mlbam_id": "656186",
+    "nfbc_id": "9440",
+    "sfbb_id": "altavda01",
+    "yahoo_id": "10378"
   },
   "ogasash01": {
     "prism_id": "n0dl84h06h",

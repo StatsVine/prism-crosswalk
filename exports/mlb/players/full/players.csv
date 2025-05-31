@@ -234,9 +234,11 @@ prism_id,last_name,first_name,middle_name,birth_year,birth_month,birth_day,bbref
 5cffnm9vpw,Brown,Ben,,1999,9,9,brownbe02,23590,676962,11935,brownbe02,12748
 5dmpwvj910,D'Arnaud,Travis,,1989,2,10,darnatr01,7739,518595,8211,darnatr01,9096
 5dpsrhbkl0,Hoerner,Nico,,1997,5,13,hoernni01,21479,663538,10302,hoernni01,11284
+5etx98k1cd,Winkler,Jack,,1998,11,4,,sa3017393,676466,12402,,64020
 5fcz8f1mcm,Clase,Emmanuel,,1998,3,18,claseem01,21032,661403,10661,claseem01,11625
 5g6zptx6z0,Call,Alex,,1994,9,27,callal02,19296,669743,10520,callal02,12653
 5gbspd7lqh,Perez,Wenceel,,1999,10,30,perezwe01,22857,672761,10434,perezwe01,11761
+5hdcf798b8,Hernandez,Heriberto,,1999,12,16,hernahe01,24878,681715,12403,,12557
 5ke51jp96d,Agnos,Zach,,2000,8,15,agnosza01,31552,688642,12221,agnosza01,64286
 5ld34vey9d,Horn,Bailey,,1998,1,15,hornba01,27753,690544,11981,,61324
 5lyswm2tph,Heim,Jonah,,1995,6,27,heimjo01,16930,641680,10705,heimjo01,11662
@@ -292,6 +294,7 @@ prism_id,last_name,first_name,middle_name,birth_year,birth_month,birth_day,bbref
 71dj1klrz8,Bender,Anthony,,1995,2,3,bendean01,19742,669622,11205,bendean01,12194
 728epl7ej0,Jones,Jared,,2001,8,6,jonesja09,27863,683003,11893,jonesja09,60907
 739sj0j87r,Lee,Chase,,1998,8,13,leech02,29574,695445,12293,,61588
+74nczpdgp4,Rodriguez,Bradgley,,2003,11,16,,sa3016035,699134,12405,,64992
 74tchvn81h,Davis,Henry,,1999,9,21,davishe01,29617,680779,11742,davishe01,12514
 74ybqrzg38,Spiers,Carson,,1997,11,11,spierca01,27685,686730,11854,spierca01,63341
 7559yxw54d,Robertson,Nick,,1998,7,16,roberni01,26226,687798,11805,,61267
@@ -494,7 +497,7 @@ chfj0z3jfr,Acuna,Ronald,,1997,12,18,acunaro01,18401,660670,9775,acunaro01,10646
 cjvw7m9qsh,deGrom,Jacob,,1988,6,19,degroja01,10954,594798,8784,degroja01,9701
 cjy8hrn1jw,Garrett,Reed,,1993,1,2,garrere01,16866,657585,10511,garrere01,11255
 cle93hflt8,Westburg,Jordan,,1999,2,18,westbjo01,27815,676059,11610,westbjo01,12122
-clvncrw08w,Hoffmann,Andrew,,2000,2,2,,sa3017202,694851,12401,,60204
+clvncrw08w,Hoffmann,Andrew,,2000,2,2,hoffman01,29633,694851,12401,,60204
 cmzm30k2gr,Osuna,Alejandro,,2002,10,10,osunaal02,27915,696030,12300,,60436
 cnytr461lw,Murphy,Sean,,1994,10,10,murphse01,19352,669221,10327,murphse01,10929
 cpdqehceer,Bloss,Jake,,2001,6,23,blossja01,33168,814005,12109,blossja01,62903
@@ -652,6 +655,7 @@ g7r1dsw9d0,Grichuk,Randal,,1991,8,13,grichra01,10243,545341,8773,grichra01,9689
 g8vcz82m34,McCormick,Chas,,1995,4,19,mccorch01,19599,676801,10007,mccorch01,11912
 gbj5bbrx04,Hjelle,Sean,,1997,5,7,hjellse01,21481,663546,10791,hjellse01,11387
 gdldc2pp58,Alexander,Jason,,1993,3,1,alexaja01,19666,669920,10574,alexaja01,12628
+gdr9el2h1r,Brigham,Jeff,,1992,2,16,brighje01,16631,656257,10092,brighje01,11152
 ge2rv5hmdw,Suwinski,Jack,,1998,7,29,suwinja01,22244,669261,11377,suwinja01,12342
 geyn5lc9nm,Frasso,Nick,,1998,10,18,frassni01,sa3014492,693308,11931,frassni01,60235
 gfejqt3qy0,Bubic,Kris,,1997,8,19,bubickr01,21455,663460,10933,bubickr01,11319
@@ -762,6 +766,7 @@ jtwd90017w,Cruz,Fernando,,1990,3,28,cruzfe01,7048,518585,11557,cruzfe01,12690
 jvk04x5t5w,Gipson-Long,Sawyer,,1997,12,12,gipsosa01,26048,687830,11863,gipsosa01,62054
 jvkyzbm488,Butler,Lawrence,,2000,7,10,butlela01,22542,671732,11649,butlela01,12719
 jwmrzb414m,Englert,Mason,,1999,11,1,englema01,22288,669438,11726,englema01,11551
+jxvly3gjqh,Vargas,Ildemaro,,1991,7,16,vargail01,13324,545121,9562,vargail01,10752
 jzxfskxexm,Freeman,Tyler,,1999,5,21,freemty01,22532,671289,10356,freemty01,11754
 k0kzm1sfgm,Keller,Brad,,1995,7,27,kellebr01,15734,641745,9936,kellebr01,10418
 k0rgcgce90,Rodriguez,Julio,,2000,12,29,rodriju01,23697,677594,10260,rodriju01,11384
@@ -898,6 +903,7 @@ mydvrp54mr,Richardson,Lyon,,2000,1,18,richaly01,24581,680689,11143,richaly01,114
 mz04w003kh,Johnson,Pierce,,1991,5,10,johnspi01,13435,572955,8645,johnspi01,9559
 mzlsxqxlz4,Scherzer,Max,,1984,7,27,scherma01,3137,453286,6837,scherma01,8193
 mznyw2vkm8,Bailey,Patrick,,1999,5,29,bailepa01,27478,672275,11102,bailepa01,12054
+n047zx56gw,Altavilla,Dan,,1992,9,8,altavda01,16507,656186,9440,altavda01,10378
 n07tkf7g10,Narváez,Carlos,,1998,11,26,narvaca01,19722,665966,12012,,60536
 n0dl84h06h,Ogasawara,Shinnosuke,,1997,10,8,ogasash01,sa3058454,829272,12224,ogasash01,65108
 n15xjcvvmr,Leclerc,Jose,,1993,12,19,leclejo01,14524,600917,9239,leclejo01,10336
@@ -1266,6 +1272,7 @@ xfxrm25vwh,Toro,Abraham,,1996,12,20,toroab01,19844,647351,10001,toroab01,11642
 xgjqnd45mm,Stroman,Marcus,,1991,5,1,stromma01,13431,573186,8721,stromma01,9637
 xgmfnnn5cm,Morton,Charlie,,1983,10,12,mortoch02,4676,450203,6918,mortoch02,8270
 xgskkcb3yr,Walls,Taylor,,1996,7,10,wallsta01,22458,670764,10955,wallsta01,11891
+xgxzwgq018,Smith,Dylan,Miguel,2000,5,28,,sa3018113,681916,12404,,12425
 xh75vmt8y8,Rooker,Brent,,1994,11,1,rookebr01,19627,667670,10149,rookebr01,10917
 xhqnfch8sw,Petty,Chase,,2003,4,4,pettych02,30170,695534,12045,pettych02,12484
 xjbxbgn4l8,Hayes,Ke'Bryan,,1997,1,28,hayeske01,18577,663647,10262,hayeske01,10566
