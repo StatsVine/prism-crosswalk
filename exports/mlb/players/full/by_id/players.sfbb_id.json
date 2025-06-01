@@ -10499,6 +10499,21 @@
     "sfbb_id": "bradiky01",
     "yahoo_id": "12345"
   },
+  "heuerco01": {
+    "prism_id": "lt83nchnw4",
+    "last_name": "Heuer",
+    "first_name": "Codi",
+    "middle_name": null,
+    "birth_year": "1996",
+    "birth_month": "7",
+    "birth_day": "3",
+    "bbref_id": "heuerco01",
+    "fangraphs_id": "23293",
+    "mlbam_id": "676051",
+    "nfbc_id": "10901",
+    "sfbb_id": "heuerco01",
+    "yahoo_id": "11959"
+  },
   "rogerta01": {
     "prism_id": "ltkvytd5yd",
     "last_name": "Rogers",
@@ -15524,6 +15539,21 @@
     "sfbb_id": "francty01",
     "yahoo_id": "11231"
   },
+  "meltoja01": {
+    "prism_id": "x13668rmfh",
+    "last_name": "Melton",
+    "first_name": "Jacob",
+    "middle_name": null,
+    "birth_year": "2000",
+    "birth_month": "9",
+    "birth_day": "7",
+    "bbref_id": null,
+    "fangraphs_id": "sa3019988",
+    "mlbam_id": "689200",
+    "nfbc_id": "12046",
+    "sfbb_id": "meltoja01",
+    "yahoo_id": "60184"
+  },
   "guerrvl02": {
     "prism_id": "x2sy0c0350",
     "last_name": "Guerrero Jr.",
@@ -16468,6 +16498,21 @@
     "nfbc_id": "11055",
     "sfbb_id": "grovemi01",
     "yahoo_id": "11332"
+  },
+  "eatonna01": {
+    "prism_id": "yzqgs6pggr",
+    "last_name": "Eaton",
+    "first_name": "Nate",
+    "middle_name": null,
+    "birth_year": "1996",
+    "birth_month": "12",
+    "birth_day": "22",
+    "bbref_id": "eatonna01",
+    "fangraphs_id": "25055",
+    "mlbam_id": "681987",
+    "nfbc_id": "11515",
+    "sfbb_id": "eatonna01",
+    "yahoo_id": "12656"
   },
   "wallnma01": {
     "prism_id": "z0dz1e1t5m",
