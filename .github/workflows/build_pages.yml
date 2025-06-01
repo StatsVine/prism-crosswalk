@@ -2,8 +2,15 @@ name: Deploy to GitHub Pages
 
 on:
   push:
-    branches: [main]
+    branches:
+      - main
   workflow_dispatch:
+  workflow_run:
+    workflows:
+      - Build and commit export files
+    types:
+      - completed
+
 
 permissions:
   contents: read
