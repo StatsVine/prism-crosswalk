@@ -18644,6 +18644,21 @@
     "sfbb_id": "wallsta01",
     "yahoo_id": "11891"
   },
+  "smithdy01": {
+    "prism_id": "xgxzwgq018",
+    "last_name": "Smith",
+    "first_name": "Dylan",
+    "middle_name": "Miguel",
+    "birth_year": "2000",
+    "birth_month": "5",
+    "birth_day": "28",
+    "bbref_id": "smithdy01",
+    "fangraphs_id": "30145",
+    "mlbam_id": "681916",
+    "nfbc_id": "12404",
+    "sfbb_id": null,
+    "yahoo_id": "12425"
+  },
   "rookebr01": {
     "prism_id": "xh75vmt8y8",
     "last_name": "Rooker",
