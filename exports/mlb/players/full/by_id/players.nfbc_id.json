@@ -2414,6 +2414,21 @@
     "sfbb_id": null,
     "yahoo_id": "61672"
   },
+  "10175": {
+    "prism_id": "3sq3kpl9qh",
+    "last_name": "Johnson",
+    "first_name": "Daniel",
+    "middle_name": null,
+    "birth_year": "1995",
+    "birth_month": "7",
+    "birth_day": "11",
+    "bbref_id": "johnsda07",
+    "fangraphs_id": "19643",
+    "mlbam_id": "669288",
+    "nfbc_id": "10175",
+    "sfbb_id": "johnsda07",
+    "yahoo_id": "10965"
+  },
   "11371": {
     "prism_id": "3tvkkt8z3r",
     "last_name": "Henriquez",
@@ -3733,6 +3748,21 @@
     "nfbc_id": "11629",
     "sfbb_id": "yoshima02",
     "yahoo_id": "12763"
+  },
+  "8137": {
+    "prism_id": "5xz8n1qsjm",
+    "last_name": "Miley",
+    "first_name": "Wade",
+    "middle_name": null,
+    "birth_year": "1986",
+    "birth_month": "11",
+    "birth_day": "13",
+    "bbref_id": "mileywa01",
+    "fangraphs_id": "8779",
+    "mlbam_id": "489119",
+    "nfbc_id": "8137",
+    "sfbb_id": "mileywa01",
+    "yahoo_id": "9017"
   },
   "9944": {
     "prism_id": "5yglslg8ch",
@@ -5728,6 +5758,21 @@
     "nfbc_id": "11906",
     "sfbb_id": "queroje01",
     "yahoo_id": "12477"
+  },
+  "10135": {
+    "prism_id": "8zwrejcy38",
+    "last_name": "Knizner",
+    "first_name": "Andrew",
+    "middle_name": null,
+    "birth_year": "1995",
+    "birth_month": "2",
+    "birth_day": "3",
+    "bbref_id": "kniznan01",
+    "fangraphs_id": "19514",
+    "mlbam_id": "668800",
+    "nfbc_id": "10135",
+    "sfbb_id": "kniznan01",
+    "yahoo_id": "11392"
   },
   "11808": {
     "prism_id": "907ydx50yd",
@@ -10048,6 +10093,21 @@
     "nfbc_id": "11861",
     "sfbb_id": "vodnivi01",
     "yahoo_id": "12368"
+  },
+  "8679": {
+    "prism_id": "gmtkphfnf0",
+    "last_name": "Smith",
+    "first_name": "Dominic",
+    "middle_name": null,
+    "birth_year": "1995",
+    "birth_month": "6",
+    "birth_day": "15",
+    "bbref_id": "smithdo02",
+    "fangraphs_id": "15653",
+    "mlbam_id": "642086",
+    "nfbc_id": "8679",
+    "sfbb_id": "smithdo02",
+    "yahoo_id": "9595"
   },
   "12147": {
     "prism_id": "gmy0e5fq34",
@@ -17693,7 +17753,7 @@
     "birth_month": "2",
     "birth_day": "9",
     "bbref_id": "caglija01",
-    "fangraphs_id": "sa3025245",
+    "fangraphs_id": "35041",
     "mlbam_id": "695506",
     "nfbc_id": "12211",
     "sfbb_id": "caglija01",
