@@ -2159,6 +2159,15 @@
     "sfbb_id": "bendean01",
     "yahoo_id": "12194"
   },
+  "hatchto01": {
+    "prism_id": "71lbrypy6w",
+    "bbref_id": "hatchto01",
+    "fangraphs_id": "19264",
+    "mlbam_id": "641672",
+    "nfbc_id": "10782",
+    "sfbb_id": "hatchto01",
+    "yahoo_id": "10859"
+  },
   "jonesja09": {
     "prism_id": "728epl7ej0",
     "bbref_id": "jonesja09",
@@ -2608,6 +2617,15 @@
     "nfbc_id": "10113",
     "sfbb_id": "bertijo01",
     "yahoo_id": "11169"
+  },
+  "kellymi03": {
+    "prism_id": "8edcvdezjh",
+    "bbref_id": "kellymi03",
+    "fangraphs_id": "12791",
+    "mlbam_id": "547184",
+    "nfbc_id": "9974",
+    "sfbb_id": "kellymi03",
+    "yahoo_id": "12636"
   },
   "hillde01": {
     "prism_id": "8edzj03p1w",
