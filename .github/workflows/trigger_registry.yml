@@ -1,0 +1,23 @@
+name: Notify Registry Repo
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - "/exports/**"
+  workflow_run:
+    workflows:
+      - Build and commit export files
+    types:
+      - completed
+jobs:
+  dispatch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger prism-registry build
+        run: |
+          curl -X POST https://api.github.com/repos/statsvine/prism-registry/dispatches \
+            -H "Accept: application/vnd.github+json" \
+            -H "Authorization: Bearer ${{ secrets.REGISTRY_DISPATCH_TOKEN }}" \
+            -d '{"event_type":"crosswalk-updated"}'
