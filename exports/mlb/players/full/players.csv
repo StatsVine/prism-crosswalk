@@ -243,7 +243,7 @@ prism_id,last_name,first_name,middle_name,birth_year,birth_month,birth_day,bbref
 5ke51jp96d,Agnos,Zach,,2000,8,15,agnosza01,31552,688642,12221,agnosza01,64286
 5ld34vey9d,Horn,Bailey,,1998,1,15,hornba01,27753,690544,11981,,61324
 5lyswm2tph,Heim,Jonah,,1995,6,27,heimjo01,16930,641680,10705,heimjo01,11662
-5nj4fq6ydw,Ritter,Ryan,,2000,11,10,,sa3020206,690022,12406,,60154
+5nj4fq6ydw,Ritter,Ryan,,2000,11,10,rittery01,31500,690022,12406,,60154
 5p29kbwqxm,Harris,Brett,,1998,6,24,harribr02,29788,695391,12042,harribr02,60312
 5p45h8k8z0,Carlson,Dylan,,1998,10,23,carlsdy01,20126,666185,10190,carlsdy01,10643
 5rymb608s0,Locklear,Tyler,,2000,11,24,locklty01,31396,682988,12049,locklty01,60581
@@ -327,7 +327,7 @@ prism_id,last_name,first_name,middle_name,birth_year,birth_month,birth_day,bbref
 7ls7tzg1tw,France,J.P.,,1995,4,4,francjp01,21212,641585,11716,francjp01,12725
 7m4yz1k7jr,Festa,Matthew,,1993,3,11,festama01,19330,670036,10060,festama01,11068
 7m62el8qbh,Montes De Oca,Christian,,1999,8,30,,sa3018207,801216,12395,,60562
-7mgfm8sqcm,Rangel,Alan,,1997,8,21,,sa877578,660604,11318,,12286
+7mgfm8sqcm,Rangel,Alan,,1997,8,21,rangeal01,19524,660604,11318,,12286
 7nhpde80er,Garcia,Yimi,,1990,8,18,garciyi01,12095,554340,8895,garciyi01,9815
 7nrlfr2db0,Phillips,Connor,,2001,5,4,phillco01,27649,683175,11855,phillco01,12173
 7pgf3v5fm0,Canzone,Dominic,,1997,8,16,canzodo01,26438,686527,11778,canzodo01,60061
@@ -1107,7 +1107,7 @@ sfgeckkdgr,Giolito,Lucas,,1994,7,14,giolilu01,15474,608337,8724,giolilu01,9640
 sfh16ljyxr,Mikolas,Miles,,1988,8,23,mikolmi01,9803,571945,9819,mikolmi01,9173
 sfzm35svdr,De Los Santos,Yerry,,1997,12,12,delosye01,21420,660787,11476,delosye01,12620
 shpt3nvvld,Povich,Cade,,2000,4,12,povicca01,30055,700249,11924,povicca01,60658
-sj139t1dn8,Teel,Kyle,,2002,2,15,,sa3022886,691019,11901,teelky01,62979
+sj139t1dn8,Teel,Kyle,,2002,2,15,teelky01,33549,691019,11901,teelky01,62979
 sjey1nz9r0,Kahnle,Tommy,,1989,8,7,kahnlto01,11384,592454,8736,kahnlto01,9653
 sjphbq4mqr,Jones,Greg,,1998,3,7,jonesgr02,25448,675659,11692,,11845
 sjxeeswjlw,Wisely,Brett,,1999,5,8,wiselbr01,27735,689172,11768,wiselbr01,12735
