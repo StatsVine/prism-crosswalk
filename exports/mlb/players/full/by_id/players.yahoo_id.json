@@ -1,4 +1,19 @@
 {
+  "12108": {
+    "prism_id": "000svvhjew",
+    "last_name": "Pop",
+    "first_name": "Zach",
+    "middle_name": null,
+    "birth_year": "1996",
+    "birth_month": "9",
+    "birth_day": "20",
+    "bbref_id": "popza01",
+    "fangraphs_id": "20185",
+    "mlbam_id": "647315",
+    "nfbc_id": "11183",
+    "sfbb_id": null,
+    "yahoo_id": "12108"
+  },
   "60341": {
     "prism_id": "015g5gcvlr",
     "last_name": "Nicolas",
@@ -9178,6 +9193,21 @@
     "nfbc_id": "9205",
     "sfbb_id": "strahma01",
     "yahoo_id": "10355"
+  },
+  "64361": {
+    "prism_id": "ev718lw96h",
+    "last_name": "Moore",
+    "first_name": "Christian",
+    "middle_name": null,
+    "birth_year": "2002",
+    "birth_month": "10",
+    "birth_day": "21",
+    "bbref_id": "moorech03",
+    "fangraphs_id": "sa3025168",
+    "mlbam_id": "695681",
+    "nfbc_id": "12194",
+    "sfbb_id": "moorech03",
+    "yahoo_id": "64361"
   },
   "10875": {
     "prism_id": "evg547wslr",
