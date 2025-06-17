@@ -392,7 +392,7 @@ prism_id,last_name,first_name,middle_name,birth_year,birth_month,birth_day,bbref
 8yhbqjl0t4,Garcia,Robert,,1996,6,14,garciro04,23363,676395,11823,garciro01,60615
 8yzs5nyhk0,Rock,Joe,,2000,7,29,,sa3017755,697812,12256,,12408
 8z3q9w99kw,Bigge,Hunter,,1998,6,12,biggehu01,26259,685801,12122,biggehu01,61839
-8z70xbxknh,House,Brady,,2003,6,4,,sa3017694,691781,11926,housebr01,12580
+8z70xbxknh,House,Brady,,2003,6,4,housebr01,29993,691781,11926,housebr01,12580
 8ztj7zg9vh,Quero,Jeferson,,2002,10,8,queroje01,sa3015407,691620,11906,queroje01,12477
 8zwrejcy38,Knizner,Andrew,,1995,2,3,kniznan01,19514,668800,10135,kniznan01,11392
 907ydx50yd,Bido,Osvaldo,,1995,10,18,bidoos01,23150,674370,11808,bidoos01,62004
@@ -742,6 +742,7 @@ hq0z56n47r,Kavadas,Niko,,1998,10,27,kavadni01,29782,694359,12157,kavadni01,60112
 hq2132fl5d,Neely,Jack,,2000,6,5,neelyja01,30106,680891,12160,,62326
 hq4p5eebk4,Alvarez,Francisco,,2001,11,19,alvarfr01,26121,682626,11118,alvarfr01,11349
 hr6kwzpep8,Jimenez,Joe,,1995,1,17,jimenjo02,15761,641729,9644,jimenjo02,10468
+hr6rkggeew,Kayfus,CJ,,2001,10,28,,sa3023068,692216,,,62758
 hr9r4x7em0,Hunt,Blake,,1998,11,10,,sa3004153,675448,11960,,12088
 hrgyj9n34r,Salazar,César,,1998,5,5,salazce01,21587,663967,11781,,61796
 hrjphg738h,Fitzgerald,Tyler,,1997,9,15,fitzgty01,26208,666149,11874,fitzgty01,61346
