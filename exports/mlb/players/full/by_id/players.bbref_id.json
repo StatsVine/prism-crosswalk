@@ -5714,7 +5714,7 @@
     "sfbb_id": "danaca01",
     "yahoo_id": "60217"
   },
-  "garciro01": {
+  "garciro04": {
     "prism_id": "8yhbqjl0t4",
     "last_name": "Garcia",
     "first_name": "Robert",
@@ -5722,7 +5722,7 @@
     "birth_year": "1996",
     "birth_month": "6",
     "birth_day": "14",
-    "bbref_id": "garciro01",
+    "bbref_id": "garciro04",
     "fangraphs_id": "23363",
     "mlbam_id": "676395",
     "nfbc_id": "11823",
@@ -8174,7 +8174,7 @@
     "sfbb_id": "dunnol01",
     "yahoo_id": "62212"
   },
-  "rodrijo01": {
+  "rodrijo10": {
     "prism_id": "dk5t0lbvxm",
     "last_name": "Rodriguez",
     "first_name": "Johnathan",
@@ -8182,7 +8182,7 @@
     "birth_year": "1999",
     "birth_month": "11",
     "birth_day": "4",
-    "bbref_id": "rodrijo01",
+    "bbref_id": "rodrijo10",
     "fangraphs_id": "22530",
     "mlbam_id": "671286",
     "nfbc_id": "10247",
@@ -11414,7 +11414,7 @@
     "sfbb_id": null,
     "yahoo_id": "61737"
   },
-  "hassero01": {
+  "hassero02": {
     "prism_id": "jpz6kqm20d",
     "last_name": "Hassell",
     "first_name": "Robert",
@@ -11422,7 +11422,7 @@
     "birth_year": "2001",
     "birth_month": "8",
     "birth_day": "15",
-    "bbref_id": "hassero01",
+    "bbref_id": "hassero02",
     "fangraphs_id": "27482",
     "mlbam_id": "690987",
     "nfbc_id": "11046",
@@ -12329,7 +12329,7 @@
     "sfbb_id": null,
     "yahoo_id": "11479"
   },
-  "harrith01": {
+  "harrito03": {
     "prism_id": "kzdcxzczcm",
     "last_name": "Harrington",
     "first_name": "Thomas",
@@ -12337,7 +12337,7 @@
     "birth_year": "2001",
     "birth_month": "7",
     "birth_day": "12",
-    "bbref_id": "harrith01",
+    "bbref_id": "harrito03",
     "fangraphs_id": "31989",
     "mlbam_id": "802419",
     "nfbc_id": "12207",
@@ -12734,7 +12734,7 @@
     "sfbb_id": "peterda01",
     "yahoo_id": "10921"
   },
-  "lopezja03": {
+  "lopezja04": {
     "prism_id": "ll5fls7g44",
     "last_name": "Lopez",
     "first_name": "Jacob",
@@ -12742,7 +12742,7 @@
     "birth_year": "1998",
     "birth_month": "3",
     "birth_day": "11",
-    "bbref_id": "lopezja03",
+    "bbref_id": "lopezja04",
     "fangraphs_id": "25098",
     "mlbam_id": "682052",
     "nfbc_id": "11841",
@@ -13378,6 +13378,21 @@
     "nfbc_id": "9792",
     "sfbb_id": "pukaj01",
     "yahoo_id": "10548"
+  },
+  "davidlo01": {
+    "prism_id": "mkz3jr8j88",
+    "last_name": "Davidson",
+    "first_name": "Logan",
+    "middle_name": null,
+    "birth_year": "1997",
+    "birth_month": "12",
+    "birth_day": "26",
+    "bbref_id": "davidlo01",
+    "fangraphs_id": "25844",
+    "mlbam_id": "669722",
+    "nfbc_id": "10858",
+    "sfbb_id": null,
+    "yahoo_id": "11810"
   },
   "kirbyge01": {
     "prism_id": "mlpf13z6g4",
@@ -14654,7 +14669,7 @@
     "sfbb_id": null,
     "yahoo_id": "12182"
   },
-  "taylosa01": {
+  "taylosa04": {
     "prism_id": "pgyl33bqx0",
     "last_name": "Taylor",
     "first_name": "Samad",
@@ -14662,7 +14677,7 @@
     "birth_year": "1998",
     "birth_month": "7",
     "birth_day": "11",
-    "bbref_id": "taylosa01",
+    "bbref_id": "taylosa04",
     "fangraphs_id": "22274",
     "mlbam_id": "669392",
     "nfbc_id": "11640",
@@ -17864,7 +17879,7 @@
     "sfbb_id": null,
     "yahoo_id": "11968"
   },
-  "smithsh01": {
+  "smithsh02": {
     "prism_id": "vm5n35ysl8",
     "last_name": "Smith",
     "first_name": "Shane",
@@ -17872,7 +17887,7 @@
     "birth_year": "2000",
     "birth_month": "4",
     "birth_day": "4",
-    "bbref_id": "smithsh01",
+    "bbref_id": "smithsh02",
     "fangraphs_id": "31687",
     "mlbam_id": "681343",
     "nfbc_id": "12305",
