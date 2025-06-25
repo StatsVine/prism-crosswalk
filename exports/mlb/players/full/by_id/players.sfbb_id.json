@@ -1784,6 +1784,21 @@
     "sfbb_id": "zuberty01",
     "yahoo_id": "11940"
   },
+  "fulmemi01": {
+    "prism_id": "382wsws0xh",
+    "last_name": "Fulmer",
+    "first_name": "Michael",
+    "middle_name": null,
+    "birth_year": "1993",
+    "birth_month": "3",
+    "birth_day": "15",
+    "bbref_id": "fulmemi01",
+    "fangraphs_id": "13218",
+    "mlbam_id": "605242",
+    "nfbc_id": "9217",
+    "sfbb_id": "fulmemi01",
+    "yahoo_id": "10179"
+  },
   "pivetni01": {
     "prism_id": "38604phjph",
     "last_name": "Pivetta",
@@ -8114,6 +8129,21 @@
     "sfbb_id": "simpsch01",
     "yahoo_id": "60420"
   },
+  "lovelri01": {
+    "prism_id": "g1552tqjcd",
+    "last_name": "Lovelady",
+    "first_name": "Richard",
+    "middle_name": null,
+    "birth_year": "1995",
+    "birth_month": "7",
+    "birth_day": "7",
+    "bbref_id": "lovelri01",
+    "fangraphs_id": "19337",
+    "mlbam_id": "663992",
+    "nfbc_id": "10525",
+    "sfbb_id": "lovelri01",
+    "yahoo_id": "10889"
+  },
   "nimmobr01": {
     "prism_id": "g2ghj8y6hr",
     "last_name": "Nimmo",
@@ -9193,6 +9223,21 @@
     "nfbc_id": "12081",
     "sfbb_id": "rivasle01",
     "yahoo_id": "11326"
+  },
+  "mccanja01": {
+    "prism_id": "hwe8pkny5m",
+    "last_name": "McCann",
+    "first_name": "James",
+    "middle_name": null,
+    "birth_year": "1990",
+    "birth_month": "6",
+    "birth_day": "13",
+    "bbref_id": "mccanja02",
+    "fangraphs_id": "12859",
+    "mlbam_id": "543510",
+    "nfbc_id": "8897",
+    "sfbb_id": "mccanja01",
+    "yahoo_id": "9818"
   },
   "rafaece01": {
     "prism_id": "hx3tjfdrw4",
