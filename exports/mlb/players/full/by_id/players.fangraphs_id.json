@@ -3599,6 +3599,21 @@
     "sfbb_id": "dejonpa01",
     "yahoo_id": "10713"
   },
+  "sa3009272": {
+    "prism_id": "58z73epxj8",
+    "last_name": "Burgos",
+    "first_name": "Juan",
+    "middle_name": null,
+    "birth_year": "1999",
+    "birth_month": "12",
+    "birth_day": "22",
+    "bbref_id": null,
+    "fangraphs_id": "sa3009272",
+    "mlbam_id": "686228",
+    "nfbc_id": "12419",
+    "sfbb_id": null,
+    "yahoo_id": "63987"
+  },
   "27582": {
     "prism_id": "5965t3n8gr",
     "last_name": "Daniel",
@@ -5909,7 +5924,7 @@
     "sfbb_id": "garciro01",
     "yahoo_id": "60615"
   },
-  "sa3017755": {
+  "30016": {
     "prism_id": "8yzs5nyhk0",
     "last_name": "Rock",
     "first_name": "Joe",
@@ -5917,8 +5932,8 @@
     "birth_year": "2000",
     "birth_month": "7",
     "birth_day": "29",
-    "bbref_id": null,
-    "fangraphs_id": "sa3017755",
+    "bbref_id": "rockjo01",
+    "fangraphs_id": "30016",
     "mlbam_id": "697812",
     "nfbc_id": "12256",
     "sfbb_id": null,
@@ -18553,6 +18568,21 @@
     "nfbc_id": "10187",
     "sfbb_id": "halldl01",
     "yahoo_id": "10848"
+  },
+  "16128": {
+    "prism_id": "vf0w8e6ppd",
+    "last_name": "Curtiss",
+    "first_name": "John",
+    "middle_name": null,
+    "birth_year": "1993",
+    "birth_month": "4",
+    "birth_day": "5",
+    "bbref_id": "curtijo02",
+    "fangraphs_id": "16128",
+    "mlbam_id": "595928",
+    "nfbc_id": "9733",
+    "sfbb_id": "curtijo02",
+    "yahoo_id": "10793"
   },
   "sa3015346": {
     "prism_id": "vfjnl3d444",

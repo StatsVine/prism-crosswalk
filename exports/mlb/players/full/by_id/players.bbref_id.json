@@ -5774,6 +5774,21 @@
     "sfbb_id": "garciro01",
     "yahoo_id": "60615"
   },
+  "rockjo01": {
+    "prism_id": "8yzs5nyhk0",
+    "last_name": "Rock",
+    "first_name": "Joe",
+    "middle_name": null,
+    "birth_year": "2000",
+    "birth_month": "7",
+    "birth_day": "29",
+    "bbref_id": "rockjo01",
+    "fangraphs_id": "30016",
+    "mlbam_id": "697812",
+    "nfbc_id": "12256",
+    "sfbb_id": null,
+    "yahoo_id": "12408"
+  },
   "biggehu01": {
     "prism_id": "8z3q9w99kw",
     "last_name": "Bigge",
@@ -17998,6 +18013,21 @@
     "nfbc_id": "10187",
     "sfbb_id": "halldl01",
     "yahoo_id": "10848"
+  },
+  "curtijo02": {
+    "prism_id": "vf0w8e6ppd",
+    "last_name": "Curtiss",
+    "first_name": "John",
+    "middle_name": null,
+    "birth_year": "1993",
+    "birth_month": "4",
+    "birth_day": "5",
+    "bbref_id": "curtijo02",
+    "fangraphs_id": "16128",
+    "mlbam_id": "595928",
+    "nfbc_id": "9733",
+    "sfbb_id": "curtijo02",
+    "yahoo_id": "10793"
   },
   "waldrma01": {
     "prism_id": "vh85sl4gf4",
