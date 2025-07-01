@@ -9224,6 +9224,21 @@
     "sfbb_id": "hurtky01",
     "yahoo_id": "60237"
   },
+  "basalsa01": {
+    "prism_id": "hw0ztwkztr",
+    "last_name": "Basallo",
+    "first_name": "Samuel",
+    "middle_name": null,
+    "birth_year": "2004",
+    "birth_month": "11",
+    "birth_day": "9",
+    "bbref_id": null,
+    "fangraphs_id": "sa3015716",
+    "mlbam_id": "694212",
+    "nfbc_id": "12039",
+    "sfbb_id": "basalsa01",
+    "yahoo_id": "60092"
+  },
   "yohocr01": {
     "prism_id": "hwc5l3g8pd",
     "last_name": "Yoho",
@@ -13769,6 +13784,21 @@
     "sfbb_id": "irvinja01",
     "yahoo_id": "11560"
   },
+  "thomaco03": {
+    "prism_id": "rjcjn7jlt4",
+    "last_name": "Thomas",
+    "first_name": "Colby",
+    "middle_name": null,
+    "birth_year": "2001",
+    "birth_month": "1",
+    "birth_day": "26",
+    "bbref_id": "thomaco03",
+    "fangraphs_id": "31855",
+    "mlbam_id": "687515",
+    "nfbc_id": "12199",
+    "sfbb_id": "thomaco03",
+    "yahoo_id": "60311"
+  },
   "friedma01": {
     "prism_id": "rmqx02kh0h",
     "last_name": "Fried",
@@ -17113,6 +17143,21 @@
     "nfbc_id": "11055",
     "sfbb_id": "grovemi01",
     "yahoo_id": "11332"
+  },
+  "hartlge01": {
+    "prism_id": "yxrv54hzg8",
+    "last_name": "Hartlieb",
+    "first_name": "Geoff",
+    "middle_name": null,
+    "birth_year": "1993",
+    "birth_month": "12",
+    "birth_day": "9",
+    "bbref_id": "hartlge01",
+    "fangraphs_id": "19558",
+    "mlbam_id": "664129",
+    "nfbc_id": "10623",
+    "sfbb_id": "hartlge01",
+    "yahoo_id": "11587"
   },
   "eatonna01": {
     "prism_id": "yzqgs6pggr",
