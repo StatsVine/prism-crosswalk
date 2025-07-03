@@ -1196,6 +1196,15 @@
     "sfbb_id": "jacobal01",
     "yahoo_id": "60360"
   },
+  "mckinbi01": {
+    "prism_id": "3k2bx7y1x4",
+    "bbref_id": "mckinbi01",
+    "fangraphs_id": "15654",
+    "mlbam_id": "641856",
+    "nfbc_id": "8939",
+    "sfbb_id": "mckinbi01",
+    "yahoo_id": "9860"
+  },
   "gratebr01": {
     "prism_id": "3ltz5fzh50",
     "bbref_id": "gratebr01",
@@ -7936,6 +7945,15 @@
     "nfbc_id": "12180",
     "sfbb_id": "cookbi01",
     "yahoo_id": "62430"
+  },
+  "nolaau01": {
+    "prism_id": "qdhdpz20qd",
+    "bbref_id": "nolaau01",
+    "fangraphs_id": "15941",
+    "mlbam_id": "543592",
+    "nfbc_id": "9504",
+    "sfbb_id": "nolaau01",
+    "yahoo_id": "11599"
   },
   "kerkeor01": {
     "prism_id": "qj8x9ke8nw",
