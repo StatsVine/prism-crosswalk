@@ -793,8 +793,8 @@
   },
   {
     "prism_id": "1rmvfxw37r",
-    "bbref_id": null,
-    "fangraphs_id": "sa3014716",
+    "bbref_id": "laraan01",
+    "fangraphs_id": "27967",
     "mlbam_id": "691251",
     "nfbc_id": "12261",
     "sfbb_id": null,
@@ -928,8 +928,8 @@
   },
   {
     "prism_id": "292ge5lh1w",
-    "bbref_id": null,
-    "fangraphs_id": "sa3015648",
+    "bbref_id": "fernaya01",
+    "fangraphs_id": "28552",
     "mlbam_id": "692585",
     "nfbc_id": "12219",
     "sfbb_id": null,
@@ -1042,6 +1042,15 @@
     "nfbc_id": "8775",
     "sfbb_id": "rayro02",
     "yahoo_id": "9691"
+  },
+  {
+    "prism_id": "2lw0b7kd9d",
+    "bbref_id": "woodfja01",
+    "fangraphs_id": "18674",
+    "mlbam_id": "663765",
+    "nfbc_id": "10772",
+    "sfbb_id": "woodfja01",
+    "yahoo_id": "11542"
   },
   {
     "prism_id": "2m0ekqhq10",
@@ -1564,6 +1573,15 @@
     "nfbc_id": "12359",
     "sfbb_id": null,
     "yahoo_id": "63027"
+  },
+  {
+    "prism_id": "3zyze3pnf8",
+    "bbref_id": null,
+    "fangraphs_id": "sa3005471",
+    "mlbam_id": "681751",
+    "nfbc_id": "12422",
+    "sfbb_id": null,
+    "yahoo_id": "65106"
   },
   {
     "prism_id": "400hzjq370",
@@ -2149,6 +2167,15 @@
     "nfbc_id": "12414",
     "sfbb_id": null,
     "yahoo_id": "65132"
+  },
+  {
+    "prism_id": "584erhpf38",
+    "bbref_id": "graytr01",
+    "fangraphs_id": "19877",
+    "mlbam_id": "656484",
+    "nfbc_id": "10952",
+    "sfbb_id": null,
+    "yahoo_id": "61782"
   },
   {
     "prism_id": "5870vy4t98",
@@ -3773,7 +3800,7 @@
   {
     "prism_id": "991ydx34nd",
     "bbref_id": "montgco01",
-    "fangraphs_id": "sa3017170",
+    "fangraphs_id": "29712",
     "mlbam_id": "695657",
     "nfbc_id": "11892",
     "sfbb_id": "montgco01",
@@ -4003,6 +4030,15 @@
     "nfbc_id": "10838",
     "sfbb_id": "bledajj01",
     "yahoo_id": "11782"
+  },
+  {
+    "prism_id": "9y8e89cwmd",
+    "bbref_id": "shortza01",
+    "fangraphs_id": "19562",
+    "mlbam_id": "670097",
+    "nfbc_id": "10776",
+    "sfbb_id": "shortza01",
+    "yahoo_id": "11438"
   },
   {
     "prism_id": "9yxhj2nv9d",
@@ -4275,6 +4311,15 @@
     "yahoo_id": "11324"
   },
   {
+    "prism_id": "bhe2ftz4bd",
+    "bbref_id": "garciri01",
+    "fangraphs_id": "20023",
+    "mlbam_id": "670329",
+    "nfbc_id": "10678",
+    "sfbb_id": null,
+    "yahoo_id": "11453"
+  },
+  {
     "prism_id": "bhyr7dwtdw",
     "bbref_id": null,
     "fangraphs_id": "sa3017639",
@@ -4336,6 +4381,15 @@
     "nfbc_id": "8225",
     "sfbb_id": "rendoan01",
     "yahoo_id": "9106"
+  },
+  {
+    "prism_id": "bnwdhh11nm",
+    "bbref_id": "martico02",
+    "fangraphs_id": "19884",
+    "mlbam_id": "656686",
+    "nfbc_id": "10170",
+    "sfbb_id": "martico02",
+    "yahoo_id": "11316"
   },
   {
     "prism_id": "bp2s6zdbv4",
@@ -8370,6 +8424,15 @@
     "yahoo_id": "11235"
   },
   {
+    "prism_id": "mjnvvngmtm",
+    "bbref_id": "jacqujo01",
+    "fangraphs_id": "25178",
+    "mlbam_id": "682175",
+    "nfbc_id": "11806",
+    "sfbb_id": null,
+    "yahoo_id": "61871"
+  },
+  {
     "prism_id": "mkb1mh7878",
     "bbref_id": null,
     "fangraphs_id": "sa3009845",
@@ -9630,6 +9693,15 @@
     "yahoo_id": "11599"
   },
   {
+    "prism_id": "qgtts42snm",
+    "bbref_id": "stevech02",
+    "fangraphs_id": "29614",
+    "mlbam_id": "677060",
+    "nfbc_id": "12093",
+    "sfbb_id": null,
+    "yahoo_id": "62197"
+  },
+  {
     "prism_id": "qj8x9ke8nw",
     "bbref_id": "kerkeor01",
     "fangraphs_id": "31776",
@@ -10216,8 +10288,8 @@
   },
   {
     "prism_id": "s4h64n1nz8",
-    "bbref_id": null,
-    "fangraphs_id": "sa3006894",
+    "bbref_id": "seiglan01",
+    "fangraphs_id": "23802",
     "mlbam_id": "678011",
     "nfbc_id": "10136",
     "sfbb_id": null,
@@ -11212,6 +11284,15 @@
     "nfbc_id": "12264",
     "sfbb_id": null,
     "yahoo_id": "64773"
+  },
+  {
+    "prism_id": "vgqzke5kkr",
+    "bbref_id": "nunezed03",
+    "fangraphs_id": "23162",
+    "mlbam_id": "674384",
+    "nfbc_id": "12421",
+    "sfbb_id": null,
+    "yahoo_id": "64804"
   },
   {
     "prism_id": "vh85sl4gf4",
