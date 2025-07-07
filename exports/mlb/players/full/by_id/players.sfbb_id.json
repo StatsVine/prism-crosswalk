@@ -2144,6 +2144,21 @@
     "sfbb_id": "gentrty01",
     "yahoo_id": "60202"
   },
+  "taylogr01": {
+    "prism_id": "3zszjj1jwd",
+    "last_name": "Taylor",
+    "first_name": "Grant",
+    "middle_name": "Alan",
+    "birth_year": "2002",
+    "birth_month": "5",
+    "birth_day": "20",
+    "bbref_id": "taylogr02",
+    "fangraphs_id": "33927",
+    "mlbam_id": "691799",
+    "nfbc_id": "12359",
+    "sfbb_id": "taylogr01",
+    "yahoo_id": "63027"
+  },
   "boylejo01": {
     "prism_id": "400hzjq370",
     "last_name": "Boyle",
@@ -5234,6 +5249,21 @@
     "sfbb_id": "happia01",
     "yahoo_id": "10440"
   },
+  "chaveje01": {
+    "prism_id": "9vs6y16wsw",
+    "last_name": "Chavez",
+    "first_name": "Jesse",
+    "middle_name": null,
+    "birth_year": "1983",
+    "birth_month": "8",
+    "birth_day": "21",
+    "bbref_id": "chaveje01",
+    "fangraphs_id": "5448",
+    "mlbam_id": "445926",
+    "nfbc_id": "6704",
+    "sfbb_id": "chaveje01",
+    "yahoo_id": "8334"
+  },
   "freelky01": {
     "prism_id": "9vve1j1b1m",
     "last_name": "Freeland",
@@ -7678,6 +7708,21 @@
     "nfbc_id": "10286",
     "sfbb_id": "thaisma01",
     "yahoo_id": "10497"
+  },
+  "jacksal02": {
+    "prism_id": "eyqqfrkbg4",
+    "last_name": "Jackson",
+    "first_name": "Alex",
+    "middle_name": null,
+    "birth_year": "1995",
+    "birth_month": "12",
+    "birth_day": "25",
+    "bbref_id": "jacksal02",
+    "fangraphs_id": "17276",
+    "mlbam_id": "656577",
+    "nfbc_id": "8963",
+    "sfbb_id": "jacksal02",
+    "yahoo_id": "9885"
   },
   "topaju01": {
     "prism_id": "f0qfbzshjr",

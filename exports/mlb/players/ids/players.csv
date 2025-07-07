@@ -173,8 +173,8 @@ prism_id,last_name,first_name,middle_name,birth_year,birth_month,birth_day,bbref
 3y4rkw9vfh,,,,,,,willibe03,33197,810938,12377,,63132
 3ykjfmdjz4,,,,,,,ravejo01,26284,670231,12400,,61619
 3zcxdy3m8r,,,,,,,gentrty01,27784,694355,11602,gentrty01,60202
-3zszjj1jwd,,,,,,,taylogr02,33927,691799,12359,,63027
-3zyze3pnf8,,,,,,,,sa3005471,681751,12422,,65106
+3zszjj1jwd,,,,,,,taylogr02,33927,691799,12359,taylogr01,63027
+3zyze3pnf8,,,,,,,estrala01,24914,681751,12422,,65106
 400hzjq370,,,,,,,boylejo01,29608,671212,11868,boylejo01,60134
 42vf8vpsh0,,,,,,,profaju01,10815,595777,8228,profaju01,9112
 4351wfzy5m,,,,,,,,sa3015952,692437,12291,,63638
@@ -438,6 +438,7 @@ prism_id,last_name,first_name,middle_name,birth_year,birth_month,birth_day,bbref
 9ph0nfhl60,,,,,,,churcma01,26353,687847,11993,churcma01,60438
 9refvm9dtw,,,,,,,parkemi01,27636,680730,11970,parkemi01,12585
 9sc7mz3w3m,,,,,,,happia01,17919,664023,9655,happia01,10440
+9vs6y16wsw,,,,,,,chaveje01,5448,445926,6704,chaveje01,8334
 9vve1j1b1m,,,,,,,freelky01,16256,607536,8941,freelky01,9863
 9w1syb9g3d,,,,,,,hoeinbr01,26304,663773,11541,hoeinbr01,12677
 9w8ncvdhfr,,,,,,,cobbal01,6562,502171,8058,cobbal01,8918
@@ -633,6 +634,7 @@ ev718lw96h,,,,,,,moorech03,34979,695681,12194,moorech03,64361
 evg547wslr,,,,,,,viladry01,22165,668723,10324,viladry01,10875
 evvm4j88yw,,,,,,,soderty01,27467,691016,11071,soderty01,12005
 exhrkqwy38,,,,,,,thaisma01,19318,642136,10286,thaisma01,10497
+eyqqfrkbg4,,,,,,,jacksal02,17276,656577,8963,jacksal02,9885
 eyzwkfztcm,,,,,,,sanchal04,18551,645305,10752,,11676
 f0qfbzshjr,,,,,,,topaju01,15145,623437,11126,topaju01,12067
 f13mk75dj8,,,,,,,kurtzni01,35110,701762,12222,kurtzni01,64313
@@ -819,7 +821,7 @@ jynr4fq7rw,,,,,,,perkija01,31468,678022,12345,,62461
 jzxfskxexm,,,,,,,freemty01,22532,671289,10356,freemty01,11754
 k0kzm1sfgm,,,,,,,kellebr01,15734,641745,9936,kellebr01,10418
 k0rgcgce90,,,,,,,rodriju01,23697,677594,10260,rodriju01,11384
-k0x9x9ysjh,,,,,,,,sa3017991,701519,12284,,64814
+k0x9x9ysjh,,,,,,,adamstr01,30180,701519,12284,,64814
 k19gded898,,,,,,,schrejo01,20020,670167,9986,schrejo01,11634
 k2tg2qkgf4,,,,,,,saggeth01,27883,695336,11895,saggeth01,60431
 k2y9l8tcjh,,,,,,,britoju02,sa3009808,682877,11773,britoju02,12734
@@ -928,6 +930,7 @@ m6btwlx46m,,,,,,,siskev01,24995,681895,12239,,60569
 m6nm0n0zyw,,,,,,,helmami01,24605,680737,10608,,60276
 m7t494bs3d,,,,,,,burkebr01,17968,656271,10483,burkebr01,11241
 m9cp932gqh,,,,,,,medinlu02,21649,665622,10280,medinlu02,11354
+m9dcywnyrm,,,,,,,,sa876328,663536,12424,,61859
 mdx9n2mv08,,,,,,,varshda01,19918,662139,10180,varshda01,10843
 mekbydqmfw,,,,,,,refsnro01,13770,608701,8929,refsnro01,9851
 mepd7l2b1w,,,,,,,sosaed01,17022,624641,9557,sosaed01,10594
@@ -996,6 +999,7 @@ nnfe21j10h,,,,,,,thomaal01,23792,677950,10126,thomaal01,11267
 nph8ql4n0r,,,,,,,luciama01,25616,682617,10415,luciama01,11388
 npxcq4qv3r,,,,,,,degeubr01,23592,676969,11072,degeubr01,12032
 nqh6jhwzxw,,,,,,,grishtr01,18564,663757,10658,grishtr01,10522
+nrdrnyhtx4,,,,,,,,sa3007223,676571,12423,,62678
 nt7wqcw50r,,,,,,,lowejo01,19953,666139,10254,lowejo01,10601
 nvzxjzbhlr,,,,,,,campulu01,22217,669134,11043,campulu01,11527
 nw61lv5hd4,,,,,,,blackpa01,14739,621112,9578,blackpa01,10756
@@ -1107,7 +1111,7 @@ r615784ler,,,,,,,hendegu01,26289,683002,11108,hendegu01,11731
 r6mm18d1rm,,,,,,,shewmbr01,25817,669699,10848,shewmbr01,11729
 r7zd3dkgym,,,,,,,reyespa01,16357,622569,10098,reyespa01,11153
 r8bj7lfsgh,,,,,,,stoweky01,26151,669065,11414,stoweky01,11733
-r8ee5y7w68,,,,,,,,sa3007621,682144,12412,,63714
+r8ee5y7w68,,,,,,,sandrja01,25158,682144,12412,,63714
 r8q3t44xzw,,,,,,,meyerma01,27474,676974,10832,meyerma01,12015
 r9p13hzbkw,,,,,,,haaseer01,14111,606992,9831,haaseer01,11077
 r9ygrfp4k0,,,,,,,capravi01,25040,681962,11460,capravi01,12607

@@ -1571,13 +1571,13 @@
     "fangraphs_id": "33927",
     "mlbam_id": "691799",
     "nfbc_id": "12359",
-    "sfbb_id": null,
+    "sfbb_id": "taylogr01",
     "yahoo_id": "63027"
   },
   "12422": {
     "prism_id": "3zyze3pnf8",
-    "bbref_id": null,
-    "fangraphs_id": "sa3005471",
+    "bbref_id": "estrala01",
+    "fangraphs_id": "24914",
     "mlbam_id": "681751",
     "nfbc_id": "12422",
     "sfbb_id": null,
@@ -3941,6 +3941,15 @@
     "sfbb_id": "happia01",
     "yahoo_id": "10440"
   },
+  "6704": {
+    "prism_id": "9vs6y16wsw",
+    "bbref_id": "chaveje01",
+    "fangraphs_id": "5448",
+    "mlbam_id": "445926",
+    "nfbc_id": "6704",
+    "sfbb_id": "chaveje01",
+    "yahoo_id": "8334"
+  },
   "8941": {
     "prism_id": "9vve1j1b1m",
     "bbref_id": "freelky01",
@@ -5696,6 +5705,15 @@
     "sfbb_id": "thaisma01",
     "yahoo_id": "10497"
   },
+  "8963": {
+    "prism_id": "eyqqfrkbg4",
+    "bbref_id": "jacksal02",
+    "fangraphs_id": "17276",
+    "mlbam_id": "656577",
+    "nfbc_id": "8963",
+    "sfbb_id": "jacksal02",
+    "yahoo_id": "9885"
+  },
   "10752": {
     "prism_id": "eyzwkfztcm",
     "bbref_id": "sanchal04",
@@ -7363,8 +7381,8 @@
   },
   "12284": {
     "prism_id": "k0x9x9ysjh",
-    "bbref_id": null,
-    "fangraphs_id": "sa3017991",
+    "bbref_id": "adamstr01",
+    "fangraphs_id": "30180",
     "mlbam_id": "701519",
     "nfbc_id": "12284",
     "sfbb_id": null,
@@ -8342,6 +8360,15 @@
     "sfbb_id": "medinlu02",
     "yahoo_id": "11354"
   },
+  "12424": {
+    "prism_id": "m9dcywnyrm",
+    "bbref_id": null,
+    "fangraphs_id": "sa876328",
+    "mlbam_id": "663536",
+    "nfbc_id": "12424",
+    "sfbb_id": null,
+    "yahoo_id": "61859"
+  },
   "10180": {
     "prism_id": "mdx9n2mv08",
     "bbref_id": "varshda01",
@@ -8953,6 +8980,15 @@
     "nfbc_id": "10658",
     "sfbb_id": "grishtr01",
     "yahoo_id": "10522"
+  },
+  "12423": {
+    "prism_id": "nrdrnyhtx4",
+    "bbref_id": null,
+    "fangraphs_id": "sa3007223",
+    "mlbam_id": "676571",
+    "nfbc_id": "12423",
+    "sfbb_id": null,
+    "yahoo_id": "62678"
   },
   "10254": {
     "prism_id": "nt7wqcw50r",
@@ -9955,8 +9991,8 @@
   },
   "12412": {
     "prism_id": "r8ee5y7w68",
-    "bbref_id": null,
-    "fangraphs_id": "sa3007621",
+    "bbref_id": "sandrja01",
+    "fangraphs_id": "25158",
     "mlbam_id": "682144",
     "nfbc_id": "12412",
     "sfbb_id": null,
