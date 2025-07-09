@@ -8270,6 +8270,15 @@
     "sfbb_id": null,
     "yahoo_id": "61871"
   },
+  "coronke01": {
+    "prism_id": "mkb1mh7878",
+    "bbref_id": "coronke01",
+    "fangraphs_id": "26244",
+    "mlbam_id": "685744",
+    "nfbc_id": "11995",
+    "sfbb_id": null,
+    "yahoo_id": "61684"
+  },
   "oberba01": {
     "prism_id": "mkcnspn9h8",
     "bbref_id": "oberba01",
@@ -9727,6 +9736,15 @@
     "nfbc_id": "10848",
     "sfbb_id": "shewmbr01",
     "yahoo_id": "11729"
+  },
+  "campbis01": {
+    "prism_id": "r6yy5dgt6m",
+    "bbref_id": "campbis01",
+    "fangraphs_id": "25551",
+    "mlbam_id": "663462",
+    "nfbc_id": "10871",
+    "sfbb_id": null,
+    "yahoo_id": "11825"
   },
   "reyespa01": {
     "prism_id": "r7zd3dkgym",

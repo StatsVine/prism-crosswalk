@@ -6479,6 +6479,21 @@
     "sfbb_id": "delauch01",
     "yahoo_id": "60138"
   },
+  "sa3011878": {
+    "prism_id": "9hjsxnzc9w",
+    "last_name": "Carrillo",
+    "first_name": "Alex",
+    "middle_name": null,
+    "birth_year": "1997",
+    "birth_month": "6",
+    "birth_day": "6",
+    "bbref_id": null,
+    "fangraphs_id": "sa3011878",
+    "mlbam_id": "692024",
+    "nfbc_id": "12426",
+    "sfbb_id": null,
+    "yahoo_id": "65995"
+  },
   "27608": {
     "prism_id": "9j2qb0zee8",
     "last_name": "Criswell",
@@ -14129,7 +14144,7 @@
     "sfbb_id": null,
     "yahoo_id": "61871"
   },
-  "sa3009845": {
+  "26244": {
     "prism_id": "mkb1mh7878",
     "last_name": "Corona",
     "first_name": "Kenedy",
@@ -14137,8 +14152,8 @@
     "birth_year": "2000",
     "birth_month": "3",
     "birth_day": "21",
-    "bbref_id": null,
-    "fangraphs_id": "sa3009845",
+    "bbref_id": "coronke01",
+    "fangraphs_id": "26244",
     "mlbam_id": "685744",
     "nfbc_id": "11995",
     "sfbb_id": null,
@@ -16663,6 +16678,21 @@
     "nfbc_id": "10848",
     "sfbb_id": "shewmbr01",
     "yahoo_id": "11729"
+  },
+  "25551": {
+    "prism_id": "r6yy5dgt6m",
+    "last_name": "Campbell",
+    "first_name": "Isaiah",
+    "middle_name": null,
+    "birth_year": "1997",
+    "birth_month": "8",
+    "birth_day": "15",
+    "bbref_id": "campbis01",
+    "fangraphs_id": "25551",
+    "mlbam_id": "663462",
+    "nfbc_id": "10871",
+    "sfbb_id": null,
+    "yahoo_id": "11825"
   },
   "16357": {
     "prism_id": "r7zd3dkgym",
@@ -20593,6 +20623,21 @@
     "nfbc_id": "9860",
     "sfbb_id": "litteza01",
     "yahoo_id": "11035"
+  },
+  "sa1170010": {
+    "prism_id": "xv4ghztfjd",
+    "last_name": "Devanney",
+    "first_name": "Cam",
+    "middle_name": null,
+    "birth_year": "1997",
+    "birth_month": "4",
+    "birth_day": "13",
+    "bbref_id": null,
+    "fangraphs_id": "sa1170010",
+    "mlbam_id": "687478",
+    "nfbc_id": "12425",
+    "sfbb_id": null,
+    "yahoo_id": "61743"
   },
   "31781": {
     "prism_id": "xwfenvbp4w",

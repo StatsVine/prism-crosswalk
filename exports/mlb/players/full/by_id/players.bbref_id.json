@@ -13784,6 +13784,21 @@
     "sfbb_id": null,
     "yahoo_id": "61871"
   },
+  "coronke01": {
+    "prism_id": "mkb1mh7878",
+    "last_name": "Corona",
+    "first_name": "Kenedy",
+    "middle_name": null,
+    "birth_year": "2000",
+    "birth_month": "3",
+    "birth_day": "21",
+    "bbref_id": "coronke01",
+    "fangraphs_id": "26244",
+    "mlbam_id": "685744",
+    "nfbc_id": "11995",
+    "sfbb_id": null,
+    "yahoo_id": "61684"
+  },
   "oberba01": {
     "prism_id": "mkcnspn9h8",
     "last_name": "Ober",
@@ -16213,6 +16228,21 @@
     "nfbc_id": "10848",
     "sfbb_id": "shewmbr01",
     "yahoo_id": "11729"
+  },
+  "campbis01": {
+    "prism_id": "r6yy5dgt6m",
+    "last_name": "Campbell",
+    "first_name": "Isaiah",
+    "middle_name": null,
+    "birth_year": "1997",
+    "birth_month": "8",
+    "birth_day": "15",
+    "bbref_id": "campbis01",
+    "fangraphs_id": "25551",
+    "mlbam_id": "663462",
+    "nfbc_id": "10871",
+    "sfbb_id": null,
+    "yahoo_id": "11825"
   },
   "reyespa01": {
     "prism_id": "r7zd3dkgym",
