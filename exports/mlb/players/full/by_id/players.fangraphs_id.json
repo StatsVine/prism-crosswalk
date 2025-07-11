@@ -8384,6 +8384,21 @@
     "sfbb_id": "reynobr01",
     "yahoo_id": "10577"
   },
+  "23250": {
+    "prism_id": "d5v76sfd10",
+    "last_name": "Bañuelos",
+    "first_name": "David",
+    "middle_name": null,
+    "birth_year": "1996",
+    "birth_month": "10",
+    "birth_day": "1",
+    "bbref_id": "banueda01",
+    "fangraphs_id": "23250",
+    "mlbam_id": "675915",
+    "nfbc_id": "12079",
+    "sfbb_id": null,
+    "yahoo_id": "61673"
+  },
   "19608": {
     "prism_id": "d5x9wp1yz0",
     "last_name": "Lopez",
@@ -9989,7 +10004,7 @@
     "sfbb_id": "jungja01",
     "yahoo_id": "60170"
   },
-  "sa3021981": {
+  "32095": {
     "prism_id": "fltvqr6n8h",
     "last_name": "Schlittler",
     "first_name": "Cam",
@@ -9997,8 +10012,8 @@
     "birth_year": "2001",
     "birth_month": "2",
     "birth_day": "5",
-    "bbref_id": null,
-    "fangraphs_id": "sa3021981",
+    "bbref_id": "schlica01",
+    "fangraphs_id": "32095",
     "mlbam_id": "693645",
     "nfbc_id": "12361",
     "sfbb_id": null,
@@ -14024,7 +14039,7 @@
     "sfbb_id": "medinlu02",
     "yahoo_id": "11354"
   },
-  "sa876328": {
+  "26148": {
     "prism_id": "m9dcywnyrm",
     "last_name": "English",
     "first_name": "Tristin",
@@ -14032,8 +14047,8 @@
     "birth_year": "1997",
     "birth_month": "5",
     "birth_day": "14",
-    "bbref_id": null,
-    "fangraphs_id": "sa876328",
+    "bbref_id": "englitr01",
+    "fangraphs_id": "26148",
     "mlbam_id": "663536",
     "nfbc_id": "12424",
     "sfbb_id": null,

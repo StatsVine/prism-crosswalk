@@ -5021,6 +5021,15 @@
     "sfbb_id": "reynobr01",
     "yahoo_id": "10577"
   },
+  "12079": {
+    "prism_id": "d5v76sfd10",
+    "bbref_id": "banueda01",
+    "fangraphs_id": "23250",
+    "mlbam_id": "675915",
+    "nfbc_id": "12079",
+    "sfbb_id": null,
+    "yahoo_id": "61673"
+  },
   "10422": {
     "prism_id": "d5x9wp1yz0",
     "bbref_id": "lopezot01",
@@ -5986,8 +5995,8 @@
   },
   "12361": {
     "prism_id": "fltvqr6n8h",
-    "bbref_id": null,
-    "fangraphs_id": "sa3021981",
+    "bbref_id": "schlica01",
+    "fangraphs_id": "32095",
     "mlbam_id": "693645",
     "nfbc_id": "12361",
     "sfbb_id": null,
@@ -8398,8 +8407,8 @@
   },
   "12424": {
     "prism_id": "m9dcywnyrm",
-    "bbref_id": null,
-    "fangraphs_id": "sa876328",
+    "bbref_id": "englitr01",
+    "fangraphs_id": "26148",
     "mlbam_id": "663536",
     "nfbc_id": "12424",
     "sfbb_id": null,
