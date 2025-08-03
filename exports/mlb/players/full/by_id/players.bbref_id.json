@@ -5399,6 +5399,21 @@
     "sfbb_id": "gracego01",
     "yahoo_id": "60394"
   },
+  "marseja01": {
+    "prism_id": "80m8ct4tf0",
+    "last_name": "Marsee",
+    "first_name": "Jakob",
+    "middle_name": null,
+    "birth_year": "2001",
+    "birth_month": "6",
+    "birth_day": "28",
+    "bbref_id": "marseja01",
+    "fangraphs_id": "31370",
+    "mlbam_id": "805300",
+    "nfbc_id": "11939",
+    "sfbb_id": "marseja01",
+    "yahoo_id": "62119"
+  },
   "myersda01": {
     "prism_id": "80vlvlt3em",
     "last_name": "Myers",
@@ -7409,6 +7424,21 @@
     "sfbb_id": "altuvjo01",
     "yahoo_id": "8996"
   },
+  "teodobr01": {
+    "prism_id": "bqpk6wnx7m",
+    "last_name": "Teodosio",
+    "first_name": "Bryce",
+    "middle_name": null,
+    "birth_year": "1999",
+    "birth_month": "6",
+    "birth_day": "18",
+    "bbref_id": "teodobr01",
+    "fangraphs_id": "29524",
+    "mlbam_id": "669326",
+    "nfbc_id": "12178",
+    "sfbb_id": null,
+    "yahoo_id": "61559"
+  },
   "sosale01": {
     "prism_id": "brt3mhm03w",
     "last_name": "Sosa",
@@ -8183,7 +8213,7 @@
     "birth_month": "6",
     "birth_day": "26",
     "bbref_id": "darnedu01",
-    "fangraphs_id": "sa3014876",
+    "fangraphs_id": "27812",
     "mlbam_id": "699911",
     "nfbc_id": "12433",
     "sfbb_id": null,
@@ -9503,7 +9533,7 @@
     "birth_month": "9",
     "birth_day": "24",
     "bbref_id": "morallu01",
-    "fangraphs_id": "sa3021487",
+    "fangraphs_id": "32227",
     "mlbam_id": "806960",
     "nfbc_id": "12434",
     "sfbb_id": null,
@@ -16588,6 +16618,21 @@
     "nfbc_id": "8602",
     "sfbb_id": "semiema01",
     "yahoo_id": "9517"
+  },
+  "jacksje02": {
+    "prism_id": "r0k8yb38xw",
+    "last_name": "Jackson",
+    "first_name": "Jeremiah",
+    "middle_name": null,
+    "birth_year": "2000",
+    "birth_month": "3",
+    "birth_day": "26",
+    "bbref_id": "jacksje02",
+    "fangraphs_id": "22239",
+    "mlbam_id": "669236",
+    "nfbc_id": "10234",
+    "sfbb_id": null,
+    "yahoo_id": "11325"
   },
   "chishja01": {
     "prism_id": "r16fl66vyd",

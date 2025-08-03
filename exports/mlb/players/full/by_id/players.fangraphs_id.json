@@ -5489,7 +5489,7 @@
     "sfbb_id": null,
     "yahoo_id": null
   },
-  "sa3019868": {
+  "31370": {
     "prism_id": "80m8ct4tf0",
     "last_name": "Marsee",
     "first_name": "Jakob",
@@ -5497,8 +5497,8 @@
     "birth_year": "2001",
     "birth_month": "6",
     "birth_day": "28",
-    "bbref_id": null,
-    "fangraphs_id": "sa3019868",
+    "bbref_id": "marseja01",
+    "fangraphs_id": "31370",
     "mlbam_id": "805300",
     "nfbc_id": "11939",
     "sfbb_id": "marseja01",
@@ -7559,6 +7559,21 @@
     "sfbb_id": "altuvjo01",
     "yahoo_id": "8996"
   },
+  "29524": {
+    "prism_id": "bqpk6wnx7m",
+    "last_name": "Teodosio",
+    "first_name": "Bryce",
+    "middle_name": null,
+    "birth_year": "1999",
+    "birth_month": "6",
+    "birth_day": "18",
+    "bbref_id": "teodobr01",
+    "fangraphs_id": "29524",
+    "mlbam_id": "669326",
+    "nfbc_id": "12178",
+    "sfbb_id": null,
+    "yahoo_id": "61559"
+  },
   "sa3014922": {
     "prism_id": "br864lsvrw",
     "last_name": "Ragsdale",
@@ -8339,7 +8354,7 @@
     "sfbb_id": "stonega01",
     "yahoo_id": "60231"
   },
-  "sa3014876": {
+  "27812": {
     "prism_id": "czqqhvsynd",
     "last_name": "Darnell",
     "first_name": "Dugan",
@@ -8348,7 +8363,7 @@
     "birth_month": "6",
     "birth_day": "26",
     "bbref_id": "darnedu01",
-    "fangraphs_id": "sa3014876",
+    "fangraphs_id": "27812",
     "mlbam_id": "699911",
     "nfbc_id": "12433",
     "sfbb_id": null,
@@ -9689,7 +9704,7 @@
     "sfbb_id": "urshegi01",
     "yahoo_id": "9991"
   },
-  "sa3021487": {
+  "32227": {
     "prism_id": "er8x183ztr",
     "last_name": "Morales",
     "first_name": "Luis",
@@ -9698,7 +9713,7 @@
     "birth_month": "9",
     "birth_day": "24",
     "bbref_id": "morallu01",
-    "fangraphs_id": "sa3021487",
+    "fangraphs_id": "32227",
     "mlbam_id": "806960",
     "nfbc_id": "12434",
     "sfbb_id": null,
@@ -17054,7 +17069,7 @@
     "sfbb_id": "semiema01",
     "yahoo_id": "9517"
   },
-  "sa3007740": {
+  "22239": {
     "prism_id": "r0k8yb38xw",
     "last_name": "Jackson",
     "first_name": "Jeremiah",
@@ -17062,8 +17077,8 @@
     "birth_year": "2000",
     "birth_month": "3",
     "birth_day": "26",
-    "bbref_id": null,
-    "fangraphs_id": "sa3007740",
+    "bbref_id": "jacksje02",
+    "fangraphs_id": "22239",
     "mlbam_id": "669236",
     "nfbc_id": "10234",
     "sfbb_id": null,
