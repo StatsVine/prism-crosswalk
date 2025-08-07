@@ -1229,6 +1229,21 @@
     "sfbb_id": "polanjo01",
     "yahoo_id": "9750"
   },
+  "1jzb5ghhm4": {
+    "prism_id": "1jzb5ghhm4",
+    "last_name": "Kelly",
+    "first_name": "Casey",
+    "middle_name": null,
+    "birth_year": "1989",
+    "birth_month": "10",
+    "birth_day": "4",
+    "bbref_id": "kellyca01",
+    "fangraphs_id": "9174",
+    "mlbam_id": "543391",
+    "nfbc_id": "8028",
+    "sfbb_id": "kellyca01",
+    "yahoo_id": "8867"
+  },
   "1k102rev08": {
     "prism_id": "1k102rev08",
     "last_name": "Krook",
@@ -5458,6 +5473,21 @@
     "nfbc_id": "12243",
     "sfbb_id": null,
     "yahoo_id": "63936"
+  },
+  "7wwtgtrp78": {
+    "prism_id": "7wwtgtrp78",
+    "last_name": "Sanders",
+    "first_name": "Cam",
+    "middle_name": null,
+    "birth_year": "1996",
+    "birth_month": "12",
+    "birth_day": "9",
+    "bbref_id": "sandeca01",
+    "fangraphs_id": "23479",
+    "mlbam_id": "676742",
+    "nfbc_id": "12437",
+    "sfbb_id": null,
+    "yahoo_id": "61323"
   },
   "7x3dgmgbcm": {
     "prism_id": "7x3dgmgbcm",
@@ -15547,8 +15577,8 @@
     "birth_year": "1996",
     "birth_month": "7",
     "birth_day": "25",
-    "bbref_id": null,
-    "fangraphs_id": "sa3007223",
+    "bbref_id": "poulipj01",
+    "fangraphs_id": "23394",
     "mlbam_id": "676571",
     "nfbc_id": "12423",
     "sfbb_id": null,
