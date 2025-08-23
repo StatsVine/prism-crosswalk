@@ -59,6 +59,21 @@
     "sfbb_id": null,
     "yahoo_id": "61836"
   },
+  "21290": {
+    "prism_id": "0492enhc4d",
+    "last_name": "Gilbreath",
+    "first_name": "Lucas",
+    "middle_name": null,
+    "birth_year": "1996",
+    "birth_month": "3",
+    "birth_day": "5",
+    "bbref_id": "gilbrlu01",
+    "fangraphs_id": "21290",
+    "mlbam_id": "656458",
+    "nfbc_id": "11177",
+    "sfbb_id": null,
+    "yahoo_id": "12103"
+  },
   "22184": {
     "prism_id": "04tb2mnv00",
     "last_name": "Vientos",
@@ -1573,6 +1588,21 @@
     "nfbc_id": "12393",
     "sfbb_id": null,
     "yahoo_id": "61754"
+  },
+  "32026": {
+    "prism_id": "25z3xxj054",
+    "last_name": "Sommers",
+    "first_name": "Drew",
+    "middle_name": null,
+    "birth_year": "2000",
+    "birth_month": "8",
+    "birth_day": "14",
+    "bbref_id": "sommedr01",
+    "fangraphs_id": "32026",
+    "mlbam_id": "805427",
+    "nfbc_id": "12446",
+    "sfbb_id": null,
+    "yahoo_id": "65281"
   },
   "17611": {
     "prism_id": "27plen9jjd",
@@ -3539,7 +3569,7 @@
     "sfbb_id": "hicksli01",
     "yahoo_id": "63648"
   },
-  "sa3015523": {
+  "28142": {
     "prism_id": "51jw5qfys4",
     "last_name": "Garcia",
     "first_name": "Jhostynxon",
@@ -3547,8 +3577,8 @@
     "birth_year": "2002",
     "birth_month": "12",
     "birth_day": "11",
-    "bbref_id": null,
-    "fangraphs_id": "sa3015523",
+    "bbref_id": "garcijh01",
+    "fangraphs_id": "28142",
     "mlbam_id": "691373",
     "nfbc_id": "12279",
     "sfbb_id": null,
@@ -5564,7 +5594,7 @@
     "sfbb_id": null,
     "yahoo_id": "61323"
   },
-  "sa3017428": {
+  "29868": {
     "prism_id": "7x3dgmgbcm",
     "last_name": "Chandler",
     "first_name": "Bubba",
@@ -5573,7 +5603,7 @@
     "birth_month": "9",
     "birth_day": "14",
     "bbref_id": "chandbu01",
-    "fangraphs_id": "sa3017428",
+    "fangraphs_id": "29868",
     "mlbam_id": "696149",
     "nfbc_id": "12035",
     "sfbb_id": "chandbu01",
@@ -6299,7 +6329,7 @@
     "sfbb_id": "housebr01",
     "yahoo_id": "12580"
   },
-  "sa3017795": {
+  "30038": {
     "prism_id": "8zlgfzm6t8",
     "last_name": "Williams",
     "first_name": "Carson",
@@ -6307,8 +6337,8 @@
     "birth_year": "2003",
     "birth_month": "6",
     "birth_day": "25",
-    "bbref_id": null,
-    "fangraphs_id": "sa3017795",
+    "bbref_id": "willica02",
+    "fangraphs_id": "30038",
     "mlbam_id": "700246",
     "nfbc_id": "12024",
     "sfbb_id": "willica02",
@@ -6626,7 +6656,7 @@
     "fangraphs_id": "sa3020240",
     "mlbam_id": "702222",
     "nfbc_id": "12303",
-    "sfbb_id": null,
+    "sfbb_id": "crawfju01",
     "yahoo_id": "60317"
   },
   "20517": {
@@ -10843,6 +10873,21 @@
     "nfbc_id": "12268",
     "sfbb_id": null,
     "yahoo_id": "12360"
+  },
+  "sa3020255": {
+    "prism_id": "g4dsrgslqr",
+    "last_name": "Maxwell",
+    "first_name": "Zach",
+    "middle_name": null,
+    "birth_year": "2001",
+    "birth_month": "1",
+    "birth_day": "26",
+    "bbref_id": null,
+    "fangraphs_id": "sa3020255",
+    "mlbam_id": "687209",
+    "nfbc_id": "12206",
+    "sfbb_id": "maxweza01",
+    "yahoo_id": "63552"
   },
   "19249": {
     "prism_id": "g4e687dg24",
@@ -18059,6 +18104,21 @@
     "sfbb_id": "martini01",
     "yahoo_id": "9651"
   },
+  "17684": {
+    "prism_id": "s5efwrg41w",
+    "last_name": "Machin",
+    "first_name": "Vimael",
+    "middle_name": null,
+    "birth_year": "1993",
+    "birth_month": "9",
+    "birth_day": "25",
+    "bbref_id": "machivi01",
+    "fangraphs_id": "17684",
+    "mlbam_id": "605353",
+    "nfbc_id": "10802",
+    "sfbb_id": "machivi01",
+    "yahoo_id": "11716"
+  },
   "3096": {
     "prism_id": "s624zhmwc0",
     "last_name": "Jansen",
@@ -19724,7 +19784,7 @@
     "sfbb_id": "youngco01",
     "yahoo_id": "60580"
   },
-  "sa917689": {
+  "21951": {
     "prism_id": "vets6j81e0",
     "last_name": "Peguero",
     "first_name": "Joel",
@@ -19732,8 +19792,8 @@
     "birth_year": "1997",
     "birth_month": "5",
     "birth_day": "5",
-    "bbref_id": null,
-    "fangraphs_id": "sa917689",
+    "bbref_id": "peguejo01",
+    "fangraphs_id": "21951",
     "mlbam_id": "666711",
     "nfbc_id": "12445",
     "sfbb_id": null,

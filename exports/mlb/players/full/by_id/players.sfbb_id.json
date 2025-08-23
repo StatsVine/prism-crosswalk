@@ -4433,7 +4433,7 @@
     "birth_month": "9",
     "birth_day": "14",
     "bbref_id": "chandbu01",
-    "fangraphs_id": "sa3017428",
+    "fangraphs_id": "29868",
     "mlbam_id": "696149",
     "nfbc_id": "12035",
     "sfbb_id": "chandbu01",
@@ -5047,8 +5047,8 @@
     "birth_year": "2003",
     "birth_month": "6",
     "birth_day": "25",
-    "bbref_id": null,
-    "fangraphs_id": "sa3017795",
+    "bbref_id": "willica02",
+    "fangraphs_id": "30038",
     "mlbam_id": "700246",
     "nfbc_id": "12024",
     "sfbb_id": "willica02",
@@ -5308,6 +5308,21 @@
     "nfbc_id": "10217",
     "sfbb_id": "anderia01",
     "yahoo_id": "10424"
+  },
+  "crawfju01": {
+    "prism_id": "97z9kh57tw",
+    "last_name": "Crawford",
+    "first_name": "Justin",
+    "middle_name": null,
+    "birth_year": "2004",
+    "birth_month": "1",
+    "birth_day": "13",
+    "bbref_id": null,
+    "fangraphs_id": "sa3020240",
+    "mlbam_id": "702222",
+    "nfbc_id": "12303",
+    "sfbb_id": "crawfju01",
+    "yahoo_id": "60317"
   },
   "sandlni01": {
     "prism_id": "98j7lj94zh",
@@ -8698,6 +8713,21 @@
     "nfbc_id": "12047",
     "sfbb_id": "jonessp01",
     "yahoo_id": "60294"
+  },
+  "maxweza01": {
+    "prism_id": "g4dsrgslqr",
+    "last_name": "Maxwell",
+    "first_name": "Zach",
+    "middle_name": null,
+    "birth_year": "2001",
+    "birth_month": "1",
+    "birth_day": "26",
+    "bbref_id": null,
+    "fangraphs_id": "sa3020255",
+    "mlbam_id": "687209",
+    "nfbc_id": "12206",
+    "sfbb_id": "maxweza01",
+    "yahoo_id": "63552"
   },
   "dominse01": {
     "prism_id": "g4e687dg24",
@@ -14698,6 +14728,21 @@
     "nfbc_id": "8748",
     "sfbb_id": "martini01",
     "yahoo_id": "9651"
+  },
+  "machivi01": {
+    "prism_id": "s5efwrg41w",
+    "last_name": "Machin",
+    "first_name": "Vimael",
+    "middle_name": null,
+    "birth_year": "1993",
+    "birth_month": "9",
+    "birth_day": "25",
+    "bbref_id": "machivi01",
+    "fangraphs_id": "17684",
+    "mlbam_id": "605353",
+    "nfbc_id": "10802",
+    "sfbb_id": "machivi01",
+    "yahoo_id": "11716"
   },
   "janseke01": {
     "prism_id": "s624zhmwc0",
