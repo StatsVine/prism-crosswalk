@@ -1904,6 +1904,21 @@
     "sfbb_id": "bargead01",
     "yahoo_id": "12741"
   },
+  "banfiwi01": {
+    "prism_id": "2pcb436ex4",
+    "last_name": "Banfield",
+    "first_name": "Will",
+    "middle_name": null,
+    "birth_year": "1999",
+    "birth_month": "11",
+    "birth_day": "18",
+    "bbref_id": "banfiwi01",
+    "fangraphs_id": "23790",
+    "mlbam_id": "677943",
+    "nfbc_id": "10830",
+    "sfbb_id": null,
+    "yahoo_id": "11334"
+  },
   "abramcj01": {
     "prism_id": "2q1v3gpkn0",
     "last_name": "Abrams",
@@ -4559,6 +4574,21 @@
     "sfbb_id": "thompma02",
     "yahoo_id": "12105"
   },
+  "roonejo01": {
+    "prism_id": "6rcxcqve6w",
+    "last_name": "Rooney",
+    "first_name": "John",
+    "middle_name": null,
+    "birth_year": "1997",
+    "birth_month": "1",
+    "birth_day": "28",
+    "bbref_id": "roonejo01",
+    "fangraphs_id": "24590",
+    "mlbam_id": "680701",
+    "nfbc_id": "12436",
+    "sfbb_id": null,
+    "yahoo_id": "11481"
+  },
   "dollach01": {
     "prism_id": "6rwbmer6nh",
     "last_name": "Dollander",
@@ -5158,6 +5188,21 @@
     "nfbc_id": "11989",
     "sfbb_id": null,
     "yahoo_id": "62189"
+  },
+  "vanbebr01": {
+    "prism_id": "7jl0qezb3m",
+    "last_name": "Van Belle",
+    "first_name": "Brian",
+    "middle_name": null,
+    "birth_year": "1996",
+    "birth_month": "9",
+    "birth_day": "3",
+    "bbref_id": "vanbebr01",
+    "fangraphs_id": "27695",
+    "mlbam_id": "687003",
+    "nfbc_id": "12408",
+    "sfbb_id": null,
+    "yahoo_id": "63947"
   },
   "mcmahry01": {
     "prism_id": "7jw0hsywww",
@@ -10588,6 +10633,36 @@
     "nfbc_id": "8955",
     "sfbb_id": "nimmobr01",
     "yahoo_id": "9876"
+  },
+  "brownmc01": {
+    "prism_id": "g3k38cde4d",
+    "last_name": "Brown",
+    "first_name": "McCade",
+    "middle_name": null,
+    "birth_year": "2000",
+    "birth_month": "8",
+    "birth_day": "15",
+    "bbref_id": "brownmc01",
+    "fangraphs_id": "30004",
+    "mlbam_id": "685326",
+    "nfbc_id": "12447",
+    "sfbb_id": null,
+    "yahoo_id": "66363"
+  },
+  "maxweza01": {
+    "prism_id": "g4dsrgslqr",
+    "last_name": "Maxwell",
+    "first_name": "Zach",
+    "middle_name": null,
+    "birth_year": "2001",
+    "birth_month": "1",
+    "birth_day": "26",
+    "bbref_id": "maxweza01",
+    "fangraphs_id": "31610",
+    "mlbam_id": "687209",
+    "nfbc_id": "12206",
+    "sfbb_id": "maxweza01",
+    "yahoo_id": "63552"
   },
   "dominse01": {
     "prism_id": "g4e687dg24",
