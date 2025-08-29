@@ -233,7 +233,7 @@ prism_id,last_name,first_name,middle_name,birth_year,birth_month,birth_day,bbref
 4wv3r5dcnw,Clevinger,Mike,,1990,12,21,clevimi01,12808,605182,9210,clevimi01,10296
 4x21lmem98,Fitzgerald,Ryan,Patrick,1994,6,17,fitzgry01,24622,680837,12397,,60890
 4x64hjycnm,Perkins,Blake,,1996,9,10,perkibl01,19921,663368,11719,perkibl01,11472
-4xkvdjnwz8,Rashi,Taylor,,1996,1,15,,sa3011597,688497,12448,,
+4xkvdjnwz8,Rashi,Taylor,,1996,1,15,rashita01,sa3011597,688497,12448,,64065
 4y2csnrk0d,Pressly,Ryan,,1988,12,15,pressry01,7005,519151,8452,pressry01,9358
 4z3sfm8hg8,Fortes,Nick,,1996,11,11,forteni01,21538,663743,11289,forteni01,12271
 5148sbchem,McGreevy,Michael,,2000,7,8,mcgremi01,29869,700241,12137,mcgremi01,12549
@@ -632,7 +632,7 @@ dxwn2k4mt4,Diaz,Yandy,,1991,8,8,diazya01,16578,650490,9639,diazya01,10465
 dy3pw4b0sm,Julks,Corey,,1996,2,27,julksco01,20311,667452,11604,julksco01,60199
 dz7v37m92r,Meadows,Parker,,1999,11,2,meadopa01,23800,678009,10307,meadopa01,11310
 e1kqp3hy7h,Davis,Noah,,1997,4,22,davisno01,25862,663562,11347,,12321
-e34kxtx4xr,Tong,Jonah,,2003,6,19,,sa3022324,804636,12344,,64978
+e34kxtx4xr,Tong,Jonah,,2003,6,19,,sa3022324,804636,12344,tongjo01,64978
 e4qy052bpm,Rushing,Dalton,,2001,2,21,rushida01,31382,687221,12190,rushida01,60232
 e545xts7n0,Gonzalez,Domingo,Jose,1999,9,27,,sa3007495,682445,12240,,61938
 e6hvm5xjdd,Noda,Ryan,,1996,3,30,nodary01,23312,676116,10322,nodary01,12765
@@ -1258,6 +1258,7 @@ t1hbnjk7wm,Waters,Drew,,1998,12,30,waterdr01,20505,671221,10188,waterdr01,11272
 t37wcrv1jw,Arias,Michael,,2001,11,15,,sa3017036,683522,11979,,63482
 t3lrfzwzpr,Montero,Rafael,,1990,10,17,montera01,12760,606160,8682,montera01,9598
 t4mwxmp738,Riley,Austin,,1997,4,2,rileyau01,18360,663586,9821,rileyau01,10420
+t4z4yp8p6w,Tolle,Payton,,2002,11,1,,sa3043900,801139,,,64394
 t57ntwlj3r,Eflin,Zach,,1994,4,8,eflinza01,13774,621107,9379,eflinza01,10141
 t5cm9gnqgd,Martinez,Orelvis,,2001,11,19,martior01,25967,682619,10420,martior01,11407
 t5xgkelm40,Hence,Tink,,2002,8,6,henceti01,sa3014709,693311,12033,henceti01,12177
