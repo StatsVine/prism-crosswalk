@@ -11594,6 +11594,21 @@
     "sfbb_id": "portelo01",
     "yahoo_id": "61636"
   },
+  "wallach01": {
+    "prism_id": "lhy8zjhbs0",
+    "last_name": "Wallach",
+    "first_name": "Chad",
+    "middle_name": null,
+    "birth_year": "1991",
+    "birth_month": "11",
+    "birth_day": "4",
+    "bbref_id": "wallach01",
+    "fangraphs_id": "17161",
+    "mlbam_id": "595453",
+    "nfbc_id": "9740",
+    "sfbb_id": "wallach01",
+    "yahoo_id": "10799"
+  },
   "youngbr01": {
     "prism_id": "lkn160jx5h",
     "last_name": "Young",
@@ -14953,6 +14968,21 @@
     "nfbc_id": "9677",
     "sfbb_id": "matonph01",
     "yahoo_id": "10729"
+  },
+  "actonga01": {
+    "prism_id": "scp39vxnfr",
+    "last_name": "Acton",
+    "first_name": "Garrett",
+    "middle_name": null,
+    "birth_year": "1998",
+    "birth_month": "6",
+    "birth_day": "15",
+    "bbref_id": "actonga01",
+    "fangraphs_id": "27583",
+    "mlbam_id": "670183",
+    "nfbc_id": "11759",
+    "sfbb_id": "actonga01",
+    "yahoo_id": "61900"
   },
   "hampsga01": {
     "prism_id": "sdpdcq9hn4",
