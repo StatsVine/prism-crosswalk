@@ -2249,6 +2249,21 @@
     "sfbb_id": null,
     "yahoo_id": "61779"
   },
+  "yesavtr01": {
+    "prism_id": "34nsb1jlw0",
+    "last_name": "Yesavage",
+    "first_name": "Trey",
+    "middle_name": null,
+    "birth_year": "2003",
+    "birth_month": "7",
+    "birth_day": "28",
+    "bbref_id": "yesavtr01",
+    "fangraphs_id": "35456",
+    "mlbam_id": "702056",
+    "nfbc_id": "12463",
+    "sfbb_id": null,
+    "yahoo_id": "64320"
+  },
   "stockro01": {
     "prism_id": "35gntlx0g8",
     "last_name": "Stock",
@@ -6899,6 +6914,21 @@
     "sfbb_id": "santade01",
     "yahoo_id": "10901"
   },
+  "suarejo01": {
+    "prism_id": "9l2cx4dsd0",
+    "last_name": "Suarez",
+    "first_name": "Jose",
+    "middle_name": null,
+    "birth_year": "1998",
+    "birth_month": "1",
+    "birth_day": "3",
+    "bbref_id": "suarejo01",
+    "fangraphs_id": "19911",
+    "mlbam_id": "660761",
+    "nfbc_id": "10470",
+    "sfbb_id": "suarejo01",
+    "yahoo_id": "11211"
+  },
   "sousabe01": {
     "prism_id": "9lcp8s3rkw",
     "last_name": "Sousa",
@@ -7874,6 +7904,21 @@
     "sfbb_id": null,
     "yahoo_id": "64815"
   },
+  "eldribr01": {
+    "prism_id": "brj5cx1bj4",
+    "last_name": "Eldridge",
+    "first_name": "Bryce",
+    "middle_name": null,
+    "birth_year": "2004",
+    "birth_month": "10",
+    "birth_day": "20",
+    "bbref_id": "eldribr01",
+    "fangraphs_id": "33390",
+    "mlbam_id": "805811",
+    "nfbc_id": "12202",
+    "sfbb_id": "eldribr01",
+    "yahoo_id": "62957"
+  },
   "sosale01": {
     "prism_id": "brt3mhm03w",
     "last_name": "Sosa",
@@ -8353,6 +8398,21 @@
     "nfbc_id": "12398",
     "sfbb_id": null,
     "yahoo_id": "63083"
+  },
+  "kieboca01": {
+    "prism_id": "cgnkv9csd4",
+    "last_name": "Kieboom",
+    "first_name": "Carter",
+    "middle_name": null,
+    "birth_year": "1997",
+    "birth_month": "9",
+    "birth_day": "3",
+    "bbref_id": "kieboca01",
+    "fangraphs_id": "19958",
+    "mlbam_id": "666198",
+    "nfbc_id": "10505",
+    "sfbb_id": "kieboca01",
+    "yahoo_id": "10966"
   },
   "acunaro01": {
     "prism_id": "chfj0z3jfr",
