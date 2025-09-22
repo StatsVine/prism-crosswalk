@@ -123,7 +123,7 @@ prism_id,last_name,first_name,middle_name,birth_year,birth_month,birth_day,bbref
 2klktf9c80,Leon,Pedro,,1998,5,28,leonpe01,27781,694175,11198,leonpe01,12226
 2kpv1cqgt0,Ray,Robbie,,1991,10,1,rayro02,11486,592662,8775,rayro02,9691
 2lw0b7kd9d,Woodford,Jake,,1996,10,28,woodfja01,18674,663765,10772,woodfja01,11542
-2lwsdcmk5m,Hamel,Dom,,1999,3,2,,sa3017949,687589,12015,,12489
+2lwsdcmk5m,Hamel,Dom,,1999,3,2,hameldo01,30153,687589,12015,,12489
 2m0ekqhq10,Kemp,Otto,,1999,9,9,kempot01,31792,805249,12338,,64989
 2mfrvjc2hw,Cruz,Oneil,,1998,10,4,cruzon01,21711,665833,10305,cruzon01,11370
 2n7s42cqz8,Singer,Brady,,1996,8,4,singebr01,25377,663903,10145,singebr01,11323
@@ -355,7 +355,7 @@ prism_id,last_name,first_name,middle_name,birth_year,birth_month,birth_day,bbref
 7dqy9krkrm,Cabrera,Genesis,,1996,10,10,cabrege01,17490,650893,10447,cabrege01,11237
 7dtrmw31j0,Lockridge,Brandon,,1997,3,14,lockrbr01,21496,663604,12173,,12499
 7fnbt206l4,Mears,Nick,,1996,10,7,mearsni01,25376,683232,10910,mearsni01,11979
-7fv4htz5r4,Flores,Rafael,,2000,11,7,,sa3020243,804668,11762,,61775
+7fv4htz5r4,Flores,Rafael,,2000,11,7,florera03,31991,804668,11762,,61775
 7hgjdj33rd,VanWey,Logan,,1999,2,14,vanwelo01,31884,701121,12376,,62570
 7htzkqq0j8,Camargo,Jair,,1999,7,1,camarja01,21730,665856,11989,,62189
 7jl0qezb3m,Van Belle,Brian,,1996,9,3,vanbebr01,27695,687003,12408,,63947
@@ -1054,7 +1054,7 @@ n1k5x0snm4,Bader,Harrison,,1994,6,3,baderha01,18030,664056,9710,baderha01,10591
 n1xyrsmz2m,DeSclafani,Anthony,,1990,4,18,desclan01,13050,543101,8786,desclan01,9703
 n2pgdkklxm,Williams,Luke,,1996,8,9,willilu01,19931,663897,11017,willilu01,12207
 n49r8t805d,Nastrini,Nick,,2000,2,18,nastrni01,29833,680897,11900,nastrni01,60233
-n4bgm3y58m,Halpin,Petey,,2002,5,26,,sa3014461,690984,12275,,12404
+n4bgm3y58m,Halpin,Petey,,2002,5,26,halpipe01,27931,690984,12275,,12404
 n4p7pn0prr,Brasier,Ryan,,1987,8,26,brasiry01,5615,518489,8481,brasiry01,9388
 n57f3htvtd,Veen,Zac,,2001,12,12,veenza01,27770,691728,11331,veenza01,12133
 n5w4wsqyvw,Tidwell,Blade,,2001,6,8,tidwebl01,31701,694918,12392,tidwebl01,60280

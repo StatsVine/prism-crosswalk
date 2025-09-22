@@ -1859,6 +1859,21 @@
     "sfbb_id": "woodfja01",
     "yahoo_id": "11542"
   },
+  "hameldo01": {
+    "prism_id": "2lwsdcmk5m",
+    "last_name": "Hamel",
+    "first_name": "Dom",
+    "middle_name": null,
+    "birth_year": "1999",
+    "birth_month": "3",
+    "birth_day": "2",
+    "bbref_id": "hameldo01",
+    "fangraphs_id": "30153",
+    "mlbam_id": "687589",
+    "nfbc_id": "12015",
+    "sfbb_id": null,
+    "yahoo_id": "12489"
+  },
   "kempot01": {
     "prism_id": "2m0ekqhq10",
     "last_name": "Kemp",
@@ -5293,6 +5308,21 @@
     "nfbc_id": "10910",
     "sfbb_id": "mearsni01",
     "yahoo_id": "11979"
+  },
+  "florera03": {
+    "prism_id": "7fv4htz5r4",
+    "last_name": "Flores",
+    "first_name": "Rafael",
+    "middle_name": null,
+    "birth_year": "2000",
+    "birth_month": "11",
+    "birth_day": "7",
+    "bbref_id": "florera03",
+    "fangraphs_id": "31991",
+    "mlbam_id": "804668",
+    "nfbc_id": "11762",
+    "sfbb_id": null,
+    "yahoo_id": "61775"
   },
   "vanwelo01": {
     "prism_id": "7hgjdj33rd",
@@ -15538,6 +15568,21 @@
     "nfbc_id": "11900",
     "sfbb_id": "nastrni01",
     "yahoo_id": "60233"
+  },
+  "halpipe01": {
+    "prism_id": "n4bgm3y58m",
+    "last_name": "Halpin",
+    "first_name": "Petey",
+    "middle_name": null,
+    "birth_year": "2002",
+    "birth_month": "5",
+    "birth_day": "26",
+    "bbref_id": "halpipe01",
+    "fangraphs_id": "27931",
+    "mlbam_id": "690984",
+    "nfbc_id": "12275",
+    "sfbb_id": null,
+    "yahoo_id": "12404"
   },
   "brasiry01": {
     "prism_id": "n4p7pn0prr",
