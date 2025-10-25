@@ -4160,7 +4160,7 @@
   "delauch01": {
     "prism_id": "9h91wd7vph",
     "bbref_id": "delauch01",
-    "fangraphs_id": "sa3021053",
+    "fangraphs_id": "32127",
     "mlbam_id": "800050",
     "nfbc_id": "11919",
     "sfbb_id": "delauch01",
@@ -6595,6 +6595,15 @@
     "nfbc_id": "10525",
     "sfbb_id": "lovelri01",
     "yahoo_id": "10889"
+  },
+  "cornijo01": {
+    "prism_id": "g294zrx1f0",
+    "bbref_id": "cornijo01",
+    "fangraphs_id": "27984",
+    "mlbam_id": "692030",
+    "nfbc_id": "11994",
+    "sfbb_id": null,
+    "yahoo_id": "63483"
   },
   "nimmobr01": {
     "prism_id": "g2ghj8y6hr",

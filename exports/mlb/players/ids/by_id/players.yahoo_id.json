@@ -4196,7 +4196,7 @@
   "60138": {
     "prism_id": "9h91wd7vph",
     "bbref_id": "delauch01",
-    "fangraphs_id": "sa3021053",
+    "fangraphs_id": "32127",
     "mlbam_id": "800050",
     "nfbc_id": "11919",
     "sfbb_id": "delauch01",
@@ -6679,8 +6679,8 @@
   },
   "63483": {
     "prism_id": "g294zrx1f0",
-    "bbref_id": null,
-    "fangraphs_id": "sa3015213",
+    "bbref_id": "cornijo01",
+    "fangraphs_id": "27984",
     "mlbam_id": "692030",
     "nfbc_id": "11994",
     "sfbb_id": null,
@@ -11401,6 +11401,15 @@
     "nfbc_id": "10866",
     "sfbb_id": "raleica01",
     "yahoo_id": "11531"
+  },
+  "66367": {
+    "prism_id": "sklckxt6mm",
+    "bbref_id": null,
+    "fangraphs_id": "sa3025659",
+    "mlbam_id": "697811",
+    "nfbc_id": "12468",
+    "sfbb_id": null,
+    "yahoo_id": "66367"
   },
   "9898": {
     "prism_id": "slbkt2y2e8",
