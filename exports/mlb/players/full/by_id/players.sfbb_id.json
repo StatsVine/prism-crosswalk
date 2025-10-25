@@ -1529,6 +1529,21 @@
     "sfbb_id": "woodfja01",
     "yahoo_id": "11542"
   },
+  "kempot01": {
+    "prism_id": "2m0ekqhq10",
+    "last_name": "Kemp",
+    "first_name": "Otto",
+    "middle_name": null,
+    "birth_year": "1999",
+    "birth_month": "9",
+    "birth_day": "9",
+    "bbref_id": "kempot01",
+    "fangraphs_id": "31792",
+    "mlbam_id": "805249",
+    "nfbc_id": "12338",
+    "sfbb_id": "kempot01",
+    "yahoo_id": "64989"
+  },
   "cruzon01": {
     "prism_id": "2mfrvjc2hw",
     "last_name": "Cruz",
@@ -3104,6 +3119,21 @@
     "sfbb_id": "hoernni01",
     "yahoo_id": "11284"
   },
+  "meltotr01": {
+    "prism_id": "5dw550fr1d",
+    "last_name": "Melton",
+    "first_name": "Troy",
+    "middle_name": null,
+    "birth_year": "2000",
+    "birth_month": "12",
+    "birth_day": "3",
+    "bbref_id": "meltotr01",
+    "fangraphs_id": "31807",
+    "mlbam_id": "675512",
+    "nfbc_id": "12430",
+    "sfbb_id": "meltotr01",
+    "yahoo_id": "60175"
+  },
   "claseem01": {
     "prism_id": "5fcz8f1mcm",
     "last_name": "Clase",
@@ -3148,6 +3178,21 @@
     "nfbc_id": "10434",
     "sfbb_id": "perezwe01",
     "yahoo_id": "11761"
+  },
+  "hernahe01": {
+    "prism_id": "5hdcf798b8",
+    "last_name": "Hernandez",
+    "first_name": "Heriberto",
+    "middle_name": null,
+    "birth_year": "1999",
+    "birth_month": "12",
+    "birth_day": "16",
+    "bbref_id": "hernahe01",
+    "fangraphs_id": "24878",
+    "mlbam_id": "681715",
+    "nfbc_id": "12403",
+    "sfbb_id": "hernahe01",
+    "yahoo_id": "12557"
   },
   "agnosza01": {
     "prism_id": "5ke51jp96d",
@@ -4409,6 +4454,21 @@
     "sfbb_id": "marteke01",
     "yahoo_id": "10036"
   },
+  "churcna01": {
+    "prism_id": "7ske3c9drm",
+    "last_name": "Church",
+    "first_name": "Nathan",
+    "middle_name": null,
+    "birth_year": "2000",
+    "birth_month": "7",
+    "birth_day": "12",
+    "bbref_id": "churcna01",
+    "fangraphs_id": "31357",
+    "mlbam_id": "701675",
+    "nfbc_id": "12444",
+    "sfbb_id": "churcna01",
+    "yahoo_id": "61887"
+  },
   "farmeky01": {
     "prism_id": "7v4vcstgt4",
     "last_name": "Farmer",
@@ -5399,6 +5459,21 @@
     "sfbb_id": "montgco01",
     "yahoo_id": "12413"
   },
+  "lordbr01": {
+    "prism_id": "99qjy8hsvh",
+    "last_name": "Lord",
+    "first_name": "Brad",
+    "middle_name": null,
+    "birth_year": "2000",
+    "birth_month": "2",
+    "birth_day": "14",
+    "bbref_id": "lordbr02",
+    "fangraphs_id": "31972",
+    "mlbam_id": "695418",
+    "nfbc_id": "12369",
+    "sfbb_id": "lordbr01",
+    "yahoo_id": "65104"
+  },
   "woodrbr01": {
     "prism_id": "9cdtg7r05h",
     "last_name": "Woodruff",
@@ -6269,6 +6344,21 @@
     "sfbb_id": "altuvjo01",
     "yahoo_id": "8996"
   },
+  "teodobr01": {
+    "prism_id": "bqpk6wnx7m",
+    "last_name": "Teodosio",
+    "first_name": "Bryce",
+    "middle_name": null,
+    "birth_year": "1999",
+    "birth_month": "6",
+    "birth_day": "18",
+    "bbref_id": "teodobr01",
+    "fangraphs_id": "29524",
+    "mlbam_id": "669326",
+    "nfbc_id": "12178",
+    "sfbb_id": "teodobr01",
+    "yahoo_id": "61559"
+  },
   "eldribr01": {
     "prism_id": "brj5cx1bj4",
     "last_name": "Eldridge",
@@ -6673,6 +6763,21 @@
     "nfbc_id": "11392",
     "sfbb_id": "marinro01",
     "yahoo_id": "12332"
+  },
+  "mccusca01": {
+    "prism_id": "cdzskwf8kr",
+    "last_name": "McCusker",
+    "first_name": "Carson",
+    "middle_name": null,
+    "birth_year": "1998",
+    "birth_month": "5",
+    "birth_day": "22",
+    "bbref_id": "mccusca01",
+    "fangraphs_id": "33098",
+    "mlbam_id": "676812",
+    "nfbc_id": "12398",
+    "sfbb_id": "mccusca01",
+    "yahoo_id": "63083"
   },
   "kieboca01": {
     "prism_id": "cgnkv9csd4",
@@ -8099,6 +8204,21 @@
     "sfbb_id": "urshegi01",
     "yahoo_id": "9991"
   },
+  "morallu01": {
+    "prism_id": "er8x183ztr",
+    "last_name": "Morales",
+    "first_name": "Luis",
+    "middle_name": null,
+    "birth_year": "2002",
+    "birth_month": "9",
+    "birth_day": "24",
+    "bbref_id": "morallu01",
+    "fangraphs_id": "32227",
+    "mlbam_id": "806960",
+    "nfbc_id": "12434",
+    "sfbb_id": "morallu01",
+    "yahoo_id": "63613"
+  },
   "teodoem01": {
     "prism_id": "erej4rbyv4",
     "last_name": "Teodo",
@@ -8323,6 +8443,21 @@
     "nfbc_id": "9795",
     "sfbb_id": "janseda01",
     "yahoo_id": "10959"
+  },
+  "gomezyo01": {
+    "prism_id": "f536t9vjq4",
+    "last_name": "Gómez",
+    "first_name": "Yoendrys",
+    "middle_name": null,
+    "birth_year": "1999",
+    "birth_month": "10",
+    "birth_day": "15",
+    "bbref_id": "gomezyo01",
+    "fangraphs_id": "22872",
+    "mlbam_id": "672782",
+    "nfbc_id": "11157",
+    "sfbb_id": "gomezyo01",
+    "yahoo_id": "11806"
   },
   "moretda01": {
     "prism_id": "f7d3t26p2m",
@@ -8549,6 +8684,21 @@
     "sfbb_id": "fletcdo01",
     "yahoo_id": "11970"
   },
+  "schlica01": {
+    "prism_id": "fltvqr6n8h",
+    "last_name": "Schlittler",
+    "first_name": "Cam",
+    "middle_name": null,
+    "birth_year": "2001",
+    "birth_month": "2",
+    "birth_day": "5",
+    "bbref_id": "schlica01",
+    "fangraphs_id": "32095",
+    "mlbam_id": "693645",
+    "nfbc_id": "12361",
+    "sfbb_id": "schlica01",
+    "yahoo_id": "64985"
+  },
   "festada01": {
     "prism_id": "fpkcqtnnyr",
     "last_name": "Festa",
@@ -8683,6 +8833,21 @@
     "nfbc_id": "11247",
     "sfbb_id": "delacbr01",
     "yahoo_id": "12236"
+  },
+  "karroky01": {
+    "prism_id": "fz57ktyqw0",
+    "last_name": "Karros",
+    "first_name": "Kyle",
+    "middle_name": null,
+    "birth_year": "2002",
+    "birth_month": "7",
+    "birth_day": "26",
+    "bbref_id": "karroky01",
+    "fangraphs_id": "33252",
+    "mlbam_id": "691720",
+    "nfbc_id": "12439",
+    "sfbb_id": "karroky01",
+    "yahoo_id": "62831"
   },
   "rodrira02": {
     "prism_id": "fz9xfw51m8",
@@ -9869,6 +10034,21 @@
     "sfbb_id": "jimenjo02",
     "yahoo_id": "10468"
   },
+  "kayfucj01": {
+    "prism_id": "hr6rkggeew",
+    "last_name": "Kayfus",
+    "first_name": "CJ",
+    "middle_name": null,
+    "birth_year": "2001",
+    "birth_month": "10",
+    "birth_day": "28",
+    "bbref_id": "kayfucj01",
+    "fangraphs_id": "33704",
+    "mlbam_id": "692216",
+    "nfbc_id": "12435",
+    "sfbb_id": "kayfucj01",
+    "yahoo_id": "62758"
+  },
   "fitzgty01": {
     "prism_id": "hrjphg738h",
     "last_name": "Fitzgerald",
@@ -10619,6 +10799,21 @@
     "sfbb_id": "vargail01",
     "yahoo_id": "10752"
   },
+  "perkija01": {
+    "prism_id": "jynr4fq7rw",
+    "last_name": "Perkins",
+    "first_name": "Jack",
+    "middle_name": "Scott",
+    "birth_year": "1999",
+    "birth_month": "12",
+    "birth_day": "26",
+    "bbref_id": "perkija01",
+    "fangraphs_id": "31468",
+    "mlbam_id": "678022",
+    "nfbc_id": "12345",
+    "sfbb_id": "perkija01",
+    "yahoo_id": "62461"
+  },
   "freemty01": {
     "prism_id": "jzxfskxexm",
     "last_name": "Freeman",
@@ -11324,6 +11519,21 @@
     "sfbb_id": "musgrjo01",
     "yahoo_id": "10185"
   },
+  "lileda01": {
+    "prism_id": "l1qmddf794",
+    "last_name": "Lile",
+    "first_name": "Daylen",
+    "middle_name": null,
+    "birth_year": "2002",
+    "birth_month": "11",
+    "birth_day": "30",
+    "bbref_id": "lileda01",
+    "fangraphs_id": "29995",
+    "mlbam_id": "695734",
+    "nfbc_id": "12364",
+    "sfbb_id": "lileda01",
+    "yahoo_id": "12582"
+  },
   "rodried05": {
     "prism_id": "l2hvnkt1s8",
     "last_name": "Rodriguez",
@@ -11744,6 +11954,21 @@
     "sfbb_id": "hoffmje02",
     "yahoo_id": "9896"
   },
+  "bernawa01": {
+    "prism_id": "lm3b0mx0nd",
+    "last_name": "Bernabel",
+    "first_name": "Warming",
+    "middle_name": null,
+    "birth_year": "2002",
+    "birth_month": "6",
+    "birth_day": "6",
+    "bbref_id": "bernawa01",
+    "fangraphs_id": "26536",
+    "mlbam_id": "682653",
+    "nfbc_id": "11651",
+    "sfbb_id": "bernawa01",
+    "yahoo_id": "12721"
+  },
   "feyerjo01": {
     "prism_id": "lre5xsr3mr",
     "last_name": "Feyereisen",
@@ -12163,6 +12388,21 @@
     "nfbc_id": "10280",
     "sfbb_id": "medinlu02",
     "yahoo_id": "11354"
+  },
+  "englitr01": {
+    "prism_id": "m9dcywnyrm",
+    "last_name": "English",
+    "first_name": "Tristin",
+    "middle_name": null,
+    "birth_year": "1997",
+    "birth_month": "5",
+    "birth_day": "14",
+    "bbref_id": "englitr01",
+    "fangraphs_id": "26148",
+    "mlbam_id": "663536",
+    "nfbc_id": "12424",
+    "sfbb_id": "englitr01",
+    "yahoo_id": "61859"
   },
   "varshda01": {
     "prism_id": "mdx9n2mv08",
@@ -14399,6 +14639,21 @@
     "sfbb_id": "semiema01",
     "yahoo_id": "9517"
   },
+  "jacksje01": {
+    "prism_id": "r0k8yb38xw",
+    "last_name": "Jackson",
+    "first_name": "Jeremiah",
+    "middle_name": null,
+    "birth_year": "2000",
+    "birth_month": "3",
+    "birth_day": "26",
+    "bbref_id": "jacksje02",
+    "fangraphs_id": "22239",
+    "mlbam_id": "669236",
+    "nfbc_id": "10234",
+    "sfbb_id": "jacksje01",
+    "yahoo_id": "11325"
+  },
   "chishja01": {
     "prism_id": "r16fl66vyd",
     "last_name": "Chisholm",
@@ -15419,6 +15674,21 @@
     "sfbb_id": "rileyau01",
     "yahoo_id": "10420"
   },
+  "tollepa01": {
+    "prism_id": "t4z4yp8p6w",
+    "last_name": "Tolle",
+    "first_name": "Payton",
+    "middle_name": null,
+    "birth_year": "2002",
+    "birth_month": "11",
+    "birth_day": "1",
+    "bbref_id": "tollepa01",
+    "fangraphs_id": "35466",
+    "mlbam_id": "801139",
+    "nfbc_id": "12452",
+    "sfbb_id": "tollepa01",
+    "yahoo_id": "64394"
+  },
   "eflinza01": {
     "prism_id": "t57ntwlj3r",
     "last_name": "Eflin",
@@ -15478,6 +15748,21 @@
     "nfbc_id": "9959",
     "sfbb_id": "quantca01",
     "yahoo_id": "10573"
+  },
+  "seymobo01": {
+    "prism_id": "t75ezb9mx4",
+    "last_name": "Seymour",
+    "first_name": "Bob",
+    "middle_name": null,
+    "birth_year": "1998",
+    "birth_month": "10",
+    "birth_day": "7",
+    "bbref_id": "seymobo01",
+    "fangraphs_id": "30028",
+    "mlbam_id": "676044",
+    "nfbc_id": "12442",
+    "sfbb_id": "seymobo01",
+    "yahoo_id": "64093"
   },
   "nerishe01": {
     "prism_id": "t7nnx7w7r8",
@@ -15583,6 +15868,21 @@
     "nfbc_id": "9938",
     "sfbb_id": "kinlety01",
     "yahoo_id": "10985"
+  },
+  "ashcrbr01": {
+    "prism_id": "te3wspnnnr",
+    "last_name": "Ashcraft",
+    "first_name": "Braxton",
+    "middle_name": null,
+    "birth_year": "1999",
+    "birth_month": "10",
+    "birth_day": "5",
+    "bbref_id": "ashcrbr01",
+    "fangraphs_id": "23793",
+    "mlbam_id": "677952",
+    "nfbc_id": "11999",
+    "sfbb_id": "ashcrbr01",
+    "yahoo_id": "11372"
   },
   "roberlu01": {
     "prism_id": "teswpd8zgw",
@@ -18553,6 +18853,21 @@
     "nfbc_id": "11753",
     "sfbb_id": "carteev01",
     "yahoo_id": "12563"
+  },
+  "campegu01": {
+    "prism_id": "zjjflfpv7m",
+    "last_name": "Campero",
+    "first_name": "Gustavo",
+    "middle_name": null,
+    "birth_year": "1997",
+    "birth_month": "9",
+    "birth_day": "20",
+    "bbref_id": "campegu01",
+    "fangraphs_id": "22707",
+    "mlbam_id": "672569",
+    "nfbc_id": "12185",
+    "sfbb_id": "campegu01",
+    "yahoo_id": "62499"
   },
   "nunezdo01": {
     "prism_id": "zlb613bpvd",
