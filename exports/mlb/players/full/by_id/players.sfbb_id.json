@@ -3779,6 +3779,21 @@
     "sfbb_id": "mcdontr01",
     "yahoo_id": "60389"
   },
+  "morrian01": {
+    "prism_id": "6cdmsb5360",
+    "last_name": "Morris",
+    "first_name": "Andrew",
+    "middle_name": null,
+    "birth_year": "2001",
+    "birth_month": "9",
+    "birth_day": "1",
+    "bbref_id": null,
+    "fangraphs_id": "sa3020569",
+    "mlbam_id": "702193",
+    "nfbc_id": "12205",
+    "sfbb_id": "morrian01",
+    "yahoo_id": "63602"
+  },
   "gordoco01": {
     "prism_id": "6cdn5ye0lr",
     "last_name": "Gordon",
@@ -16604,6 +16619,21 @@
     "sfbb_id": "quantca01",
     "yahoo_id": "10573"
   },
+  "tiederi01": {
+    "prism_id": "t74vfebdvh",
+    "last_name": "Tiedemann",
+    "first_name": "Ricky",
+    "middle_name": null,
+    "birth_year": "2002",
+    "birth_month": "8",
+    "birth_day": "18",
+    "bbref_id": null,
+    "fangraphs_id": "sa3018096",
+    "mlbam_id": "694357",
+    "nfbc_id": "11605",
+    "sfbb_id": "tiederi01",
+    "yahoo_id": "12574"
+  },
   "seymobo01": {
     "prism_id": "t75ezb9mx4",
     "last_name": "Seymour",
@@ -18794,6 +18824,21 @@
     "sfbb_id": "wagnewi01",
     "yahoo_id": "61682"
   },
+  "trianja01": {
+    "prism_id": "xlkj1mvcn0",
+    "last_name": "Triantos",
+    "first_name": "James",
+    "middle_name": null,
+    "birth_year": "2003",
+    "birth_month": "1",
+    "birth_day": "29",
+    "bbref_id": null,
+    "fangraphs_id": "sa3017295",
+    "mlbam_id": "701649",
+    "nfbc_id": "11951",
+    "sfbb_id": "trianja01",
+    "yahoo_id": "12385"
+  },
   "bradfco01": {
     "prism_id": "xm3r7p32t8",
     "last_name": "Bradford",
@@ -19198,6 +19243,21 @@
     "nfbc_id": "9124",
     "sfbb_id": "reaco01",
     "yahoo_id": "10048"
+  },
+  "hamptch01": {
+    "prism_id": "y825148vnh",
+    "last_name": "Hampton",
+    "first_name": "Chase",
+    "middle_name": null,
+    "birth_year": "2001",
+    "birth_month": "8",
+    "birth_day": "7",
+    "bbref_id": null,
+    "fangraphs_id": "sa3020682",
+    "mlbam_id": "694633",
+    "nfbc_id": "11930",
+    "sfbb_id": "hamptch01",
+    "yahoo_id": "61918"
   },
   "megiltr01": {
     "prism_id": "y8r8nxqemd",
