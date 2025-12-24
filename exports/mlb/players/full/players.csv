@@ -619,7 +619,7 @@ cgnkv9csd4,Kieboom,Carter,,1997,9,3,kieboca01,19958,666198,10505,kieboca01,10966
 chfj0z3jfr,Acuna,Ronald,,1997,12,18,acunaro01,18401,660670,9775,acunaro01,10646
 cjvw7m9qsh,deGrom,Jacob,,1988,6,19,degroja01,10954,594798,8784,degroja01,9701
 cjy8hrn1jw,Garrett,Reed,,1993,1,2,garrere01,16866,657585,10511,garrere01,11255
-ckvleldgkh,Bernal,Leonardo,,2004,2,13,,sa3015773,699024,12494,,60403
+ckvleldgkh,Bernal,Leonardo,,2004,2,13,,sa3015773,699024,12494,bernale01,60403
 cle93hflt8,Westburg,Jordan,,1999,2,18,westbjo01,27815,676059,11610,westbjo01,12122
 clvncrw08w,Hoffmann,Andrew,,2000,2,2,hoffman01,29633,694851,12401,,60204
 cmzm30k2gr,Osuna,Alejandro,,2002,10,10,osunaal02,27915,696030,12300,osunaal02,60436
@@ -849,7 +849,7 @@ gzg4fwh5r8,Vazquez,Luis,,1999,10,10,vazqulu01,23442,676679,11964,vazqulu01,61911
 h0ws4vgm4w,Roberts,Ethan,,1997,7,4,roberet01,24930,681799,11361,,12327
 h1mw96sp4h,Weissert,Greg,,1995,2,4,weissgr01,20375,669711,10585,weissgr01,12685
 h1yz56lxwh,Javier,Cristian,,1997,3,26,javiecr01,17606,664299,10717,javiecr01,11315
-h2cx9lnj8m,Weiss,Ryan,,1996,12,10,,sa3007778,680802,11375,,12349
+h2cx9lnj8m,Weiss,Ryan,,1996,12,10,,sa3007778,680802,11375,weissry01,12349
 h2pxhtsyl0,Misner,Kameron,,1998,1,8,misneka01,26374,670224,12139,misneka01,11784
 h37zjyr4bm,Caissie,Owen,,2002,7,8,caissow01,27496,683357,12050,caissow01,12127
 h3smyr786d,Keller,Mitch,,1996,4,4,kellemi03,17594,656605,9799,kellemi01,10565
@@ -1030,7 +1030,7 @@ lbxyxp2h58,Salazar,Eduardo,,1998,5,5,salazed01,23135,674285,11795,salazed01,6286
 lc15p9yx14,Kim,Ha-Seong,,1995,10,17,kimha01,27506,673490,11147,kimha01,12116
 lc2c1qq11d,Judge,Aaron,,1992,4,26,judgeaa01,15640,592450,8956,judgeaa01,9877
 lcs4xn65cw,Newcomb,Sean,,1993,6,12,newcose01,16943,656794,8947,newcose01,9868
-ldqj4bf5ww,Ponce,Cody,,1994,4,25,ponceco01,17920,664074,10774,,10526
+ldqj4bf5ww,Ponce,Cody,,1994,4,25,ponceco01,17920,664074,10774,ponceco01,10526
 lemtkrvsvr,Ramirez,Yohan,,1995,5,6,ramiryo01,19444,670990,10796,ramiryo01,11713
 lemv3k277d,Payamps,Joel,,1994,4,7,payamjo01,14332,606303,10496,payamjo01,11193
 lesbfq6zgm,Shaw,Matt,,2001,11,6,shawma01,33322,807713,11921,shawma01,62984
@@ -1159,7 +1159,7 @@ nnfe21j10h,Thomas,Alek,,2000,4,28,thomaal01,23792,677950,10126,thomaal01,11267
 nph8ql4n0r,Luciano,Marco,,2001,9,10,luciama01,25616,682617,10415,luciama01,11388
 npxcq4qv3r,De Geus,Brett,,1997,11,4,degeubr01,23592,676969,11072,degeubr01,12032
 nqh6jhwzxw,Grisham,Trent,,1996,11,1,grishtr01,18564,663757,10658,grishtr01,10522
-nrdrnyhtx4,Poulin,PJ,,1996,7,25,poulipj01,23394,676571,12423,,62678
+nrdrnyhtx4,Poulin,PJ,,1996,7,25,poulipj01,23394,676571,12423,poulipj01,62678
 nt7wqcw50r,Lowe,Josh,,1998,2,2,lowejo01,19953,666139,10254,lowejo01,10601
 nvzxjzbhlr,Campusano,Luis,,1998,9,29,campulu01,22217,669134,11043,campulu01,11527
 nw61lv5hd4,Blackburn,Paul,,1993,12,4,blackpa01,14739,621112,9578,blackpa01,10756
@@ -1195,12 +1195,12 @@ p9f6wxmcth,Yepez,Juan,,1998,2,19,yepezju01,18400,660766,11302,yepezju01,12283
 pdk1b1bqth,Flexen,Chris,,1994,7,1,flexech01,13896,623167,9502,flexech01,10769
 pdy7g1pej8,Hernaiz,Darell,,2001,8,3,hernada04,26224,687231,11920,hernada04,60638
 pf9b67ye34,Baez,Henry,,2002,10,12,,sa3016584,692013,12287,,64816
-pg20jkj5ch,Henry,Cole,,1999,7,15,henryco01,27570,669371,11423,,12182
+pg20jkj5ch,Henry,Cole,,1999,7,15,henryco01,27570,669371,11423,henryco01,12182
 pgx3zt8ykm,Palisch,Jake,,1998,8,19,palisja01,31598,669449,12416,,63999
 pgyl33bqx0,Taylor,Samad,,1998,7,11,taylosa04,22274,669392,11640,taylosa01,12575
 phc2e77c7d,Uribe,Abner,,2000,6,20,uribeab01,25327,682842,11664,uribeab01,12746
 pjf3yjtf64,Witt Jr.,Bobby,,2000,6,14,wittbo02,25764,677951,10932,wittbo02,11771
-pjttz7sdfw,Thompson,Sterlin,,2001,6,26,,sa3019999,694514,11938,,60146
+pjttz7sdfw,Thompson,Sterlin,,2001,6,26,,sa3019999,694514,11938,thompst01,60146
 pkyjbg0bmm,Shenton,Austin,,1998,1,22,shentau01,25425,668853,10869,shentau01,11994
 pkzcf2k7eh,Alvarez,Yordan,,1997,6,27,alvaryo01,19556,670541,10367,alvaryo01,10883
 pl257qjkg0,Quijada,Jose,,1995,11,9,quijajo01,19200,650671,10465,quijajo01,11217
@@ -1326,7 +1326,7 @@ rzc5l2strh,Speier,Gabe,,1995,4,12,speiega01,17170,642100,10688,speiega01,11653
 rzrz4zgykr,Severino,Luis,,1994,2,20,severlu01,15890,622663,8958,severlu01,9879
 rzsn1tn2l8,Acosta,Daison,,1998,8,24,,sa944989,670897,12597,,61291
 s0zpdbgl6m,Arias,Luarbert,,2000,12,12,ariaslu01,23811,678215,12245,,61273
-s3n0jzl4br,Gibson,Cade,,1998,2,18,gibsoca01,31815,806188,12382,,61279
+s3n0jzl4br,Gibson,Cade,,1998,2,18,gibsoca01,31815,806188,12382,gibsoca01,61279
 s3s8zspnew,Tarnok,Freddy,,1998,11,24,tarnofr01,23324,676206,11335,tarnofr01,11424
 s3tx9ee770,Baez,Javier,,1992,12,1,baezja01,12979,595879,8643,baezja01,9557
 s4h64n1nz8,Seigler,Anthony,,1999,6,20,seiglan01,23802,678011,10136,,11356
@@ -1364,7 +1364,7 @@ sq6q3jp7gr,Leasure,Jordan,,1998,8,15,leasujo01,29950,673929,12028,leasujo01,6208
 sqlyex3bn4,Leiter Jr.,Mark,,1991,3,13,leitema02,15551,643410,9648,leitema02,10681
 sr6x6mey1w,Funderburk,Kody,,1996,11,27,fundeko01,24993,681892,11850,,61718
 srl4pgb9sr,McGough,Scott,,1989,10,31,mcgousc01,12056,543518,9130,mcgousc01,10054
-ss0bpzzcc0,Susac,Daniel,,2001,5,14,,sa3019997,691740,12503,,60308
+ss0bpzzcc0,Susac,Daniel,,2001,5,14,,sa3019997,691740,12503,susacda01,60308
 ssbt9jezer,Bliss,Ryan,,1999,12,13,blissry01,29547,669208,11941,blissry01,12358
 st0rqlc7e0,Minter,A.J.,,1993,9,2,minteaj01,18655,621345,9734,minteaj01,10794
 st9y7f68q8,Enns,Dietrich,,1991,5,16,ennsdi01,13932,608650,9525,ennsdi01,10783
@@ -1603,7 +1603,7 @@ y5qcrfhv1m,Bednar,David,,1994,10,10,bednada01,19569,670280,10681,bednada01,11645
 y6re58sg4r,Azocar,Jose,,1996,5,11,azocajo01,18821,640492,11446,azocajo01,10476
 y7461vzl5w,Mathews,Quinn,,2000,10,4,mathequ01,sa3023407,687273,12192,mathequ01,62874
 y7b4h2hyvm,Zastryzny,Rob,,1992,3,26,zastrro01,15094,642239,9435,,10371
-y7wc100l9m,Acosta,Maximo,,2002,10,29,acostma02,27963,691185,12290,,11848
+y7wc100l9m,Acosta,Maximo,,2002,10,29,acostma02,27963,691185,12290,acostma01,11848
 y80pwcw504,Rea,Colin,,1990,7,1,reaco01,12317,607067,9124,reaco01,10048
 y825148vnh,Hampton,Chase,,2001,8,7,,sa3020682,694633,11930,hamptch01,61918
 y8r8nxqemd,Megill,Trevor,,1993,12,5,megiltr01,17722,656730,10804,megiltr01,11717
