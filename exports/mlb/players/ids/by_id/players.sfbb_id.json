@@ -2429,6 +2429,15 @@
     "sfbb_id": "dollach01",
     "yahoo_id": "62975"
   },
+  "grifffo01": {
+    "prism_id": "6s5e51ekd8",
+    "bbref_id": "grifffo01",
+    "fangraphs_id": "16432",
+    "mlbam_id": "656492",
+    "nfbc_id": "10748",
+    "sfbb_id": "grifffo01",
+    "yahoo_id": "10489"
+  },
   "flaheja01": {
     "prism_id": "6sbxykbmbm",
     "bbref_id": "flaheja01",
@@ -5191,6 +5200,15 @@
     "nfbc_id": "8657",
     "sfbb_id": "murphto04",
     "yahoo_id": "9570"
+  },
+  "austity01": {
+    "prism_id": "eer7yv45l4",
+    "bbref_id": "austity01",
+    "fangraphs_id": "11850",
+    "mlbam_id": "592122",
+    "nfbc_id": "8686",
+    "sfbb_id": "austity01",
+    "yahoo_id": "9603"
   },
   "keplema01": {
     "prism_id": "ef1ltv3nb4",
