@@ -12419,6 +12419,21 @@
     "sfbb_id": "coningr01",
     "yahoo_id": "11555"
   },
+  "murakmu01": {
+    "prism_id": "kyv4snybb0",
+    "last_name": "Murakami",
+    "first_name": "Munetaka",
+    "middle_name": null,
+    "birth_year": "2000",
+    "birth_month": "2",
+    "birth_day": "2",
+    "bbref_id": null,
+    "fangraphs_id": "sa3063258",
+    "mlbam_id": "808959",
+    "nfbc_id": "12351",
+    "sfbb_id": "murakmu01",
+    "yahoo_id": "66369"
+  },
   "fishebr01": {
     "prism_id": "kyw2p4ms50",
     "last_name": "Fisher",
@@ -20218,6 +20233,21 @@
     "nfbc_id": "9342",
     "sfbb_id": "devench02",
     "yahoo_id": "10264"
+  },
+  "songsu01": {
+    "prism_id": "z747l5prw0",
+    "last_name": "Song",
+    "first_name": "Sung-Mun",
+    "middle_name": null,
+    "birth_year": "1996",
+    "birth_month": "8",
+    "birth_day": "29",
+    "bbref_id": null,
+    "fangraphs_id": "sa3012529",
+    "mlbam_id": "823550",
+    "nfbc_id": "12592",
+    "sfbb_id": "songsu01",
+    "yahoo_id": "64169"
   },
   "smithca06": {
     "prism_id": "z85yq85ez0",
