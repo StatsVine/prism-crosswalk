@@ -276,13 +276,13 @@ prism_id,last_name,first_name,middle_name,birth_year,birth_month,birth_day,bbref
 5c8qzxyjh0,Areinamo,Jadher,,2003,11,28,,sa3015802,699130,12582,,62560
 5cffnm9vpw,Brown,Ben,,1999,9,9,brownbe02,23590,676962,11935,brownbe02,12748
 5czbfr27dh,Wilcox,Cole,,1999,7,14,wilcoco01,27481,677961,11097,,12006
-5d9qp0drkd,Genao,Angel,Luis,2004,5,19,,sa3015706,694197,12513,,60143
+5d9qp0drkd,Genao,Angel,Luis,2004,5,19,,sa3015706,694197,12513,genaoan01,60143
 5ddgfmvx3m,Davitt,Duncan,,1999,9,23,,sa3020394,701474,12557,davitdu01,66161
 5dmpwvj910,D'Arnaud,Travis,,1989,2,10,darnatr01,7739,518595,8211,darnatr01,9096
 5dpsrhbkl0,Hoerner,Nico,,1997,5,13,hoernni01,21479,663538,10302,hoernni01,11284
 5dw550fr1d,Melton,Troy,,2000,12,3,meltotr01,31807,675512,12430,meltotr01,60175
 5etx98k1cd,Winkler,Jack,,1998,11,4,winklja01,29830,676466,12402,,64020
-5f8s2dbthd,Gonzalez,Gabriel,,2004,1,4,,sa3015723,694224,12537,,12539
+5f8s2dbthd,Gonzalez,Gabriel,,2004,1,4,,sa3015723,694224,12537,gonzaga01,12539
 5fcz8f1mcm,Clase,Emmanuel,,1998,3,18,claseem01,21032,661403,10661,claseem01,11625
 5g6zptx6z0,Call,Alex,,1994,9,27,callal02,19296,669743,10520,callal02,12653
 5gbspd7lqh,Perez,Wenceel,,1999,10,30,perezwe01,22857,672761,10434,perezwe01,11761
@@ -1362,7 +1362,7 @@ snkqz1bwed,Svanson,Matt,,1999,1,31,svansma01,29629,694335,12266,svansma01,63308
 sp8f7ws9r4,Nelson,Ryne,,1998,2,1,nelsory01,26253,669194,11326,nelsory01,12356
 sq6q3jp7gr,Leasure,Jordan,,1998,8,15,leasujo01,29950,673929,12028,leasujo01,62085
 sqlyex3bn4,Leiter Jr.,Mark,,1991,3,13,leitema02,15551,643410,9648,leitema02,10681
-sr6x6mey1w,Funderburk,Kody,,1996,11,27,fundeko01,24993,681892,11850,,61718
+sr6x6mey1w,Funderburk,Kody,,1996,11,27,fundeko01,24993,681892,11850,fundeko01,61718
 srl4pgb9sr,McGough,Scott,,1989,10,31,mcgousc01,12056,543518,9130,mcgousc01,10054
 ss0bpzzcc0,Susac,Daniel,,2001,5,14,,sa3019997,691740,12503,susacda01,60308
 ssbt9jezer,Bliss,Ryan,,1999,12,13,blissry01,29547,669208,11941,blissry01,12358
@@ -1552,7 +1552,7 @@ x762qn0bv0,Martinez,Justin,,2001,7,30,martiju01,24453,679885,11666,martiju01,127
 x7bb7sxmp8,Herget,Kevin,,1991,4,3,hergeke01,15369,643361,11539,,12675
 x9nkx4w9d8,Sandoval,Patrick,,1996,10,18,sandopa02,19447,663776,10308,sandopa02,11478
 x9q32gsp1w,Mayer,Marcelo,,2002,12,12,mayerma01,29668,691785,11934,mayerma01,12375
-xb25b5sxkr,Arroyo,Edwin,,2003,8,25,,sa3017626,695490,12584,,12534
+xb25b5sxkr,Arroyo,Edwin,,2003,8,25,,sa3017626,695490,12584,arroyed01,12534
 xc711fcqhr,Blewett,Scott,,1996,4,10,blewesc01,16427,656240,10452,,10488
 xeg61744wr,Baumler,Carter,,2002,1,31,,sa3014480,691945,12607,,60099
 xf3y0cz9mm,Legumina,Casey,,1997,6,19,legumca01,25921,668984,11690,,12728
