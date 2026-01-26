@@ -4328,6 +4328,15 @@
     "sfbb_id": "bibeeta01",
     "yahoo_id": "60137"
   },
+  "gillico01": {
+    "prism_id": "c4qlwdxbs8",
+    "bbref_id": "gillico01",
+    "fangraphs_id": "26171",
+    "mlbam_id": "687362",
+    "nfbc_id": "12142",
+    "sfbb_id": "gillico01",
+    "yahoo_id": "63927"
+  },
   "leeha02": {
     "prism_id": "c59m34lcrd",
     "bbref_id": null,
@@ -4363,6 +4372,15 @@
     "nfbc_id": "9432",
     "sfbb_id": "swansda01",
     "yahoo_id": "10234"
+  },
+  "booseca01": {
+    "prism_id": "c7xsbf7n0d",
+    "bbref_id": "booseca01",
+    "fangraphs_id": "16061",
+    "mlbam_id": "592155",
+    "nfbc_id": "12080",
+    "sfbb_id": "booseca01",
+    "yahoo_id": "61577"
   },
   "pegueli01": {
     "prism_id": "c7ynjc2qs0",
@@ -10232,6 +10250,15 @@
     "sfbb_id": "nelsoky01",
     "yahoo_id": "11893"
   },
+  "ribalor01": {
+    "prism_id": "swr2qn24ew",
+    "bbref_id": "ribalor01",
+    "fangraphs_id": "26247",
+    "mlbam_id": "687377",
+    "nfbc_id": "12153",
+    "sfbb_id": "ribalor01",
+    "yahoo_id": "64784"
+  },
   "mastrmi01": {
     "prism_id": "sxc7z1lrmm",
     "bbref_id": "mastrmi01",
@@ -11150,6 +11177,15 @@
     "sfbb_id": "manzaky01",
     "yahoo_id": "60411"
   },
+  "headrbr01": {
+    "prism_id": "wc66clfg7h",
+    "bbref_id": "headrbr01",
+    "fangraphs_id": "27702",
+    "mlbam_id": "687396",
+    "nfbc_id": "11689",
+    "sfbb_id": "headrbr01",
+    "yahoo_id": "12727"
+  },
   "fairbpe01": {
     "prism_id": "wd10g6jhqw",
     "bbref_id": "fairbpe01",
@@ -12023,6 +12059,15 @@
     "sfbb_id": "taillja01",
     "yahoo_id": "9123"
   },
+  "johnsry01": {
+    "prism_id": "yp3dymzkw4",
+    "bbref_id": "johnsry01",
+    "fangraphs_id": "35325",
+    "mlbam_id": "696270",
+    "nfbc_id": "12368",
+    "sfbb_id": "johnsry01",
+    "yahoo_id": "64367"
+  },
   "smithwi05": {
     "prism_id": "ypp62bv758",
     "bbref_id": "smithwi05",
@@ -12382,6 +12427,24 @@
     "nfbc_id": "11073",
     "sfbb_id": "millebo06",
     "yahoo_id": "12037"
+  },
+  "kranima01": {
+    "prism_id": "zqy3hkvsbh",
+    "bbref_id": "kranima01",
+    "fangraphs_id": "22175",
+    "mlbam_id": "668820",
+    "nfbc_id": "10909",
+    "sfbb_id": "kranima01",
+    "yahoo_id": "11977"
+  },
+  "soriage01": {
+    "prism_id": "zqzl32tfnh",
+    "bbref_id": "soriage01",
+    "fangraphs_id": "21863",
+    "mlbam_id": "666277",
+    "nfbc_id": "11684",
+    "sfbb_id": "soriage01",
+    "yahoo_id": "12751"
   },
   "wilsowe01": {
     "prism_id": "zst146vygd",

@@ -8989,14 +8989,14 @@
     "last_name": "Gillispie",
     "first_name": "Connor",
     "middle_name": null,
-    "birth_year": null,
-    "birth_month": null,
-    "birth_day": null,
+    "birth_year": "1997",
+    "birth_month": "11",
+    "birth_day": "10",
     "bbref_id": "gillico01",
     "fangraphs_id": "26171",
     "mlbam_id": "687362",
     "nfbc_id": "12142",
-    "sfbb_id": null,
+    "sfbb_id": "gillico01",
     "yahoo_id": "63927"
   },
   {
@@ -9086,7 +9086,7 @@
     "fangraphs_id": "16061",
     "mlbam_id": "592155",
     "nfbc_id": "12080",
-    "sfbb_id": null,
+    "sfbb_id": "booseca01",
     "yahoo_id": "61577"
   },
   {
@@ -20636,7 +20636,7 @@
     "fangraphs_id": "26247",
     "mlbam_id": "687377",
     "nfbc_id": "12153",
-    "sfbb_id": null,
+    "sfbb_id": "ribalor01",
     "yahoo_id": "64784"
   },
   {
@@ -22571,7 +22571,7 @@
     "fangraphs_id": "27702",
     "mlbam_id": "687396",
     "nfbc_id": "11689",
-    "sfbb_id": null,
+    "sfbb_id": "headrbr01",
     "yahoo_id": "12727"
   },
   {
@@ -24319,14 +24319,14 @@
     "last_name": "Johnson",
     "first_name": "Ryan",
     "middle_name": null,
-    "birth_year": null,
-    "birth_month": null,
-    "birth_day": null,
+    "birth_year": "2002",
+    "birth_month": "8",
+    "birth_day": "5",
     "bbref_id": "johnsry01",
     "fangraphs_id": "35325",
     "mlbam_id": "696270",
     "nfbc_id": "12368",
-    "sfbb_id": null,
+    "sfbb_id": "johnsry01",
     "yahoo_id": "64367"
   },
   {
@@ -25039,14 +25039,14 @@
     "last_name": "Kranick",
     "first_name": "Max",
     "middle_name": null,
-    "birth_year": null,
-    "birth_month": null,
-    "birth_day": null,
+    "birth_year": "1997",
+    "birth_month": "7",
+    "birth_day": "21",
     "bbref_id": "kranima01",
     "fangraphs_id": "22175",
     "mlbam_id": "668820",
     "nfbc_id": "10909",
-    "sfbb_id": null,
+    "sfbb_id": "kranima01",
     "yahoo_id": "11977"
   },
   {
@@ -25061,7 +25061,7 @@
     "fangraphs_id": "21863",
     "mlbam_id": "666277",
     "nfbc_id": "11684",
-    "sfbb_id": null,
+    "sfbb_id": "soriage01",
     "yahoo_id": "12751"
   },
   {
