@@ -2099,6 +2099,21 @@
     "sfbb_id": "pivetni01",
     "yahoo_id": "10683"
   },
+  "wethejj01": {
+    "prism_id": "38efdrbp6m",
+    "last_name": "Wetherholt",
+    "first_name": "JJ",
+    "middle_name": null,
+    "birth_year": "2002",
+    "birth_month": "9",
+    "birth_day": "10",
+    "bbref_id": null,
+    "fangraphs_id": "sa3025154",
+    "mlbam_id": "802139",
+    "nfbc_id": "12302",
+    "sfbb_id": "wethejj01",
+    "yahoo_id": "64317"
+  },
   "burkese01": {
     "prism_id": "39ntptknt0",
     "last_name": "Burke",
@@ -4183,6 +4198,21 @@
     "nfbc_id": "11966",
     "sfbb_id": "blalobr01",
     "yahoo_id": "63311"
+  },
+  "mcgonke01": {
+    "prism_id": "6m1fqk0z28",
+    "last_name": "McGonigle",
+    "first_name": "Kevin",
+    "middle_name": null,
+    "birth_year": "2004",
+    "birth_month": "8",
+    "birth_day": "18",
+    "bbref_id": null,
+    "fangraphs_id": "sa3022895",
+    "mlbam_id": "805808",
+    "nfbc_id": "12470",
+    "sfbb_id": "mcgonke01",
+    "yahoo_id": "62955"
   },
   "millebr04": {
     "prism_id": "6n7j3ftbm4",
@@ -10784,6 +10814,21 @@
     "sfbb_id": "vazqulu01",
     "yahoo_id": "61911"
   },
+  "griffko01": {
+    "prism_id": "h1lm2rr94w",
+    "last_name": "Griffin",
+    "first_name": "Konnor",
+    "middle_name": null,
+    "birth_year": "2006",
+    "birth_month": "4",
+    "birth_day": "24",
+    "bbref_id": null,
+    "fangraphs_id": "sa3065496",
+    "mlbam_id": "804606",
+    "nfbc_id": "12469",
+    "sfbb_id": "griffko01",
+    "yahoo_id": "64318"
+  },
   "weissgr01": {
     "prism_id": "h1mw96sp4h",
     "last_name": "Weissert",
@@ -16228,6 +16273,21 @@
     "nfbc_id": "10854",
     "sfbb_id": "manoaal01",
     "yahoo_id": "11854"
+  },
+  "bengeca01": {
+    "prism_id": "qpqftyfeyd",
+    "last_name": "Benge",
+    "first_name": "Carson",
+    "middle_name": null,
+    "birth_year": "2003",
+    "birth_month": "1",
+    "birth_day": "20",
+    "bbref_id": null,
+    "fangraphs_id": "sa3025452",
+    "mlbam_id": "701807",
+    "nfbc_id": "12480",
+    "sfbb_id": "bengeca01",
+    "yahoo_id": "64329"
   },
   "colliis01": {
     "prism_id": "qqmnssb8bm",
