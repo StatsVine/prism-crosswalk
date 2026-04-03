@@ -1261,7 +1261,7 @@
   },
   "wethejj01": {
     "prism_id": "38efdrbp6m",
-    "bbref_id": null,
+    "bbref_id": "wethejj01",
     "fangraphs_id": "34985",
     "mlbam_id": "802139",
     "nfbc_id": "12302",
@@ -2530,7 +2530,7 @@
   },
   "mcgonke01": {
     "prism_id": "6m1fqk0z28",
-    "bbref_id": null,
+    "bbref_id": "mcgonke01",
     "fangraphs_id": "33572",
     "mlbam_id": "805808",
     "nfbc_id": "12470",
@@ -3709,7 +3709,7 @@
   },
   "crawfju01": {
     "prism_id": "97z9kh57tw",
-    "bbref_id": null,
+    "bbref_id": "crawfju01",
     "fangraphs_id": "31791",
     "mlbam_id": "702222",
     "nfbc_id": "12303",
@@ -6553,7 +6553,7 @@
   },
   "weissry01": {
     "prism_id": "h2cx9lnj8m",
-    "bbref_id": null,
+    "bbref_id": "weissry01",
     "fangraphs_id": "24621",
     "mlbam_id": "680802",
     "nfbc_id": "11375",
@@ -6895,7 +6895,7 @@
   },
   "imaita01": {
     "prism_id": "hthywk3qcm",
-    "bbref_id": null,
+    "bbref_id": "imaita01",
     "fangraphs_id": "37124",
     "mlbam_id": "837227",
     "nfbc_id": "12471",
@@ -6991,6 +6991,15 @@
     "nfbc_id": "11023",
     "sfbb_id": "seaboco01",
     "yahoo_id": "11518"
+  },
+  "fernajo06": {
+    "prism_id": "hzlmjzs56h",
+    "bbref_id": "fernajo06",
+    "fangraphs_id": "28020",
+    "mlbam_id": "699912",
+    "nfbc_id": "12555",
+    "sfbb_id": "fernajo06",
+    "yahoo_id": "64063"
   },
   "vasqura02": {
     "prism_id": "j03tjl3vvm",
@@ -7786,7 +7795,7 @@
   },
   "murakmu01": {
     "prism_id": "kyv4snybb0",
-    "bbref_id": null,
+    "bbref_id": "murakmu01",
     "fangraphs_id": "37120",
     "mlbam_id": "808959",
     "nfbc_id": "12351",
@@ -9100,7 +9109,7 @@
   },
   "okamoka01": {
     "prism_id": "nyjexlc3cm",
-    "bbref_id": null,
+    "bbref_id": "okamoka01",
     "fangraphs_id": "37123",
     "mlbam_id": "672960",
     "nfbc_id": "12490",
@@ -9757,7 +9766,7 @@
   },
   "rumfitj01": {
     "prism_id": "qh49shdnxr",
-    "bbref_id": null,
+    "bbref_id": "rumfitj01",
     "fangraphs_id": "29805",
     "mlbam_id": "681198",
     "nfbc_id": "12626",
@@ -9820,7 +9829,7 @@
   },
   "bengeca01": {
     "prism_id": "qpqftyfeyd",
-    "bbref_id": null,
+    "bbref_id": "bengeca01",
     "fangraphs_id": "35177",
     "mlbam_id": "701807",
     "nfbc_id": "12480",
