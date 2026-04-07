@@ -9914,7 +9914,7 @@
     "sfbb_id": "wilsost02",
     "yahoo_id": "12307"
   },
-  "sa3016805": {
+  "28848": {
     "prism_id": "d9r4c0564h",
     "last_name": "Murray",
     "first_name": "Tanner",
@@ -9922,8 +9922,8 @@
     "birth_year": "1999",
     "birth_month": "9",
     "birth_day": "3",
-    "bbref_id": null,
-    "fangraphs_id": "sa3016805",
+    "bbref_id": "murrata01",
+    "fangraphs_id": "28848",
     "mlbam_id": "695020",
     "nfbc_id": "12590",
     "sfbb_id": null,
@@ -21509,7 +21509,7 @@
     "sfbb_id": "holdeco01",
     "yahoo_id": "12616"
   },
-  "sa3017643": {
+  "29961": {
     "prism_id": "tsggrwtw34",
     "last_name": "Uberstine",
     "first_name": "Tyler",
@@ -21517,8 +21517,8 @@
     "birth_year": "1999",
     "birth_month": "6",
     "birth_day": "1",
-    "bbref_id": null,
-    "fangraphs_id": "sa3017643",
+    "bbref_id": "ubersty01",
+    "fangraphs_id": "29961",
     "mlbam_id": "700413",
     "nfbc_id": "12579",
     "sfbb_id": null,
@@ -22244,7 +22244,7 @@
     "sfbb_id": "smithsh01",
     "yahoo_id": "63967"
   },
-  "sa3005729": {
+  "23813": {
     "prism_id": "vmwrwmehd0",
     "last_name": "Valenzuela",
     "first_name": "Brandon",
@@ -22252,8 +22252,8 @@
     "birth_year": "2000",
     "birth_month": "10",
     "birth_day": "2",
-    "bbref_id": null,
-    "fangraphs_id": "sa3005729",
+    "bbref_id": "valenbr01",
+    "fangraphs_id": "23813",
     "mlbam_id": "678218",
     "nfbc_id": "12527",
     "sfbb_id": null,
@@ -24944,7 +24944,7 @@
     "sfbb_id": "lawreju01",
     "yahoo_id": "11207"
   },
-  "sa3023440": {
+  "33464": {
     "prism_id": "z8ynjrp42m",
     "last_name": "Klassen",
     "first_name": "George",
@@ -24953,10 +24953,10 @@
     "birth_month": "1",
     "birth_day": "26",
     "bbref_id": "klassge01",
-    "fangraphs_id": "sa3023440",
+    "fangraphs_id": "33464",
     "mlbam_id": "691946",
     "nfbc_id": "12220",
-    "sfbb_id": null,
+    "sfbb_id": "klassge01",
     "yahoo_id": "63064"
   },
   "33189": {

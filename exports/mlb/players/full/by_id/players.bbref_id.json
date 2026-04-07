@@ -9209,6 +9209,21 @@
     "sfbb_id": "wilsost02",
     "yahoo_id": "12307"
   },
+  "murrata01": {
+    "prism_id": "d9r4c0564h",
+    "last_name": "Murray",
+    "first_name": "Tanner",
+    "middle_name": null,
+    "birth_year": "1999",
+    "birth_month": "9",
+    "birth_day": "3",
+    "bbref_id": "murrata01",
+    "fangraphs_id": "28848",
+    "mlbam_id": "695020",
+    "nfbc_id": "12590",
+    "sfbb_id": null,
+    "yahoo_id": "62220"
+  },
   "gustory01": {
     "prism_id": "d9v8ycssfr",
     "last_name": "Gusto",
@@ -19994,6 +20009,21 @@
     "sfbb_id": "holdeco01",
     "yahoo_id": "12616"
   },
+  "ubersty01": {
+    "prism_id": "tsggrwtw34",
+    "last_name": "Uberstine",
+    "first_name": "Tyler",
+    "middle_name": null,
+    "birth_year": "1999",
+    "birth_month": "6",
+    "birth_day": "1",
+    "bbref_id": "ubersty01",
+    "fangraphs_id": "29961",
+    "mlbam_id": "700413",
+    "nfbc_id": "12579",
+    "sfbb_id": null,
+    "yahoo_id": "66385"
+  },
   "stubbga01": {
     "prism_id": "tsqhv98nhr",
     "last_name": "Stubbs",
@@ -20653,6 +20683,21 @@
     "nfbc_id": "12305",
     "sfbb_id": "smithsh01",
     "yahoo_id": "63967"
+  },
+  "valenbr01": {
+    "prism_id": "vmwrwmehd0",
+    "last_name": "Valenzuela",
+    "first_name": "Brandon",
+    "middle_name": null,
+    "birth_year": "2000",
+    "birth_month": "10",
+    "birth_day": "2",
+    "bbref_id": "valenbr01",
+    "fangraphs_id": "23813",
+    "mlbam_id": "678218",
+    "nfbc_id": "12527",
+    "sfbb_id": null,
+    "yahoo_id": "12530"
   },
   "gilbelo01": {
     "prism_id": "vn6t43sjy0",
@@ -23138,10 +23183,10 @@
     "birth_month": "1",
     "birth_day": "26",
     "bbref_id": "klassge01",
-    "fangraphs_id": "sa3023440",
+    "fangraphs_id": "33464",
     "mlbam_id": "691946",
     "nfbc_id": "12220",
-    "sfbb_id": null,
+    "sfbb_id": "klassge01",
     "yahoo_id": "63064"
   },
   "schanno01": {
