@@ -13628,7 +13628,7 @@
     "birth_month": "9",
     "birth_day": "24",
     "bbref_id": "britoju02",
-    "fangraphs_id": "sa3009808",
+    "fangraphs_id": "26693",
     "mlbam_id": "682877",
     "nfbc_id": "11773",
     "sfbb_id": "britoju02",
@@ -16093,6 +16093,21 @@
     "nfbc_id": "12392",
     "sfbb_id": "tidwebl01",
     "yahoo_id": "60280"
+  },
+  "drohash01": {
+    "prism_id": "n6w016m9wh",
+    "last_name": "Drohan",
+    "first_name": "Shane",
+    "middle_name": null,
+    "birth_year": "1999",
+    "birth_month": "1",
+    "birth_day": "7",
+    "bbref_id": "drohash01",
+    "fangraphs_id": "27814",
+    "mlbam_id": "675660",
+    "nfbc_id": "12005",
+    "sfbb_id": null,
+    "yahoo_id": "60116"
   },
   "chapaan01": {
     "prism_id": "n74xvsg06r",
@@ -22184,6 +22199,21 @@
     "sfbb_id": "wagnewi01",
     "yahoo_id": "61682"
   },
+  "martiri02": {
+    "prism_id": "xkdps6ldmw",
+    "last_name": "Martin",
+    "first_name": "Riley",
+    "middle_name": null,
+    "birth_year": "1998",
+    "birth_month": "3",
+    "birth_day": "19",
+    "bbref_id": "martiri02",
+    "fangraphs_id": "29934",
+    "mlbam_id": "702303",
+    "nfbc_id": "12577",
+    "sfbb_id": null,
+    "yahoo_id": "60741"
+  },
   "schulpa01": {
     "prism_id": "xl1z86e7gd",
     "last_name": "Schultz",
@@ -23023,6 +23053,21 @@
     "nfbc_id": "10623",
     "sfbb_id": "hartlge01",
     "yahoo_id": "11587"
+  },
+  "samanty01": {
+    "prism_id": "yy0g9c9per",
+    "last_name": "Samaniego",
+    "first_name": "Tyler",
+    "middle_name": null,
+    "birth_year": "1999",
+    "birth_month": "1",
+    "birth_day": "30",
+    "bbref_id": "samanty01",
+    "fangraphs_id": "30081",
+    "mlbam_id": "701719",
+    "nfbc_id": "12550",
+    "sfbb_id": null,
+    "yahoo_id": "61969"
   },
   "eatonna01": {
     "prism_id": "yzqgs6pggr",
