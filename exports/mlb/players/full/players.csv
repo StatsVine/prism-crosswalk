@@ -280,7 +280,7 @@ prism_id,last_name,first_name,middle_name,birth_year,birth_month,birth_day,bbref
 5cffnm9vpw,Brown,Ben,,1999,9,9,brownbe02,23590,676962,11935,brownbe02,12748
 5czbfr27dh,Wilcox,Cole,,1999,7,14,wilcoco01,27481,677961,11097,,12006
 5d9qp0drkd,Genao,Angel,Luis,2004,5,19,,sa3015706,694197,12513,genaoan01,60143
-5ddgfmvx3m,Davitt,Duncan,,1999,9,23,,sa3020394,701474,12557,davitdu01,66161
+5ddgfmvx3m,Davitt,Duncan,,1999,9,23,davitdu01,31886,701474,12557,davitdu01,66161
 5dmpwvj910,D'Arnaud,Travis,,1989,2,10,darnatr01,7739,518595,8211,darnatr01,9096
 5dpsrhbkl0,Hoerner,Nico,,1997,5,13,hoernni01,21479,663538,10302,hoernni01,11284
 5dw550fr1d,Melton,Troy,,2000,12,3,meltotr01,31807,675512,12430,meltotr01,60175
