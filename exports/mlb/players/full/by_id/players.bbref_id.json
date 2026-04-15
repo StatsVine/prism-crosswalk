@@ -16739,6 +16739,21 @@
     "sfbb_id": null,
     "yahoo_id": "64787"
   },
+  "schulno01": {
+    "prism_id": "p2b2x8xg0d",
+    "last_name": "Schultz",
+    "first_name": "Noah",
+    "middle_name": null,
+    "birth_year": "2003",
+    "birth_month": "8",
+    "birth_day": "5",
+    "bbref_id": "schulno01",
+    "fangraphs_id": "32056",
+    "mlbam_id": "702273",
+    "nfbc_id": "12197",
+    "sfbb_id": "schulno01",
+    "yahoo_id": "60156"
+  },
   "bellobr01": {
     "prism_id": "p2dbycs0sw",
     "last_name": "Bello",
@@ -21223,6 +21238,21 @@
     "nfbc_id": "11767",
     "sfbb_id": "monteco01",
     "yahoo_id": "60689"
+  },
+  "anderja02": {
+    "prism_id": "w7q6vfv91h",
+    "last_name": "Anderson",
+    "first_name": "Jack",
+    "middle_name": "Thomas",
+    "birth_year": "1999",
+    "birth_month": "11",
+    "birth_day": "23",
+    "bbref_id": "anderja02",
+    "fangraphs_id": "30086",
+    "mlbam_id": "681252",
+    "nfbc_id": "12652",
+    "sfbb_id": null,
+    "yahoo_id": "62643"
   },
   "sternju01": {
     "prism_id": "w8y9dz0jbr",
