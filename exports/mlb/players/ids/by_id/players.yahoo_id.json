@@ -7651,8 +7651,8 @@
   },
   "64533": {
     "prism_id": "gt9ln5hp6d",
-    "bbref_id": null,
-    "fangraphs_id": "sa3025363",
+    "bbref_id": "antonsa01",
+    "fangraphs_id": "35101",
     "mlbam_id": "803011",
     "nfbc_id": "12631",
     "sfbb_id": null,
@@ -11779,6 +11779,15 @@
     "nfbc_id": "10848",
     "sfbb_id": "shewmbr01",
     "yahoo_id": "11729"
+  },
+  "67034": {
+    "prism_id": "r6mrvbm8sm",
+    "bbref_id": "collyga01",
+    "fangraphs_id": "26349",
+    "mlbam_id": "686560",
+    "nfbc_id": "12653",
+    "sfbb_id": null,
+    "yahoo_id": "67034"
   },
   "11825": {
     "prism_id": "r6yy5dgt6m",

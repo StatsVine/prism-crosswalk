@@ -11909,6 +11909,21 @@
     "sfbb_id": null,
     "yahoo_id": "60514"
   },
+  "antonsa01": {
+    "prism_id": "gt9ln5hp6d",
+    "last_name": "Antonacci",
+    "first_name": "Sam",
+    "middle_name": null,
+    "birth_year": "2003",
+    "birth_month": "2",
+    "birth_day": "6",
+    "bbref_id": "antonsa01",
+    "fangraphs_id": "35101",
+    "mlbam_id": "803011",
+    "nfbc_id": "12631",
+    "sfbb_id": null,
+    "yahoo_id": "64533"
+  },
   "monteke01": {
     "prism_id": "gv4wm27ech",
     "last_name": "Montero",
@@ -18343,6 +18358,21 @@
     "nfbc_id": "10848",
     "sfbb_id": "shewmbr01",
     "yahoo_id": "11729"
+  },
+  "collyga01": {
+    "prism_id": "r6mrvbm8sm",
+    "last_name": "Collyer",
+    "first_name": "Gavin",
+    "middle_name": null,
+    "birth_year": "2001",
+    "birth_month": "5",
+    "birth_day": "12",
+    "bbref_id": "collyga01",
+    "fangraphs_id": "26349",
+    "mlbam_id": "686560",
+    "nfbc_id": "12653",
+    "sfbb_id": null,
+    "yahoo_id": "67034"
   },
   "campbis01": {
     "prism_id": "r6yy5dgt6m",
