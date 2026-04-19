@@ -5111,6 +5111,15 @@
     "sfbb_id": "gillico01",
     "yahoo_id": "63927"
   },
+  "leeha02": {
+    "prism_id": "c59m34lcrd",
+    "bbref_id": "leeha02",
+    "fangraphs_id": "30080",
+    "mlbam_id": "701678",
+    "nfbc_id": "12353",
+    "sfbb_id": "leeha02",
+    "yahoo_id": "60319"
+  },
   "rogertr01": {
     "prism_id": "c6lppvs7h4",
     "bbref_id": "rogertr01",
@@ -10987,6 +10996,15 @@
     "nfbc_id": "8950",
     "sfbb_id": "arciaor01",
     "yahoo_id": "9871"
+  },
+  "crowco01": {
+    "prism_id": "r232dm09lr",
+    "bbref_id": "crowco01",
+    "fangraphs_id": "27926",
+    "mlbam_id": "689441",
+    "nfbc_id": "12519",
+    "sfbb_id": "crowco01",
+    "yahoo_id": "60222"
   },
   "clarkde02": {
     "prism_id": "r2lxcj1d78",
