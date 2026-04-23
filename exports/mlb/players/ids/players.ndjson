@@ -253,7 +253,7 @@
 {"prism_id": "4x64hjycnm", "bbref_id": "perkibl01", "fangraphs_id": "19921", "mlbam_id": "663368", "nfbc_id": "11719", "sfbb_id": "perkibl01", "yahoo_id": "11472"}
 {"prism_id": "4xkvdjnwz8", "bbref_id": "rashita01", "fangraphs_id": "26344", "mlbam_id": "688497", "nfbc_id": "12448", "sfbb_id": "rashita01", "yahoo_id": "64065"}
 {"prism_id": "4y2csnrk0d", "bbref_id": "pressry01", "fangraphs_id": "7005", "mlbam_id": "519151", "nfbc_id": "8452", "sfbb_id": "pressry01", "yahoo_id": "9358"}
-{"prism_id": "4ykymx1ycd", "bbref_id": null, "fangraphs_id": "sa3020808", "mlbam_id": "687570", "nfbc_id": "12232", "sfbb_id": "prielco01", "yahoo_id": "60267"}
+{"prism_id": "4ykymx1ycd", "bbref_id": "prielco01", "fangraphs_id": "31857", "mlbam_id": "687570", "nfbc_id": "12232", "sfbb_id": "prielco01", "yahoo_id": "60267"}
 {"prism_id": "4z3sfm8hg8", "bbref_id": "forteni01", "fangraphs_id": "21538", "mlbam_id": "663743", "nfbc_id": "11289", "sfbb_id": "forteni01", "yahoo_id": "12271"}
 {"prism_id": "5148sbchem", "bbref_id": "mcgremi01", "fangraphs_id": "29869", "mlbam_id": "700241", "nfbc_id": "12137", "sfbb_id": "mcgremi01", "yahoo_id": "12549"}
 {"prism_id": "51ds7t9zdr", "bbref_id": "hicksli01", "fangraphs_id": "29844", "mlbam_id": "689414", "nfbc_id": "11943", "sfbb_id": "hicksli01", "yahoo_id": "63648"}
@@ -1642,7 +1642,7 @@
 {"prism_id": "y80pwcw504", "bbref_id": "reaco01", "fangraphs_id": "12317", "mlbam_id": "607067", "nfbc_id": "9124", "sfbb_id": "reaco01", "yahoo_id": "10048"}
 {"prism_id": "y825148vnh", "bbref_id": null, "fangraphs_id": "sa3020682", "mlbam_id": "694633", "nfbc_id": "11930", "sfbb_id": "hamptch01", "yahoo_id": "61918"}
 {"prism_id": "y8r8nxqemd", "bbref_id": "megiltr01", "fangraphs_id": "17722", "mlbam_id": "656730", "nfbc_id": "10804", "sfbb_id": "megiltr01", "yahoo_id": "11717"}
-{"prism_id": "yc56795ek0", "bbref_id": null, "fangraphs_id": "sa3016746", "mlbam_id": "696070", "nfbc_id": "12568", "sfbb_id": "rojaske01", "yahoo_id": "63639"}
+{"prism_id": "yc56795ek0", "bbref_id": "rojaske01", "fangraphs_id": "29423", "mlbam_id": "696070", "nfbc_id": "12568", "sfbb_id": "rojaske01", "yahoo_id": "63639"}
 {"prism_id": "yc77q48550", "bbref_id": "mollsa01", "fangraphs_id": "14874", "mlbam_id": "594580", "nfbc_id": "9498", "sfbb_id": "mollsa01", "yahoo_id": "10178"}
 {"prism_id": "ydq67n1ehd", "bbref_id": null, "fangraphs_id": "sa3017914", "mlbam_id": "672021", "nfbc_id": "12278", "sfbb_id": null, "yahoo_id": "64001"}
 {"prism_id": "yeed20xl9h", "bbref_id": "rasmudr01", "fangraphs_id": "25385", "mlbam_id": "656876", "nfbc_id": "10807", "sfbb_id": "rasmudr01", "yahoo_id": "11789"}

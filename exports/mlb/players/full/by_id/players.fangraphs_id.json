@@ -3824,7 +3824,7 @@
     "sfbb_id": "pressry01",
     "yahoo_id": "9358"
   },
-  "sa3020808": {
+  "31857": {
     "prism_id": "4ykymx1ycd",
     "last_name": "Prielipp",
     "first_name": "Connor",
@@ -3832,8 +3832,8 @@
     "birth_year": "2001",
     "birth_month": "1",
     "birth_day": "10",
-    "bbref_id": null,
-    "fangraphs_id": "sa3020808",
+    "bbref_id": "prielco01",
+    "fangraphs_id": "31857",
     "mlbam_id": "687570",
     "nfbc_id": "12232",
     "sfbb_id": "prielco01",
@@ -24659,7 +24659,7 @@
     "sfbb_id": "megiltr01",
     "yahoo_id": "11717"
   },
-  "sa3016746": {
+  "29423": {
     "prism_id": "yc56795ek0",
     "last_name": "Rojas",
     "first_name": "Kendry",
@@ -24667,8 +24667,8 @@
     "birth_year": "2002",
     "birth_month": "11",
     "birth_day": "26",
-    "bbref_id": null,
-    "fangraphs_id": "sa3016746",
+    "bbref_id": "rojaske01",
+    "fangraphs_id": "29423",
     "mlbam_id": "696070",
     "nfbc_id": "12568",
     "sfbb_id": "rojaske01",
