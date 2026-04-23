@@ -1934,6 +1934,21 @@
     "sfbb_id": "singebr01",
     "yahoo_id": "11323"
   },
+  "smithbu03": {
+    "prism_id": "2p3ssj7xk0",
+    "last_name": "Smith",
+    "first_name": "Burch",
+    "middle_name": null,
+    "birth_year": "1990",
+    "birth_month": "4",
+    "birth_day": "12",
+    "bbref_id": "smithbu03",
+    "fangraphs_id": "12784",
+    "mlbam_id": "572143",
+    "nfbc_id": "8486",
+    "sfbb_id": "smithbu03",
+    "yahoo_id": "9392"
+  },
   "bargead01": {
     "prism_id": "2p5fbwqhg8",
     "last_name": "Barger",
@@ -17473,6 +17488,21 @@
     "nfbc_id": "11992",
     "sfbb_id": null,
     "yahoo_id": "12129"
+  },
+  "rivered01": {
+    "prism_id": "pvyy6h82wm",
+    "last_name": "Rivera",
+    "first_name": "Eduardo",
+    "middle_name": null,
+    "birth_year": "2003",
+    "birth_month": "6",
+    "birth_day": "13",
+    "bbref_id": "rivered01",
+    "fangraphs_id": "31280",
+    "mlbam_id": "700842",
+    "nfbc_id": "12656",
+    "sfbb_id": null,
+    "yahoo_id": "64798"
   },
   "feddeer01": {
     "prism_id": "pw4sbcynl4",
