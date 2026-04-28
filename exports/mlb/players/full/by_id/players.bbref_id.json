@@ -9149,6 +9149,21 @@
     "sfbb_id": "harpebr03",
     "yahoo_id": "8875"
   },
+  "pinanyo01": {
+    "prism_id": "d0fnkkd9em",
+    "last_name": "Pinango",
+    "first_name": "Yohendrick",
+    "middle_name": null,
+    "birth_year": "2002",
+    "birth_month": "5",
+    "birth_day": "7",
+    "bbref_id": "pinanyo01",
+    "fangraphs_id": "26664",
+    "mlbam_id": "682818",
+    "nfbc_id": "12133",
+    "sfbb_id": null,
+    "yahoo_id": "12389"
+  },
   "rouppla01": {
     "prism_id": "d1bg7r482w",
     "last_name": "Roupp",
@@ -23533,6 +23548,21 @@
     "nfbc_id": "9342",
     "sfbb_id": "devench02",
     "yahoo_id": "10264"
+  },
+  "songsu01": {
+    "prism_id": "z747l5prw0",
+    "last_name": "Song",
+    "first_name": "Sung-Mun",
+    "middle_name": null,
+    "birth_year": "1996",
+    "birth_month": "8",
+    "birth_day": "29",
+    "bbref_id": "songsu01",
+    "fangraphs_id": "37122",
+    "mlbam_id": "823550",
+    "nfbc_id": "12592",
+    "sfbb_id": "songsu01",
+    "yahoo_id": "64169"
   },
   "smithca06": {
     "prism_id": "z85yq85ez0",
