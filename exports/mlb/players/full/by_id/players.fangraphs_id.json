@@ -7094,7 +7094,7 @@
     "sfbb_id": "danaca01",
     "yahoo_id": "60217"
   },
-  "sa3023250": {
+  "33794": {
     "prism_id": "8yd517qkc4",
     "last_name": "Gibson",
     "first_name": "Trey",
@@ -7103,10 +7103,10 @@
     "birth_month": "5",
     "birth_day": "18",
     "bbref_id": "gibsotr01",
-    "fangraphs_id": "sa3023250",
+    "fangraphs_id": "33794",
     "mlbam_id": "694346",
     "nfbc_id": "12486",
-    "sfbb_id": null,
+    "sfbb_id": "gibsotr01",
     "yahoo_id": "62806"
   },
   "23363": {
@@ -15239,7 +15239,7 @@
     "sfbb_id": "barlosc01",
     "yahoo_id": "10998"
   },
-  "sa3014980": {
+  "27741": {
     "prism_id": "kpjpzt3tnh",
     "last_name": "Davila",
     "first_name": "Nick",
@@ -15247,8 +15247,8 @@
     "birth_year": "1998",
     "birth_month": "11",
     "birth_day": "21",
-    "bbref_id": null,
-    "fangraphs_id": "sa3014980",
+    "bbref_id": "davilni01",
+    "fangraphs_id": "27741",
     "mlbam_id": "689546",
     "nfbc_id": "12663",
     "sfbb_id": null,
@@ -24689,7 +24689,7 @@
     "sfbb_id": "vavrate01",
     "yahoo_id": "11303"
   },
-  "sa3023204": {
+  "33785": {
     "prism_id": "y5cwfd55f8",
     "last_name": "Ekness",
     "first_name": "Josh",
@@ -24697,8 +24697,8 @@
     "birth_year": "2002",
     "birth_month": "2",
     "birth_day": "7",
-    "bbref_id": null,
-    "fangraphs_id": "sa3023204",
+    "bbref_id": "eknesjo01",
+    "fangraphs_id": "33785",
     "mlbam_id": "694795",
     "nfbc_id": "12662",
     "sfbb_id": null,
