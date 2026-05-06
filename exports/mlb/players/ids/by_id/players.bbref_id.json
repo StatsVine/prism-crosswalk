@@ -665,6 +665,15 @@
     "sfbb_id": "hodgepo01",
     "yahoo_id": "60122"
   },
+  "kempnwi01": {
+    "prism_id": "1enf7y9lc0",
+    "bbref_id": "kempnwi01",
+    "fangraphs_id": "31615",
+    "mlbam_id": "687531",
+    "nfbc_id": "12553",
+    "sfbb_id": null,
+    "yahoo_id": "65048"
+  },
   "yamamyo01": {
     "prism_id": "1exwd6tpgd",
     "bbref_id": "yamamyo01",
@@ -5957,6 +5966,15 @@
     "sfbb_id": "saalfan01",
     "yahoo_id": "61757"
   },
+  "gamboal01": {
+    "prism_id": "dtx3mk40m0",
+    "bbref_id": "gamboal01",
+    "fangraphs_id": "26227",
+    "mlbam_id": "687941",
+    "nfbc_id": "12664",
+    "sfbb_id": null,
+    "yahoo_id": "63874"
+  },
   "cavalca01": {
     "prism_id": "dv1kj6r0dh",
     "bbref_id": "cavalca01",
@@ -10709,6 +10727,15 @@
     "sfbb_id": null,
     "yahoo_id": "60157"
   },
+  "mackjo02": {
+    "prism_id": "q532kgry10",
+    "bbref_id": "mackjo02",
+    "fangraphs_id": "29780",
+    "mlbam_id": "691788",
+    "nfbc_id": "12482",
+    "sfbb_id": "mackjo01",
+    "yahoo_id": "12470"
+  },
   "bryankr01": {
     "prism_id": "q5ejyyvekw",
     "bbref_id": "bryankr01",
@@ -12544,6 +12571,15 @@
     "nfbc_id": "10833",
     "sfbb_id": "martiau01",
     "yahoo_id": "12026"
+  },
+  "rodrije02": {
+    "prism_id": "vbfrl2tc00",
+    "bbref_id": "rodrije02",
+    "fangraphs_id": "26991",
+    "mlbam_id": "683679",
+    "nfbc_id": "12501",
+    "sfbb_id": "rodrije02",
+    "yahoo_id": "61813"
   },
   "youngco01": {
     "prism_id": "vc60peyc70",

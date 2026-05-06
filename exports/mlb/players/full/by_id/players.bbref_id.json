@@ -1109,6 +1109,21 @@
     "sfbb_id": "hodgepo01",
     "yahoo_id": "60122"
   },
+  "kempnwi01": {
+    "prism_id": "1enf7y9lc0",
+    "last_name": "Kempner",
+    "first_name": "William",
+    "middle_name": null,
+    "birth_year": "2001",
+    "birth_month": "6",
+    "birth_day": "18",
+    "bbref_id": "kempnwi01",
+    "fangraphs_id": "31615",
+    "mlbam_id": "687531",
+    "nfbc_id": "12553",
+    "sfbb_id": null,
+    "yahoo_id": "65048"
+  },
   "yamamyo01": {
     "prism_id": "1exwd6tpgd",
     "last_name": "Yamamoto",
@@ -9929,6 +9944,21 @@
     "sfbb_id": "saalfan01",
     "yahoo_id": "61757"
   },
+  "gamboal01": {
+    "prism_id": "dtx3mk40m0",
+    "last_name": "Gamboa",
+    "first_name": "Alec",
+    "middle_name": null,
+    "birth_year": "1997",
+    "birth_month": "1",
+    "birth_day": "17",
+    "bbref_id": "gamboal01",
+    "fangraphs_id": "26227",
+    "mlbam_id": "687941",
+    "nfbc_id": "12664",
+    "sfbb_id": null,
+    "yahoo_id": "63874"
+  },
   "cavalca01": {
     "prism_id": "dv1kj6r0dh",
     "last_name": "Cavalli",
@@ -17849,6 +17879,21 @@
     "sfbb_id": null,
     "yahoo_id": "60157"
   },
+  "mackjo02": {
+    "prism_id": "q532kgry10",
+    "last_name": "Mack",
+    "first_name": "Joe",
+    "middle_name": "Allan",
+    "birth_year": "2002",
+    "birth_month": "12",
+    "birth_day": "27",
+    "bbref_id": "mackjo02",
+    "fangraphs_id": "29780",
+    "mlbam_id": "691788",
+    "nfbc_id": "12482",
+    "sfbb_id": "mackjo01",
+    "yahoo_id": "12470"
+  },
   "bryankr01": {
     "prism_id": "q5ejyyvekw",
     "last_name": "Bryant",
@@ -20908,6 +20953,21 @@
     "nfbc_id": "10833",
     "sfbb_id": "martiau01",
     "yahoo_id": "12026"
+  },
+  "rodrije02": {
+    "prism_id": "vbfrl2tc00",
+    "last_name": "Rodriguez",
+    "first_name": "Jesus",
+    "middle_name": "Eduardo",
+    "birth_year": "2002",
+    "birth_month": "4",
+    "birth_day": "23",
+    "bbref_id": "rodrije02",
+    "fangraphs_id": "26991",
+    "mlbam_id": "683679",
+    "nfbc_id": "12501",
+    "sfbb_id": "rodrije02",
+    "yahoo_id": "61813"
   },
   "youngco01": {
     "prism_id": "vc60peyc70",
