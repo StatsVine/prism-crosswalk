@@ -4784,6 +4784,21 @@
     "sfbb_id": "poteeco01",
     "yahoo_id": "12196"
   },
+  "boltehe01": {
+    "prism_id": "7b566ettr8",
+    "last_name": "Bolte",
+    "first_name": "Henry",
+    "middle_name": null,
+    "birth_year": "2003",
+    "birth_month": "8",
+    "birth_day": "4",
+    "bbref_id": null,
+    "fangraphs_id": "sa3020006",
+    "mlbam_id": "703607",
+    "nfbc_id": "12495",
+    "sfbb_id": "boltehe01",
+    "yahoo_id": "60309"
+  },
   "palenda01": {
     "prism_id": "7b6x2z81x4",
     "last_name": "Palencia",
@@ -8323,6 +8338,21 @@
     "nfbc_id": "10422",
     "sfbb_id": "lopezot01",
     "yahoo_id": "12100"
+  },
+  "brookaa01": {
+    "prism_id": "d7pzv9snem",
+    "last_name": "Brooks",
+    "first_name": "Aaron",
+    "middle_name": "Lee",
+    "birth_year": "1990",
+    "birth_month": "4",
+    "birth_day": "27",
+    "bbref_id": "brookaa01",
+    "fangraphs_id": "12272",
+    "mlbam_id": "605156",
+    "nfbc_id": "8752",
+    "sfbb_id": "brookaa01",
+    "yahoo_id": "9668"
   },
   "wilsost02": {
     "prism_id": "d9lp80jenm",
@@ -14233,6 +14263,21 @@
     "nfbc_id": "12424",
     "sfbb_id": "englitr01",
     "yahoo_id": "61859"
+  },
+  "ewingaj01": {
+    "prism_id": "mdhf5sysvd",
+    "last_name": "Ewing",
+    "first_name": "A.J.",
+    "middle_name": null,
+    "birth_year": "2004",
+    "birth_month": "8",
+    "birth_day": "10",
+    "bbref_id": "ewingaj01",
+    "fangraphs_id": "33656",
+    "mlbam_id": "805999",
+    "nfbc_id": "12645",
+    "sfbb_id": "ewingaj01",
+    "yahoo_id": "63129"
   },
   "varshda01": {
     "prism_id": "mdx9n2mv08",
