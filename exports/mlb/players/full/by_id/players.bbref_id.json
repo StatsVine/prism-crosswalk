@@ -10184,6 +10184,21 @@
     "sfbb_id": "rushida01",
     "yahoo_id": "60232"
   },
+  "gonzado01": {
+    "prism_id": "e545xts7n0",
+    "last_name": "Gonzalez",
+    "first_name": "Domingo",
+    "middle_name": "Jose",
+    "birth_year": "1999",
+    "birth_month": "9",
+    "birth_day": "27",
+    "bbref_id": "gonzado01",
+    "fangraphs_id": "25241",
+    "mlbam_id": "682445",
+    "nfbc_id": "12240",
+    "sfbb_id": null,
+    "yahoo_id": "61938"
+  },
   "nodary01": {
     "prism_id": "e6hvm5xjdd",
     "last_name": "Noda",
@@ -13678,6 +13693,21 @@
     "nfbc_id": "10287",
     "sfbb_id": "liberma01",
     "yahoo_id": "11397"
+  },
+  "alemafr01": {
+    "prism_id": "jm8tp2rlpr",
+    "last_name": "Aleman",
+    "first_name": "Franco",
+    "middle_name": null,
+    "birth_year": "2000",
+    "birth_month": "6",
+    "birth_day": "26",
+    "bbref_id": "alemafr01",
+    "fangraphs_id": "30195",
+    "mlbam_id": "680916",
+    "nfbc_id": "12032",
+    "sfbb_id": null,
+    "yahoo_id": "61927"
   },
   "boushca01": {
     "prism_id": "jpw0ntvyjw",
