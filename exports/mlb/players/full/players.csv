@@ -59,7 +59,7 @@ prism_id,last_name,first_name,middle_name,birth_year,birth_month,birth_day,bbref
 11xr0jsdf0,Sewald,Paul,,1990,5,26,sewalpa01,13892,623149,9642,sewalpa01,10657
 14b9gbdpl0,Valencia,Eduardo,,2000,1,25,,sa3006622,680664,12559,,66382
 150d9tvj6w,Singleton,Jonathan,,1991,9,18,singljo02,10441,572138,8213,singljo02,9099
-15gw94jgwd,Thornton,Zach,,2002,1,17,,sa3023505,804267,12672,,62912
+15gw94jgwd,Thornton,Zach,,2002,1,17,thornza01,33891,804267,12672,,62912
 15k11drfem,Lopez,Leandro,,2002,6,17,,sa3016748,699214,12589,,66390
 15rbr3dj18,Sasaki,Roki,,2001,11,3,sasakro01,35323,808963,11940,sasakro01,64803
 16dnyyqtvh,Ginkel,Kevin,,1994,3,24,ginkeke01,19876,656464,10662,ginkeke01,11626
@@ -844,6 +844,7 @@ g7r1dsw9d0,Grichuk,Randal,,1991,8,13,grichra01,10243,545341,8773,grichra01,9689
 g8vcz82m34,McCormick,Chas,,1995,4,19,mccorch01,19599,676801,10007,mccorch01,11912
 gbj5bbrx04,Hjelle,Sean,,1997,5,7,hjellse01,21481,663546,10791,hjellse01,11387
 gc3xx7dnrm,Valdez,Jesus,Manuel,1997,12,29,,sa3005492,678232,12659,,62603
+gcn9s5km1h,White,Thomas,,2004,9,29,,sa3023268,806258,12478,whiteth01,62986
 gdldc2pp58,Alexander,Jason,,1993,3,1,alexaja01,19666,669920,10574,alexaja01,12628
 gdr9el2h1r,Brigham,Jeff,,1992,2,16,brighje01,16631,656257,10092,brighje01,11152
 ge2rv5hmdw,Suwinski,Jack,,1998,7,29,suwinja01,22244,669261,11377,suwinja01,12342
@@ -1229,7 +1230,7 @@ p40y9cnj2m,Winn,Cole,,1999,11,25,winnco01,22113,668390,10167,winnco01,11404
 p4y1zfv91r,Wheeler,Zack,,1990,5,30,wheelza01,10310,554430,8235,wheelza01,9124
 p56vtymyj8,Ozuna,Marcell,,1990,11,12,ozunama01,10324,542303,8478,ozunama01,9385
 p5glmrbbg4,Bassitt,Chris,,1989,2,22,bassich01,12304,605135,8879,bassich01,9799
-p5ryrxqv3r,Cruz,Yovanny,,1999,8,23,,sa3002951,672442,12671,,63444
+p5ryrxqv3r,Cruz,Yovanny,,1999,8,23,cruzyo01,22622,672442,12671,,63444
 p6ckjkgc9r,Perez,Junior,,2001,7,4,,sa3005744,678577,12522,perezju02,12164
 p6cy0rtegh,Lee,Jung Hoo,,1998,8,20,leeju01,33824,808982,11903,leeju01,63494
 p7eqnn120m,Black,Mason,,1999,12,10,blackma01,30171,696131,11888,blackma01,60647

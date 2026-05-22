@@ -869,6 +869,21 @@
     "sfbb_id": "singljo02",
     "yahoo_id": "9099"
   },
+  "thornza01": {
+    "prism_id": "15gw94jgwd",
+    "last_name": "Thornton",
+    "first_name": "Zach",
+    "middle_name": null,
+    "birth_year": "2002",
+    "birth_month": "1",
+    "birth_day": "17",
+    "bbref_id": "thornza01",
+    "fangraphs_id": "33891",
+    "mlbam_id": "804267",
+    "nfbc_id": "12672",
+    "sfbb_id": null,
+    "yahoo_id": "62912"
+  },
   "sasakro01": {
     "prism_id": "15rbr3dj18",
     "last_name": "Sasaki",
@@ -17428,6 +17443,21 @@
     "nfbc_id": "8879",
     "sfbb_id": "bassich01",
     "yahoo_id": "9799"
+  },
+  "cruzyo01": {
+    "prism_id": "p5ryrxqv3r",
+    "last_name": "Cruz",
+    "first_name": "Yovanny",
+    "middle_name": null,
+    "birth_year": "1999",
+    "birth_month": "8",
+    "birth_day": "23",
+    "bbref_id": "cruzyo01",
+    "fangraphs_id": "22622",
+    "mlbam_id": "672442",
+    "nfbc_id": "12671",
+    "sfbb_id": null,
+    "yahoo_id": "63444"
   },
   "leeju01": {
     "prism_id": "p6cy0rtegh",
