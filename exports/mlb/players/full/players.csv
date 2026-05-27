@@ -366,7 +366,7 @@ prism_id,last_name,first_name,middle_name,birth_year,birth_month,birth_day,bbref
 71dj1klrz8,Bender,Anthony,,1995,2,3,bendean01,19742,669622,11205,bendean01,12194
 71lbrypy6w,Hatch,Tom,,1994,9,29,hatchto01,19264,641672,10782,hatchto01,10859
 728epl7ej0,Jones,Jared,,2001,8,6,jonesja09,27863,683003,11893,jonesja09,60907
-732j1h6tnw,Herrera,Welinton,,2004,4,3,,sa3016061,700327,12573,,65156
+732j1h6tnw,Herrera,Welinton,,2004,4,3,herrewe01,29318,700327,12573,,65156
 739sj0j87r,Lee,Chase,,1998,8,13,leech02,29574,695445,12293,,61588
 73egxlvzz0,Nunez,Anthony,,2001,7,10,nunezan01,25796,689296,12531,nunezan01,66156
 749hyj4bk8,Wiggins,Jaxon,,2001,10,3,,sa3023635,694393,12481,wiggija01,63028
@@ -692,7 +692,7 @@ dfnzp1zvl8,Stewart,Brock,,1991,10,3,stewabr01,16727,592779,9392,stewabr01,10325
 dfxryvgh5w,Cameron,Noah,,1999,7,17,camerno01,30184,702070,12201,camerno01,60211
 dg600jqyrh,Wentz,Joey,,1997,10,6,wentzjo01,19962,666214,10246,wentzjo01,10426
 dg6m1xfrjm,Williams,Trevor,,1992,4,25,willitr01,16977,592866,9457,willitr01,10144
-dj934rps50,Santa,Alimber,,2003,5,3,,sa3015478,695001,12673,,60196
+dj934rps50,Santa,Alimber,,2003,5,3,santaal01,28846,695001,12673,,60196
 djcgbpyvwd,Brieske,Beau,,1998,4,5,briesbe01,26079,689225,11429,briesbe01,12604
 djdr216wz4,Dunn,Oliver,,1997,9,2,dunnol01,26295,686554,12036,dunnol01,62212
 dk5t0lbvxm,Rodriguez,Johnathan,,1999,11,4,rodrijo10,22530,671286,10247,rodrijo01,61828
@@ -1334,7 +1334,7 @@ qvgpcw1tcr,Barnes,Charlie,,1995,10,1,barnech01,19865,656212,11133,,12230
 qwexd7091d,Kochanowicz,Jack,,2000,12,22,kochaja01,27688,686799,11967,kochaja01,11774
 qx315nnb8d,Gibson,Kyle,,1987,10,23,gibsoky01,10123,502043,8026,gibsoky01,8864
 qx6tzv22kh,Bazzana,Travis,,2002,8,28,bazzatr01,34967,683953,12216,bazzatr01,64311
-qxq79l4wjd,Mautz,Brycen,,2001,7,17,,sa3020710,802408,12587,,60397
+qxq79l4wjd,Mautz,Brycen,,2001,7,17,mautzbr01,31910,802408,12587,,60397
 qz278pd9bh,Gray,Sonny,,1989,11,7,grayso01,12768,543243,8546,grayso01,9459
 qzb3pj78f4,Semien,Marcus,,1990,9,17,semiema01,12533,543760,8602,semiema01,9517
 r0k8yb38xw,Jackson,Jeremiah,,2000,3,26,jacksje02,22239,669236,10234,jacksje01,11325
