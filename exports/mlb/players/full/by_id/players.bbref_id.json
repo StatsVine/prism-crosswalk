@@ -22769,6 +22769,21 @@
     "sfbb_id": "horwisp01",
     "yahoo_id": "12742"
   },
+  "jumpga01": {
+    "prism_id": "wye1pt86x0",
+    "last_name": "Jump",
+    "first_name": "Gage",
+    "middle_name": null,
+    "birth_year": "2003",
+    "birth_month": "4",
+    "birth_day": "12",
+    "bbref_id": "jumpga01",
+    "fangraphs_id": "35418",
+    "mlbam_id": "695611",
+    "nfbc_id": "12484",
+    "sfbb_id": "jumpga01",
+    "yahoo_id": "64374"
+  },
   "enrigni01": {
     "prism_id": "wymyh4w7ym",
     "last_name": "Enright",
@@ -23578,6 +23593,21 @@
     "nfbc_id": "10917",
     "sfbb_id": "higgipj01",
     "yahoo_id": "11949"
+  },
+  "dionwi01": {
+    "prism_id": "y121nvx72m",
+    "last_name": "Dion",
+    "first_name": "Will",
+    "middle_name": null,
+    "birth_year": "2000",
+    "birth_month": "4",
+    "birth_day": "17",
+    "bbref_id": "dionwi01",
+    "fangraphs_id": "30061",
+    "mlbam_id": "702021",
+    "nfbc_id": "11957",
+    "sfbb_id": null,
+    "yahoo_id": "63555"
   },
   "peralwa01": {
     "prism_id": "y1mnd23nd4",
