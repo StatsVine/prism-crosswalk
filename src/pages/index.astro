@@ -1,16 +1,122 @@
 ---
-
+const BASE = 'https://crosswalk.prism.statsvine.com'
 ---
 
 <html lang="en">
-	<head>
-		<meta charset="utf-8" />
-		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-		<meta name="viewport" content="width=device-width" />
-		<meta name="generator" content={Astro.generator} />
-		<title>Astro</title>
-	</head>
-	<body>
-		<h1>Astro</h1>
-	</body>
+  <head>
+    <meta charset="utf-8" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <meta name="viewport" content="width=device-width" />
+    <meta name="generator" content={Astro.generator} />
+    <title>crosswalk.prism.statsvine.com</title>
+    <style>
+      body { font-family: monospace; max-width: 720px; margin: 3rem auto; padding: 0 1rem; color: #222; }
+      h1 { font-size: 1.2rem; margin-bottom: 0.25rem; }
+      p { margin: 0.5rem 0; }
+      h2 { font-size: 1rem; margin-top: 2rem; margin-bottom: 0.5rem; }
+      h3 { font-size: 0.95rem; margin-top: 1.5rem; margin-bottom: 0.25rem; color: #444; }
+      code { background: #f4f4f4; padding: 0.1em 0.3em; border-radius: 3px; font-size: 0.95em; }
+      pre { background: #f4f4f4; padding: 1rem; border-radius: 4px; overflow-x: auto; }
+      a { color: #0066cc; }
+      .muted { color: #666; }
+    </style>
+  </head>
+  <body>
+    <h1>crosswalk.prism.statsvine.com</h1>
+    <p>A static JSON API serving stable identifier mappings to reliably link sports players across multiple data sources. prism-crosswalk is a minimal, curated dataset — a starting point for aggregating data and reconciling player identity across providers. No stats, no team data.</p>
+    <p>If you need richer player metadata, <a href="https://registry.prism.statsvine.com">registry.prism.statsvine.com</a> may be what you're looking for.</p>
+    <p>
+      Source data: <a href="https://github.com/StatsVine/prism-crosswalk-data">statsvine/prism-crosswalk-data</a><br />
+      Build artifacts (exports in multiple formats): <a href="https://github.com/StatsVine/prism-crosswalk">statsvine/prism-crosswalk</a><br />
+      Part of the <a href="https://prism.statsvine.com">PRISM ecosystem</a> for sports player identity and data.
+    </p>
+    <p>Currently covers MLB (~1,700+ players on 40-man rosters, updated for the active season). NFL and NBA planned. Data is validated daily against MLB rosters, Chadwick Bureau, SmartFantasyBaseball, and FanGraphs.</p>
+
+    <h2>Endpoints</h2>
+
+    <h3>Players</h3>
+    <p>Look up a player by PRISM ID:</p>
+    <pre><code>{BASE}/&#123;sport&#125;/players/&#123;prism_id&#125;.json</code></pre>
+    <p>Look up a player by external ID:</p>
+    <pre><code>{BASE}/&#123;sport&#125;/players/by_id/&#123;source&#125;/&#123;source_id&#125;.json</code></pre>
+
+    <h3>MLB sources</h3>
+    <p>Supported <code>source</code> values: <code>mlbam</code>, <code>bbref</code>, <code>fangraphs</code>, <code>nfbc</code>, <code>sfbb</code>, <code>yahoo</code></p>
+
+    <h2>Examples</h2>
+    <pre><code><a href="/mlb/players/by_id/mlbam/660271.json">{BASE}/mlb/players/by_id/mlbam/660271.json</a>
+<a href="/mlb/players/pr2r5vzrqm.json">{BASE}/mlb/players/pr2r5vzrqm.json</a></code></pre>
+    <pre>{JSON.stringify({
+      prism_id: "pr2r5vzrqm",
+      bbref_id: "ohtansh01",
+      fangraphs_id: "19755",
+      mlbam_id: "660271",
+      nfbc_id: "9810",
+      sfbb_id: "ohtansh01",
+      yahoo_id: "10835"
+    }, null, 2)}</pre>
+
+    <h2>Bulk downloads</h2>
+    <p>Exports follow the pattern <code>/exports/&#123;sport&#125;/players/&#123;dataset&#125;/</code>.</p>
+
+    <h3>Full dataset</h3>
+    <p>All fields including names and birth dates:</p>
+    <pre><code>
+<a href="/exports/mlb/players/full/players.json">{BASE}/exports/mlb/players/full/players.json</a>
+<a href="/exports/mlb/players/full/players.csv">{BASE}/exports/mlb/players/full/players.csv</a>
+<a href="/exports/mlb/players/full/players.ndjson">{BASE}/exports/mlb/players/full/players.ndjson</a></code></pre>
+
+    <h3>IDs only</h3>
+    <p>Identifier mappings only — recommended for pipelines:</p>
+    <pre><code>
+<a href="/exports/mlb/players/ids/players.json">{BASE}/exports/mlb/players/ids/players.json</a>
+<a href="/exports/mlb/players/ids/players.csv">{BASE}/exports/mlb/players/ids/players.csv</a>
+<a href="/exports/mlb/players/ids/players.ndjson">{BASE}/exports/mlb/players/ids/players.ndjson</a></code></pre>
+    <p>Keyed by source ID for fast lookups:</p>
+    <pre><code>
+<a href="/exports/mlb/players/ids/by_id/players.mlbam_id.json">{BASE}/exports/mlb/players/ids/by_id/players.mlbam_id.json</a>
+<a href="/exports/mlb/players/ids/by_id/players.bbref_id.json">{BASE}/exports/mlb/players/ids/by_id/players.bbref_id.json</a>
+<a href="/exports/mlb/players/ids/by_id/players.fangraphs_id.json">{BASE}/exports/mlb/players/ids/by_id/players.fangraphs_id.json</a></code></pre>
+    <p>All formats also available as <code>.min.json</code> and <code>.gz</code> variants.</p>
+
+    <h2>Response shape</h2>
+    <p>See <a href="https://github.com/StatsVine/prism-crosswalk-data/blob/main/schema/schema.md">schema/schema.md</a> for authoritative field definitions.</p>
+
+    <h3>IDs dataset</h3>
+    <p class="muted">Base</p>
+    <pre><code>
+prism_id       internal PRISM ID (always present)
+</code></pre>
+    <p class="muted">MLB</p>
+    <pre><code>
+mlbam_id       MLB Advanced Media ID (always present; most stable)
+bbref_id       Baseball Reference ID (always present)
+fangraphs_id   FanGraphs ID (always present; unstable for minor leaguers)
+nfbc_id        NFBC ID (may be absent)
+sfbb_id        SmartFantasyBaseball ID (may be absent; typically mirrors bbref_id)
+yahoo_id       Yahoo Fantasy ID (may be absent)
+</code></pre>
+
+    <h3>Full dataset</h3>
+    <p>Name and birth date fields are included only to help disambiguate players — they are not authoritative and may vary by source. For full player metadata, use <a href="https://github.com/StatsVine/prism-registry">prism-registry</a>.</p>
+    <p class="muted">Base</p>
+    <pre><code>
+prism_id       internal PRISM ID (always present)
+last_name      always present
+first_name     always present
+middle_name    may be absent
+birth_year     may be absent
+birth_month    may be absent
+birth_day      may be absent
+</code></pre>
+    <p class="muted">MLB</p>
+    <pre><code>
+mlbam_id       MLB Advanced Media ID (always present; most stable)
+bbref_id       Baseball Reference ID (always present)
+fangraphs_id   FanGraphs ID (always present; unstable for minor leaguers)
+nfbc_id        NFBC ID (may be absent)
+sfbb_id        SmartFantasyBaseball ID (may be absent; typically mirrors bbref_id)
+yahoo_id       Yahoo Fantasy ID (may be absent)
+</code></pre>
+  </body>
 </html>
