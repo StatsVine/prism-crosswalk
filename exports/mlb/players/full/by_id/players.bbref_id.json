@@ -15494,6 +15494,21 @@
     "sfbb_id": "bernawa01",
     "yahoo_id": "12721"
   },
+  "heasljo01": {
+    "prism_id": "lr1fvf8qy4",
+    "last_name": "Heasley",
+    "first_name": "Jonathan",
+    "middle_name": null,
+    "birth_year": "1997",
+    "birth_month": "1",
+    "birth_day": "27",
+    "bbref_id": "heasljo01",
+    "fangraphs_id": "22224",
+    "mlbam_id": "669169",
+    "nfbc_id": "11288",
+    "sfbb_id": "heasljo01",
+    "yahoo_id": "12270"
+  },
   "feyerjo01": {
     "prism_id": "lre5xsr3mr",
     "last_name": "Feyereisen",
@@ -21913,6 +21928,21 @@
     "nfbc_id": "9713",
     "sfbb_id": "bummeaa01",
     "yahoo_id": "10773"
+  },
+  "westoca01": {
+    "prism_id": "vy0bt63zsh",
+    "last_name": "Weston",
+    "first_name": "Cameron",
+    "middle_name": null,
+    "birth_year": "2000",
+    "birth_month": "8",
+    "birth_day": "27",
+    "bbref_id": "westoca01",
+    "fangraphs_id": "31696",
+    "mlbam_id": "687721",
+    "nfbc_id": "12678",
+    "sfbb_id": null,
+    "yahoo_id": "65493"
   },
   "henryto01": {
     "prism_id": "vz0zg4f7m8",
