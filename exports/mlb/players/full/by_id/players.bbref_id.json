@@ -2939,6 +2939,21 @@
     "sfbb_id": "johnsda07",
     "yahoo_id": "10965"
   },
+  "morrika01": {
+    "prism_id": "3tqw8ssj50",
+    "last_name": "Morris",
+    "first_name": "Kade",
+    "middle_name": null,
+    "birth_year": "2002",
+    "birth_month": "6",
+    "birth_day": "21",
+    "bbref_id": "morrika01",
+    "fangraphs_id": "33787",
+    "mlbam_id": "695034",
+    "nfbc_id": "12686",
+    "sfbb_id": null,
+    "yahoo_id": "62752"
+  },
   "henriro01": {
     "prism_id": "3tvkkt8z3r",
     "last_name": "Henriquez",
@@ -4648,6 +4663,21 @@
     "nfbc_id": "12182",
     "sfbb_id": null,
     "yahoo_id": "62751"
+  },
+  "natersa01": {
+    "prism_id": "6176kfr39d",
+    "last_name": "Natera Jr.",
+    "first_name": "Samy",
+    "middle_name": null,
+    "birth_year": "1999",
+    "birth_month": "11",
+    "birth_day": "5",
+    "bbref_id": "natersa01",
+    "fangraphs_id": "31936",
+    "mlbam_id": "696519",
+    "nfbc_id": "12690",
+    "sfbb_id": null,
+    "yahoo_id": "65037"
   },
   "okertst01": {
     "prism_id": "62tpq61s2m",
@@ -24398,7 +24428,7 @@
     "birth_month": "5",
     "birth_day": "4",
     "bbref_id": "mccamza01",
-    "fangraphs_id": "sa3014478",
+    "fangraphs_id": "27666",
     "mlbam_id": "685112",
     "nfbc_id": "12608",
     "sfbb_id": null,

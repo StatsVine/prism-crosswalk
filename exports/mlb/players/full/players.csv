@@ -203,7 +203,7 @@ prism_id,last_name,first_name,middle_name,birth_year,birth_month,birth_day,bbref
 3qvdkkrclm,Abreu,Bryan,,1997,4,22,abreubr01,16609,650556,10381,abreubr01,11208
 3rhmw5rlth,Keirsey Jr.,DaShawn,,1997,5,13,keirsda01,24496,680577,10388,,61672
 3sq3kpl9qh,Johnson,Daniel,,1995,7,11,johnsda07,19643,669288,10175,johnsda07,10965
-3tqw8ssj50,Morris,Kade,,2002,6,21,,sa3023206,695034,12686,,62752
+3tqw8ssj50,Morris,Kade,,2002,6,21,morrika01,33787,695034,12686,,62752
 3tvkkt8z3r,Henriquez,Ronny,,2000,6,20,henriro01,24094,678692,11371,henriro01,12328
 3v89652yh4,Messick,Parker,,2000,10,26,messipa01,31986,800048,12215,messipa01,60042
 3y4rkw9vfh,Williamson,Ben,,2000,11,5,willibe03,33197,810938,12377,willibe03,63132
@@ -321,7 +321,7 @@ prism_id,last_name,first_name,middle_name,birth_year,birth_month,birth_day,bbref
 5zkt200g6r,Castro,Willi,,1997,4,24,castrwi01,17338,650489,9856,castrwi01,10868
 60nfk117ld,Williams,Gavin,,1999,7,26,williga01,30122,668909,11590,williga01,12401
 60qest05km,Walters,Andrew,,2000,12,8,waltean01,33834,689958,12182,,62751
-6176kfr39d,Natera Jr.,Samy,,1999,11,5,,sa3020862,696519,12690,,65037
+6176kfr39d,Natera Jr.,Samy,,1999,11,5,natersa01,31936,696519,12690,,65037
 62tpq61s2m,Okert,Steven,,1991,7,9,okertst01,13580,595345,9290,okertst01,10109
 62wb2s7rlw,Franco,Jose,,2000,11,25,francjo02,27014,683742,12532,,66372
 63yjbfhcnm,Robles,Victor,,1997,5,19,roblevi01,18363,645302,9765,roblevi01,10227
@@ -1721,7 +1721,7 @@ yl57zqqbrr,Ellard,Fraser,,1997,11,6,ellarfr01,29530,686642,12136,ellarfr01,60627
 ylqeeqepc8,Taillon,Jameson,,1991,11,18,taillja01,11674,592791,7886,taillja01,9123
 ynp1xrjv78,Gervase,Paul,,2000,5,23,gervapa01,31571,801434,12417,,63919
 yp3dymzkw4,Johnson,Ryan,,2002,8,5,johnsry01,35325,696270,12368,johnsry01,64367
-ypkf4y9fwh,McCambley,Zach,,1999,5,4,mccamza01,sa3014478,685112,12608,,12473
+ypkf4y9fwh,McCambley,Zach,,1999,5,4,mccamza01,27666,685112,12608,,12473
 ypp62bv758,Smith,Will,,1995,3,28,smithwi05,19197,669257,10363,smithwi05,10642
 yq2szxz0gh,Reyes,Felix,Yomael,2001,3,26,reyesfe01,28763,694025,12654,,60025
 yr1d63w2ew,Estrada,Jeremiah,,1998,11,1,estraje01,22210,669093,11553,estraje01,12687
