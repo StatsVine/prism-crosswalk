@@ -3797,6 +3797,15 @@
     "sfbb_id": "scottta01",
     "yahoo_id": "10432"
   },
+  "sa3038253": {
+    "prism_id": "7q2hhkwg0h",
+    "bbref_id": null,
+    "fangraphs_id": "sa3038253",
+    "mlbam_id": "695731",
+    "nfbc_id": "12521",
+    "sfbb_id": null,
+    "yahoo_id": "64314"
+  },
   "16252": {
     "prism_id": "7qd34sz5v0",
     "bbref_id": "turnetr01",
@@ -5983,6 +5992,24 @@
     "nfbc_id": "9523",
     "sfbb_id": "andujmi01",
     "yahoo_id": "10544"
+  },
+  "sa3018514": {
+    "prism_id": "cwc91qnkvw",
+    "bbref_id": null,
+    "fangraphs_id": "sa3018514",
+    "mlbam_id": "800325",
+    "nfbc_id": "12692",
+    "sfbb_id": null,
+    "yahoo_id": "60256"
+  },
+  "sa3011135": {
+    "prism_id": "cwktxbnckr",
+    "bbref_id": null,
+    "fangraphs_id": "sa3011135",
+    "mlbam_id": "681520",
+    "nfbc_id": "12691",
+    "sfbb_id": null,
+    "yahoo_id": "11788"
   },
   "18152": {
     "prism_id": "cx29dlq8wr",
@@ -13534,6 +13561,15 @@
     "nfbc_id": "11469",
     "sfbb_id": "holdeco01",
     "yahoo_id": "12616"
+  },
+  "15149": {
+    "prism_id": "ts7exj8qv8",
+    "bbref_id": "mancitr01",
+    "fangraphs_id": "15149",
+    "mlbam_id": "641820",
+    "nfbc_id": "9461",
+    "sfbb_id": "mancitr01",
+    "yahoo_id": "10157"
   },
   "29961": {
     "prism_id": "tsggrwtw34",
