@@ -3086,6 +3086,15 @@
     "sfbb_id": "scottta01",
     "yahoo_id": "10432"
   },
+  "montgbr01": {
+    "prism_id": "7q2hhkwg0h",
+    "bbref_id": "montgbr01",
+    "fangraphs_id": "35423",
+    "mlbam_id": "695731",
+    "nfbc_id": "12521",
+    "sfbb_id": "montgbr01",
+    "yahoo_id": "64314"
+  },
   "turnetr01": {
     "prism_id": "7qd34sz5v0",
     "bbref_id": "turnetr01",
@@ -3421,8 +3430,8 @@
   },
   "carrico01": {
     "prism_id": "8gy36jpmw4",
-    "bbref_id": null,
-    "fangraphs_id": "sa3022596",
+    "bbref_id": "carrico01",
+    "fangraphs_id": "33253",
     "mlbam_id": "694249",
     "nfbc_id": "12523",
     "sfbb_id": "carrico01",

@@ -5144,6 +5144,21 @@
     "sfbb_id": "scottta01",
     "yahoo_id": "10432"
   },
+  "montgbr01": {
+    "prism_id": "7q2hhkwg0h",
+    "last_name": "Montgomery",
+    "first_name": "Braden",
+    "middle_name": null,
+    "birth_year": "2003",
+    "birth_month": "4",
+    "birth_day": "16",
+    "bbref_id": "montgbr01",
+    "fangraphs_id": "35423",
+    "mlbam_id": "695731",
+    "nfbc_id": "12521",
+    "sfbb_id": "montgbr01",
+    "yahoo_id": "64314"
+  },
   "turnetr01": {
     "prism_id": "7qd34sz5v0",
     "last_name": "Turner",
@@ -5707,8 +5722,8 @@
     "birth_year": "2002",
     "birth_month": "5",
     "birth_day": "8",
-    "bbref_id": null,
-    "fangraphs_id": "sa3022596",
+    "bbref_id": "carrico01",
+    "fangraphs_id": "33253",
     "mlbam_id": "694249",
     "nfbc_id": "12523",
     "sfbb_id": "carrico01",
