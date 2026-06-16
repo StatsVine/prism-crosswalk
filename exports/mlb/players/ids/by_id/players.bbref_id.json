@@ -6146,6 +6146,15 @@
     "sfbb_id": "casastr01",
     "yahoo_id": "11279"
   },
+  "rincoga01": {
+    "prism_id": "dpge0znjxw",
+    "bbref_id": "rincoga01",
+    "fangraphs_id": "31958",
+    "mlbam_id": "687282",
+    "nfbc_id": "12358",
+    "sfbb_id": "rincoga01",
+    "yahoo_id": "60320"
+  },
   "sullibr01": {
     "prism_id": "dppwkh3jzw",
     "bbref_id": "sullibr01",
@@ -11527,6 +11536,15 @@
     "nfbc_id": "11086",
     "sfbb_id": "stottbr01",
     "yahoo_id": "11817"
+  },
+  "kellyan01": {
+    "prism_id": "qqzqvq805h",
+    "bbref_id": "kellyan01",
+    "fangraphs_id": "29000",
+    "mlbam_id": "699008",
+    "nfbc_id": "10991",
+    "sfbb_id": null,
+    "yahoo_id": "66534"
   },
   "vargaca01": {
     "prism_id": "qr62twjc2d",
