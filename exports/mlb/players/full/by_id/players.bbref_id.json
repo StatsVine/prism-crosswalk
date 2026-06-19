@@ -3479,6 +3479,21 @@
     "sfbb_id": null,
     "yahoo_id": "60162"
   },
+  "kerrybr01": {
+    "prism_id": "4ghx6txt2r",
+    "last_name": "Kerry",
+    "first_name": "Brett",
+    "middle_name": null,
+    "birth_year": "1999",
+    "birth_month": "4",
+    "birth_day": "12",
+    "bbref_id": "kerrybr01",
+    "fangraphs_id": "29826",
+    "mlbam_id": "695049",
+    "nfbc_id": "12695",
+    "sfbb_id": null,
+    "yahoo_id": "67447"
+  },
   "thielca01": {
     "prism_id": "4h7y1x8q5w",
     "last_name": "Thielbar",
@@ -15133,6 +15148,21 @@
     "nfbc_id": "11154",
     "sfbb_id": "morelch01",
     "yahoo_id": "11743"
+  },
+  "espinda02": {
+    "prism_id": "krtbb96b24",
+    "last_name": "Espino",
+    "first_name": "Daniel",
+    "middle_name": null,
+    "birth_year": "2001",
+    "birth_month": "1",
+    "birth_day": "5",
+    "bbref_id": "espinda02",
+    "fangraphs_id": "25625",
+    "mlbam_id": "682982",
+    "nfbc_id": "10926",
+    "sfbb_id": "espinda02",
+    "yahoo_id": "11753"
   },
   "carpeke01": {
     "prism_id": "ktdvn46c7h",
