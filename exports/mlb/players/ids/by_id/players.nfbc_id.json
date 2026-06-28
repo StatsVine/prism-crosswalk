@@ -4058,6 +4058,15 @@
     "sfbb_id": "baezjo02",
     "yahoo_id": "12548"
   },
+  "12697": {
+    "prism_id": "85k2x6zpmm",
+    "bbref_id": "rajcima01",
+    "fangraphs_id": "31873",
+    "mlbam_id": "691008",
+    "nfbc_id": "12697",
+    "sfbb_id": null,
+    "yahoo_id": "60400"
+  },
   "12356": {
     "prism_id": "85kmplly08",
     "bbref_id": "elkoti01",
@@ -6829,6 +6838,15 @@
     "nfbc_id": "9065",
     "sfbb_id": "rossjo01",
     "yahoo_id": "9987"
+  },
+  "12489": {
+    "prism_id": "eckqd6rg5m",
+    "bbref_id": "ingleco01",
+    "fangraphs_id": "33708",
+    "mlbam_id": "694876",
+    "nfbc_id": "12489",
+    "sfbb_id": "ingleco01",
+    "yahoo_id": "62882"
   },
   "10502": {
     "prism_id": "ecnwh2k5em",
@@ -13202,6 +13220,15 @@
     "sfbb_id": "mastrmi01",
     "yahoo_id": "12704"
   },
+  "12698": {
+    "prism_id": "sygqw8mz8m",
+    "bbref_id": "cabrejo03",
+    "fangraphs_id": "30412",
+    "mlbam_id": "703615",
+    "nfbc_id": "12698",
+    "sfbb_id": null,
+    "yahoo_id": "65383"
+  },
   "9778": {
     "prism_id": "syz08wh7ed",
     "bbref_id": "torregl01",
@@ -14930,6 +14957,15 @@
     "sfbb_id": "mayerma01",
     "yahoo_id": "12375"
   },
+  "12701": {
+    "prism_id": "xb06c3r82d",
+    "bbref_id": "cavandr01",
+    "fangraphs_id": "33380",
+    "mlbam_id": "701852",
+    "nfbc_id": "12701",
+    "sfbb_id": null,
+    "yahoo_id": "67007"
+  },
   "12584": {
     "prism_id": "xb25b5sxkr",
     "bbref_id": "arroyed01",
@@ -14947,6 +14983,24 @@
     "nfbc_id": "10452",
     "sfbb_id": null,
     "yahoo_id": "10488"
+  },
+  "12699": {
+    "prism_id": "xdq569r02m",
+    "bbref_id": "garciju01",
+    "fangraphs_id": "22362",
+    "mlbam_id": "670062",
+    "nfbc_id": "12699",
+    "sfbb_id": null,
+    "yahoo_id": "63754"
+  },
+  "11525": {
+    "prism_id": "xecfcjsk18",
+    "bbref_id": "menesjo01",
+    "fangraphs_id": "14366",
+    "mlbam_id": "608841",
+    "nfbc_id": "11525",
+    "sfbb_id": "menesjo01",
+    "yahoo_id": "11102"
   },
   "12607": {
     "prism_id": "xeg61744wr",
@@ -15415,6 +15469,15 @@
     "nfbc_id": "9435",
     "sfbb_id": null,
     "yahoo_id": "10371"
+  },
+  "12700": {
+    "prism_id": "y7t048c1pd",
+    "bbref_id": "malgebe01",
+    "fangraphs_id": "29577",
+    "mlbam_id": "701162",
+    "nfbc_id": "12700",
+    "sfbb_id": null,
+    "yahoo_id": "62028"
   },
   "12290": {
     "prism_id": "y7wc100l9m",

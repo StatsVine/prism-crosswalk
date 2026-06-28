@@ -9314,6 +9314,21 @@
     "sfbb_id": "rossjo01",
     "yahoo_id": "9987"
   },
+  "ingleco01": {
+    "prism_id": "eckqd6rg5m",
+    "last_name": "Ingle",
+    "first_name": "Cooper",
+    "middle_name": null,
+    "birth_year": "2002",
+    "birth_month": "2",
+    "birth_day": "23",
+    "bbref_id": "ingleco01",
+    "fangraphs_id": "33708",
+    "mlbam_id": "694876",
+    "nfbc_id": "12489",
+    "sfbb_id": "ingleco01",
+    "yahoo_id": "62882"
+  },
   "pocheco01": {
     "prism_id": "ecnwh2k5em",
     "last_name": "Poche",
@@ -20698,6 +20713,21 @@
     "nfbc_id": "12584",
     "sfbb_id": "arroyed01",
     "yahoo_id": "12534"
+  },
+  "menesjo01": {
+    "prism_id": "xecfcjsk18",
+    "last_name": "Meneses",
+    "first_name": "Joey",
+    "middle_name": null,
+    "birth_year": "1992",
+    "birth_month": "5",
+    "birth_day": "6",
+    "bbref_id": "menesjo01",
+    "fangraphs_id": "14366",
+    "mlbam_id": "608841",
+    "nfbc_id": "11525",
+    "sfbb_id": "menesjo01",
+    "yahoo_id": "11102"
   },
   "varlalo01": {
     "prism_id": "xfc1wet9lh",
