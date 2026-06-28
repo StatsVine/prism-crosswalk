@@ -9284,7 +9284,7 @@
     "sfbb_id": "junkja01",
     "yahoo_id": "12263"
   },
-  "sa3017719": {
+  "30003": {
     "prism_id": "bt46pf2124",
     "last_name": "Bratt",
     "first_name": "Mitch",
@@ -9292,8 +9292,8 @@
     "birth_year": "2003",
     "birth_month": "7",
     "birth_day": "3",
-    "bbref_id": null,
-    "fangraphs_id": "sa3017719",
+    "bbref_id": "brattmi01",
+    "fangraphs_id": "30003",
     "mlbam_id": "683352",
     "nfbc_id": "12512",
     "sfbb_id": "brattmi01",
@@ -10559,7 +10559,7 @@
     "sfbb_id": "sianimi01",
     "yahoo_id": "11293"
   },
-  "sa3017513": {
+  "29905": {
     "prism_id": "dd6zxq9wyd",
     "last_name": "Watson",
     "first_name": "Kahlil",
@@ -10567,8 +10567,8 @@
     "birth_year": "2003",
     "birth_month": "4",
     "birth_day": "16",
-    "bbref_id": null,
-    "fangraphs_id": "sa3017513",
+    "bbref_id": "watsoka01",
+    "fangraphs_id": "29905",
     "mlbam_id": "696135",
     "nfbc_id": "12563",
     "sfbb_id": null,
@@ -14294,7 +14294,7 @@
     "sfbb_id": "kayfucj01",
     "yahoo_id": "62758"
   },
-  "sa3004153": {
+  "23209": {
     "prism_id": "hr9r4x7em0",
     "last_name": "Hunt",
     "first_name": "Blake",
@@ -14302,8 +14302,8 @@
     "birth_year": "1998",
     "birth_month": "11",
     "birth_day": "10",
-    "bbref_id": null,
-    "fangraphs_id": "sa3004153",
+    "bbref_id": "huntbl01",
+    "fangraphs_id": "23209",
     "mlbam_id": "675448",
     "nfbc_id": "11960",
     "sfbb_id": null,
@@ -19004,7 +19004,7 @@
     "sfbb_id": null,
     "yahoo_id": "63444"
   },
-  "sa3005744": {
+  "23989": {
     "prism_id": "p6ckjkgc9r",
     "last_name": "Perez",
     "first_name": "Junior",
@@ -19012,8 +19012,8 @@
     "birth_year": "2001",
     "birth_month": "7",
     "birth_day": "4",
-    "bbref_id": null,
-    "fangraphs_id": "sa3005744",
+    "bbref_id": "perezju03",
+    "fangraphs_id": "23989",
     "mlbam_id": "678577",
     "nfbc_id": "12522",
     "sfbb_id": "perezju02",
@@ -26954,7 +26954,7 @@
     "sfbb_id": "turnbsp01",
     "yahoo_id": "10180"
   },
-  "sa3014420": {
+  "27569": {
     "prism_id": "ztwtmtxhzh",
     "last_name": "Cruz",
     "first_name": "Trei",
@@ -26962,8 +26962,8 @@
     "birth_year": "1998",
     "birth_month": "7",
     "birth_day": "5",
-    "bbref_id": null,
-    "fangraphs_id": "sa3014420",
+    "bbref_id": "cruztr01",
+    "fangraphs_id": "27569",
     "mlbam_id": "669360",
     "nfbc_id": "12560",
     "sfbb_id": "cruztr01",

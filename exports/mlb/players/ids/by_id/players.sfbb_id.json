@@ -4537,8 +4537,8 @@
   },
   "brattmi01": {
     "prism_id": "bt46pf2124",
-    "bbref_id": null,
-    "fangraphs_id": "sa3017719",
+    "bbref_id": "brattmi01",
+    "fangraphs_id": "30003",
     "mlbam_id": "683352",
     "nfbc_id": "12512",
     "sfbb_id": "brattmi01",
@@ -9568,8 +9568,8 @@
   },
   "perezju02": {
     "prism_id": "p6ckjkgc9r",
-    "bbref_id": null,
-    "fangraphs_id": "sa3005744",
+    "bbref_id": "perezju03",
+    "fangraphs_id": "23989",
     "mlbam_id": "678577",
     "nfbc_id": "12522",
     "sfbb_id": "perezju02",
@@ -13348,8 +13348,8 @@
   },
   "cruztr01": {
     "prism_id": "ztwtmtxhzh",
-    "bbref_id": null,
-    "fangraphs_id": "sa3014420",
+    "bbref_id": "cruztr01",
+    "fangraphs_id": "27569",
     "mlbam_id": "669360",
     "nfbc_id": "12560",
     "sfbb_id": "cruztr01",
