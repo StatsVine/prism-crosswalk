@@ -3119,6 +3119,21 @@
     "sfbb_id": "profaju01",
     "yahoo_id": "9112"
   },
+  "santowi01": {
+    "prism_id": "4351wfzy5m",
+    "last_name": "Santos",
+    "first_name": "Winston",
+    "middle_name": null,
+    "birth_year": "2002",
+    "birth_month": "4",
+    "birth_day": "15",
+    "bbref_id": "santowi01",
+    "fangraphs_id": "28489",
+    "mlbam_id": "692437",
+    "nfbc_id": "12291",
+    "sfbb_id": "santowi01",
+    "yahoo_id": "63638"
+  },
   "tovarez01": {
     "prism_id": "43p9s12qg0",
     "last_name": "Tovar",
@@ -6823,6 +6838,21 @@
     "nfbc_id": "11395",
     "sfbb_id": "fauchca01",
     "yahoo_id": "12311"
+  },
+  "ullolmi01": {
+    "prism_id": "8jpr7qs4zw",
+    "last_name": "Ullola",
+    "first_name": "Miguel",
+    "middle_name": null,
+    "birth_year": "2002",
+    "birth_month": "6",
+    "birth_day": "19",
+    "bbref_id": "ullolmi01",
+    "fangraphs_id": "29036",
+    "mlbam_id": "699044",
+    "nfbc_id": "12298",
+    "sfbb_id": "ullolmi01",
+    "yahoo_id": "60191"
   },
   "winnke01": {
     "prism_id": "8kgzmz3kvh",
@@ -16063,6 +16093,21 @@
     "nfbc_id": "11099",
     "sfbb_id": "bradiky01",
     "yahoo_id": "12345"
+  },
+  "hughega01": {
+    "prism_id": "ls28qt2dbr",
+    "last_name": "Hughes",
+    "first_name": "Gabriel",
+    "middle_name": null,
+    "birth_year": "2001",
+    "birth_month": "8",
+    "birth_day": "22",
+    "bbref_id": "hughega01",
+    "fangraphs_id": "31614",
+    "mlbam_id": "687312",
+    "nfbc_id": "12574",
+    "sfbb_id": null,
+    "yahoo_id": "60145"
   },
   "henried01": {
     "prism_id": "ls3mj81jz4",

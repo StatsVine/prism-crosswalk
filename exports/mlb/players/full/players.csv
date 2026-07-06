@@ -215,7 +215,7 @@ prism_id,last_name,first_name,middle_name,birth_year,birth_month,birth_day,bbref
 3zyze3pnf8,Estrada,Lazaro,,1999,4,24,estrala01,24914,681751,12422,,65106
 400hzjq370,Boyle,Joe,,1999,8,14,boylejo01,29608,671212,11868,boylejo01,60134
 42vf8vpsh0,Profar,Jurickson,,1993,2,20,profaju01,10815,595777,8228,profaju01,9112
-4351wfzy5m,Santos,Winston,,2002,4,15,,sa3015952,692437,12291,santowi01,63638
+4351wfzy5m,Santos,Winston,,2002,4,15,santowi01,28489,692437,12291,santowi01,63638
 43p9s12qg0,Tovar,Ezequiel,,2001,8,1,tovarez01,24064,678662,11346,tovarez01,12322
 43q4vrv0cd,Bazardo,Eduard,,1995,9,1,bazared01,20997,660825,11165,bazared01,12092
 442f0hlwy0,Ort,Kaleb,,1992,2,5,ortka01,20061,672391,11286,ortka01,12268
@@ -476,7 +476,7 @@ prism_id,last_name,first_name,middle_name,birth_year,birth_month,birth_day,bbref
 8hrwgf3jvw,Hiraldo,Yaramil,,1995,12,31,hiralya01,25215,682274,12399,hiralya01,64789
 8hx0ykpf0w,Faucher,Calvin,,1995,9,22,fauchca01,20116,676534,11395,fauchca01,12311
 8j6601d64h,Koperniak,Matt,,1998,2,8,,sa3014834,689288,12265,,62061
-8jpr7qs4zw,Ullola,Miguel,,2002,6,19,,sa3016504,699044,12298,ullolmi01,60191
+8jpr7qs4zw,Ullola,Miguel,,2002,6,19,ullolmi01,29036,699044,12298,ullolmi01,60191
 8kgzmz3kvh,Winn,Keaton,,1998,2,20,winnke01,23499,676775,11680,winnke01,12737
 8kslrzszzd,Rice,Ben,,1999,2,22,ricebe01,29576,700250,11911,ricebe01,62137
 8l96cl5rzw,Anderson,Shaun,,1994,10,29,andersh01,19453,641312,10333,andersh01,11098
@@ -1125,7 +1125,7 @@ lr1fvf8qy4,Heasley,Jonathan,,1997,1,27,heasljo01,22224,669169,11288,heasljo01,12
 lre5xsr3mr,Feyereisen,J.P.,,1993,2,7,feyerjo01,16610,656420,10751,feyerjo01,11702
 lrnkwz3g5w,Alfaro,Jorge,,1993,6,11,alfarjo01,12180,595751,8715,alfarjo01,9631
 lrx12ts880,Bradish,Kyle,,1996,9,12,bradiky01,24586,680694,11099,bradiky01,12345
-ls28qt2dbr,Hughes,Gabriel,,2001,8,22,,sa3020661,687312,12574,,60145
+ls28qt2dbr,Hughes,Gabriel,,2001,8,22,hughega01,31614,687312,12574,,60145
 ls3mj81jz4,Henriquez,Edgardo,,2002,6,24,henried01,26944,683618,12186,henried01,60239
 lt83nchnw4,Heuer,Codi,,1996,7,3,heuerco01,23293,676051,10901,heuerco01,11959
 ltkvytd5yd,Rogers,Taylor,,1990,12,17,rogerta01,13449,573124,9225,rogerta01,10133
