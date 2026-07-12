@@ -914,7 +914,7 @@
     "sfbb_id": "sewalpa01",
     "yahoo_id": "10657"
   },
-  "sa3006622": {
+  "24574": {
     "prism_id": "14b9gbdpl0",
     "last_name": "Valencia",
     "first_name": "Eduardo",
@@ -922,8 +922,8 @@
     "birth_year": "2000",
     "birth_month": "1",
     "birth_day": "25",
-    "bbref_id": null,
-    "fangraphs_id": "sa3006622",
+    "bbref_id": "valened01",
+    "fangraphs_id": "24574",
     "mlbam_id": "680664",
     "nfbc_id": "12559",
     "sfbb_id": null,
@@ -7304,7 +7304,7 @@
     "sfbb_id": "gormano01",
     "yahoo_id": "11391"
   },
-  "sa3019922": {
+  "31471": {
     "prism_id": "8prqptq49w",
     "last_name": "Brannigan",
     "first_name": "Jack",
@@ -7312,8 +7312,8 @@
     "birth_year": "2001",
     "birth_month": "3",
     "birth_day": "11",
-    "bbref_id": null,
-    "fangraphs_id": "sa3019922",
+    "bbref_id": "brannja01",
+    "fangraphs_id": "31471",
     "mlbam_id": "687394",
     "nfbc_id": "12547",
     "sfbb_id": null,
@@ -10109,7 +10109,7 @@
     "sfbb_id": "andujmi01",
     "yahoo_id": "10544"
   },
-  "sa3018514": {
+  "30675": {
     "prism_id": "cwc91qnkvw",
     "last_name": "Lara",
     "first_name": "Luis",
@@ -10117,8 +10117,8 @@
     "birth_year": "2004",
     "birth_month": "11",
     "birth_day": "17",
-    "bbref_id": null,
-    "fangraphs_id": "sa3018514",
+    "bbref_id": "laralu01",
+    "fangraphs_id": "30675",
     "mlbam_id": "800325",
     "nfbc_id": "12692",
     "sfbb_id": null,
@@ -26069,7 +26069,7 @@
     "sfbb_id": "megiltr01",
     "yahoo_id": "11717"
   },
-  "sa3003262": {
+  "22741": {
     "prism_id": "ybfcp3gv0d",
     "last_name": "Alfonzo",
     "first_name": "Eliezer",
@@ -26077,12 +26077,12 @@
     "birth_year": "1999",
     "birth_month": "9",
     "birth_day": "23",
-    "bbref_id": null,
-    "fangraphs_id": "sa3003262",
+    "bbref_id": "alfonel02",
+    "fangraphs_id": "22741",
     "mlbam_id": "672613",
     "nfbc_id": "12710",
     "sfbb_id": null,
-    "yahoo_id": null
+    "yahoo_id": "62269"
   },
   "29423": {
     "prism_id": "yc56795ek0",
