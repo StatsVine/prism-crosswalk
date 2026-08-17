@@ -12,7 +12,7 @@ on:
   #  - cron: '0 0 * * *'  # This runs the action every day at midnight UTC.
 
 jobs:
-  build_mlb_exports:
+  build_exports:
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -42,12 +42,16 @@ jobs:
         run: |
           python3 tools/crosswalk/build_players_exports.py data/data/mlb/players.csv exports/mlb --core-schema data/schema/players.yaml --source-schema data/schema/leagues/mlb/sources.yaml
 
+      - name: Run NFL build script
+        run: |
+          python3 tools/crosswalk/build_players_exports.py data/data/nfl/players.csv exports/nfl --core-schema data/schema/players.yaml --source-schema data/schema/leagues/nfl/sources.yaml
+
       - name: Commit export files
         run: |
           git config --global user.name "PRISM Build Bot"
           git config --global user.email "statvine+prism@gmail.com"
           git add exports/
-          git commit -m "Automated build: Update MLB output files" || echo "No changes to commit"
+          git commit -m "Automated build: Update export files" || echo "No changes to commit"
           git push origin main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

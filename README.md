@@ -2,7 +2,7 @@
 
 **PRISM (Player Record Identity Standard Mapping)** provides a registry of player identity mappings across major sports data providers. It aims to standardize the messy, inconsistent world of player identity across sports and data providers. By maintaining a clean core dataset, we enable better interoperability for developers, researchers, and sports data enthusiasts. By using automation and strict validation, we can provide timely updates to player data.
 
-prism-crosswalk is a minimal, curated dataset that provides stable identifier mappings to reliably link baseball players across multiple data sources. It's intented as a starting point for aggregating data and adding additional player metadata.
+prism-crosswalk is a minimal, curated dataset that provides stable identifier mappings to reliably link players across multiple data sources. It's intented as a starting point for aggregating data and adding additional player metadata.
 
 Learn more about the full PRISM ecosystem (including the richer roster dataset and tooling for the data repos) at [prism-tools](https://github.com/statsvine/prism-tools).
 
@@ -34,6 +34,16 @@ If you already have detailed player metadata and are dealing with player identit
 ## Repo Structure & Dataset Types
 This repository provides both comprehensive and minimal datasets to support a variety of downstream use cases. All exports are found in the `exports/` directory and follow a consistent naming convention.
 
+### Leagues
+Exports are partitioned by league, and every league follows the identical layout (`exports/<league>/players/{full,ids}/...`):
+
+- **`exports/mlb/`** — MLB (~1,700 players). Sources include `mlbam`, `fangraphs`, `bbref`, `sfbb`, `yahoo`, and `nfbc`.
+- **`exports/nfl/`** — NFL (in progress; an initial pool of fantasy-relevant players). Sources include `espn`, `gsis`, `nffc`, `pfr`, `sleeper`, `sportradar`, `wikidata`, and `yahoo`.
+
+Because the formats and directory structure are the same for every league, consumers can add a new league by changing a single path segment. `prism_id` is globally unique across all leagues.
+
+Note that `by_id/` files are only generated for sources that have at least one mapped ID, so the exact set of files present in a league can grow as coverage improves.
+
 ### Dataset Types
 #### `full` datasets
 - **Description**: Mapping records that include some identifying metadata such as names and birthdates.
@@ -41,7 +51,7 @@ This repository provides both comprehensive and minimal datasets to support a va
 - **Note**: This metadata is not normalized or authoritative — it is provided for context only and may vary by source.
 
 #### `ids` datasets (preferred)
-- **Description**: Minimalist mapping between known player identifiers (e.g., `mlbam`, `retro`, `fg`, `bbref`, etc.).
+- **Description**: Minimalist mapping between known player identifiers for that league (e.g., `mlbam_id`, `fangraphs_id`, `bbref_id` for MLB; `gsis_id`, `pfr_id`, `sleeper_id` for NFL).
 - **Use Case**: Optimized for fast lookups and merging datasources in pipelines or sheets. This is the recommended format for production use.
 
 ### `by_id` JSON Files
@@ -50,9 +60,11 @@ For both dataset types (`full` and `ids`), we also provide **`by_id`** variants 
 - **Description**: Instead of a list of player objects, these files are JSON key-value maps where the key is an identifier from a specific source (e.g., MLBAM ID), and the value is the full player object.
 - **Use Case**: Ideal for consumers needing to map a single identifier (like an MLB ID) to all available identifiers or metadata.
 
-#### Example:
-- `by_id/players.fg_id.json`  
+#### Examples:
+- `exports/mlb/players/ids/by_id/players.fangraphs_id.json`  
   - Keyed by **FanGraphs ID** → maps to all known IDs for that player.
+- `exports/nfl/players/ids/by_id/players.gsis_id.json`  
+  - Keyed by **NFL GSIS ID** → maps to all known IDs for that player.
 
 This structure enables simple and performant lookups from any known identifier namespace.
 
@@ -93,6 +105,11 @@ PRISM Crosswalk stands on the shoulders of giants and builds on open community d
 - MLB: 
     - [Chadwick Bureau / Register](https://github.com/chadwickbureau/register) (Open Data Commons Attribution License)
     - [SmartFantasyBaseball's Player ID Map](https://www.smartfantasybaseball.com/tools/)
+- NFL:
+    - [nflverse](https://github.com/nflverse/nflverse-data) (CC BY 4.0)
+    - [DynastyProcess](https://github.com/dynastyprocess/data) (GPL-3.0)
+    - [Sleeper API](https://docs.sleeper.com/)
+    - [Wikidata](https://www.wikidata.org/) (CC0 1.0)
 
 We thank these projects for providing foundational sports research resources.
 
