@@ -22,7 +22,24 @@ In addition to the sites referenced, we acknowledge and thank the following proj
   - Notes: Used for supplemental ID mappings across fantasy platforms and MLB data providers.
 
 ### 🏈 Football (NFL)
-- *Attribution pending — no external data currently included.*
+- **nflverse - nflverse-data**
+  - Source: https://github.com/nflverse/nflverse-data
+  - License: Creative Commons Attribution 4.0 International (CC BY 4.0)
+  - Notes: Used for player identity matching, birthdate information, and foundational record linkage.
+
+- **DynastyProcess - Player IDs**
+  - Source: https://github.com/dynastyprocess/data
+  - License: GNU General Public License v3.0
+  - Notes: Used for supplemental ID mappings across fantasy platforms and NFL data providers.
+
+- **Sleeper - Players API**
+  - Source: https://docs.sleeper.com/
+  - Notes: Used for supplemental ID mappings across fantasy platforms.
+
+- **Wikidata**
+  - Source: https://www.wikidata.org/
+  - License: Creative Commons CC0 1.0 Universal (public domain dedication)
+  - Notes: Used for cross-sport hub identifiers and supplemental record linkage.
 
 ### 🏀 Basketball (NBA)
 - *Attribution pending — no external data currently included.*
