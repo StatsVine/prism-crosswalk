@@ -30,7 +30,7 @@ const BASE = 'https://crosswalk.prism.statsvine.com'
       Build artifacts (exports in multiple formats): <a href="https://github.com/StatsVine/prism-crosswalk">statsvine/prism-crosswalk</a><br />
       Part of the <a href="https://prism.statsvine.com">PRISM ecosystem</a> for sports player identity and data.
     </p>
-    <p>Currently covers MLB (~1,700+ players on 40-man rosters, updated for the active season). NFL and NBA planned. Data is validated daily against MLB rosters, Chadwick Bureau, SmartFantasyBaseball, and FanGraphs.</p>
+    <p>Currently covers MLB (~1,700+ players on 40-man rosters, updated for the active season) and NFL (in progress — an initial pool of fantasy-relevant players). NBA planned. MLB data is validated daily against MLB rosters, Chadwick Bureau, SmartFantasyBaseball, and FanGraphs; NFL data is compiled from nflverse, DynastyProcess, Sleeper, and Wikidata.</p>
 
     <h2>Endpoints</h2>
 
@@ -40,8 +40,14 @@ const BASE = 'https://crosswalk.prism.statsvine.com'
     <p>Look up a player by external ID:</p>
     <pre><code>{BASE}/&#123;sport&#125;/players/by_id/&#123;source&#125;/&#123;source_id&#125;.json</code></pre>
 
+    <p>Supported <code>sport</code> values: <code>mlb</code>, <code>nfl</code></p>
+
     <h3>MLB sources</h3>
     <p>Supported <code>source</code> values: <code>mlbam</code>, <code>bbref</code>, <code>fangraphs</code>, <code>nfbc</code>, <code>sfbb</code>, <code>yahoo</code></p>
+
+    <h3>NFL sources</h3>
+    <p>Supported <code>source</code> values: <code>espn</code>, <code>gsis</code>, <code>nffc</code>, <code>pfr</code>, <code>sleeper</code>, <code>sportradar</code>, <code>wikidata</code>, <code>yahoo</code></p>
+    <p class="muted">A <code>by_id</code> lookup is only available for sources with at least one mapped ID, so the set of usable <code>source</code> values grows as coverage improves.</p>
 
     <h2>Examples</h2>
     <pre><code><a href="/mlb/players/by_id/mlbam/660271.json">{BASE}/mlb/players/by_id/mlbam/660271.json</a>
@@ -55,9 +61,22 @@ const BASE = 'https://crosswalk.prism.statsvine.com'
       sfbb_id: "ohtansh01",
       yahoo_id: "10835"
     }, null, 2)}</pre>
+    <pre><code><a href="/nfl/players/by_id/gsis/00-0033873.json">{BASE}/nfl/players/by_id/gsis/00-0033873.json</a>
+<a href="/nfl/players/p0cz0w4lvr.json">{BASE}/nfl/players/p0cz0w4lvr.json</a></code></pre>
+    <pre>{JSON.stringify({
+      prism_id: "p0cz0w4lvr",
+      espn_id: "3139477",
+      gsis_id: "00-0033873",
+      nffc_id: "15234",
+      pfr_id: "MahoPa00",
+      sleeper_id: "4046",
+      sportradar_id: "11cad59d-90dd-449c-a839-dddaba4fe16c",
+      wikidata_id: "Q19667998",
+      yahoo_id: "30123"
+    }, null, 2)}</pre>
 
     <h2>Bulk downloads</h2>
-    <p>Exports follow the pattern <code>/exports/&#123;sport&#125;/players/&#123;dataset&#125;/</code>.</p>
+    <p>Exports follow the pattern <code>/exports/&#123;sport&#125;/players/&#123;dataset&#125;/</code>. Every sport uses the identical layout, so adding one is a matter of changing a single path segment — the MLB links below all have an <code>/exports/nfl/...</code> counterpart.</p>
 
     <h3>Full dataset</h3>
     <p>All fields including names and birth dates:</p>
@@ -76,7 +95,9 @@ const BASE = 'https://crosswalk.prism.statsvine.com'
     <pre><code>
 <a href="/exports/mlb/players/ids/by_id/players.mlbam_id.json">{BASE}/exports/mlb/players/ids/by_id/players.mlbam_id.json</a>
 <a href="/exports/mlb/players/ids/by_id/players.bbref_id.json">{BASE}/exports/mlb/players/ids/by_id/players.bbref_id.json</a>
-<a href="/exports/mlb/players/ids/by_id/players.fangraphs_id.json">{BASE}/exports/mlb/players/ids/by_id/players.fangraphs_id.json</a></code></pre>
+<a href="/exports/mlb/players/ids/by_id/players.fangraphs_id.json">{BASE}/exports/mlb/players/ids/by_id/players.fangraphs_id.json</a>
+<a href="/exports/nfl/players/ids/by_id/players.gsis_id.json">{BASE}/exports/nfl/players/ids/by_id/players.gsis_id.json</a>
+<a href="/exports/nfl/players/ids/by_id/players.pfr_id.json">{BASE}/exports/nfl/players/ids/by_id/players.pfr_id.json</a></code></pre>
     <p>All formats also available as <code>.min.json</code> and <code>.gz</code> variants.</p>
 
     <h2>Response shape</h2>
@@ -85,7 +106,7 @@ const BASE = 'https://crosswalk.prism.statsvine.com'
     <h3>IDs dataset</h3>
     <p class="muted">Base</p>
     <pre><code>
-prism_id       internal PRISM ID (always present)
+prism_id       internal PRISM ID (always present; globally unique across sports)
 </code></pre>
     <p class="muted">MLB</p>
     <pre><code>
@@ -94,6 +115,17 @@ bbref_id       Baseball Reference ID (always present)
 fangraphs_id   FanGraphs ID (always present; unstable for minor leaguers)
 nfbc_id        NFBC ID (may be absent)
 sfbb_id        SmartFantasyBaseball ID (may be absent; typically mirrors bbref_id)
+yahoo_id       Yahoo Fantasy ID (may be absent)
+</code></pre>
+    <p class="muted">NFL</p>
+    <pre><code>
+espn_id        ESPN ID (may be absent)
+gsis_id        NFL GSIS ID (may be absent; rookies typically land in August)
+nffc_id        NFFC ID (may be absent)
+pfr_id         Pro Football Reference ID (may be absent; unstable — derived from name)
+sleeper_id     Sleeper Fantasy ID (may be absent)
+sportradar_id  Sportradar UUID, lowercased (may be absent)
+wikidata_id    Wikidata ID (may be absent)
 yahoo_id       Yahoo Fantasy ID (may be absent)
 </code></pre>
 
@@ -109,14 +141,6 @@ birth_year     may be absent
 birth_month    may be absent
 birth_day      may be absent
 </code></pre>
-    <p class="muted">MLB</p>
-    <pre><code>
-mlbam_id       MLB Advanced Media ID (always present; most stable)
-bbref_id       Baseball Reference ID (always present)
-fangraphs_id   FanGraphs ID (always present; unstable for minor leaguers)
-nfbc_id        NFBC ID (may be absent)
-sfbb_id        SmartFantasyBaseball ID (may be absent; typically mirrors bbref_id)
-yahoo_id       Yahoo Fantasy ID (may be absent)
-</code></pre>
+    <p>Plus the same per-sport ID fields listed above for the IDs dataset.</p>
   </body>
 </html>

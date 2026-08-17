@@ -1,32 +1,31 @@
-import players from '@data/exports/mlb/players/ids/by_id/players.prism_id.json'
+import {
+  getPlayerData,
+  getSourceIds,
+  getSportNames,
+  playerResponse,
+} from '@lib/players'
+
+const SOURCE = 'prism'
 
 export function createHandler() {
   return async ({ params }) => {
-    const playerId = params.player_id
-    const player = players[playerId]
+    const player = await getPlayerData(params.sport, SOURCE, params.player_id)
 
-    if (!player) {
-      return new Response(JSON.stringify({ error: 'Player not found' }), {
-        status: 404,
-      })
-    }
-
-    return new Response(JSON.stringify(player), {
-      status: 200,
-      headers: {
-        'Content-Type': 'application/json',
-      },
-    })
+    return playerResponse(player)
   }
 }
 
 export function createStaticPaths() {
   return async () => {
-    const playerIds = Object.keys(players)
+    const pages = []
 
-    return playerIds.map((id) => ({
-      params: { sport: 'mlb', player_id: String(id) },
-    }))
+    for (const sport of await getSportNames()) {
+      for (const playerId of await getSourceIds(sport, SOURCE)) {
+        pages.push({ params: { sport, player_id: playerId } })
+      }
+    }
+
+    return pages
   }
 }
 
