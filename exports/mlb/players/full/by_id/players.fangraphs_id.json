@@ -29,6 +29,21 @@
     "sfbb_id": null,
     "yahoo_id": "60341"
   },
+  "23809": {
+    "prism_id": "02b9y2e7dw",
+    "last_name": "Kerr",
+    "first_name": "Ray",
+    "middle_name": null,
+    "birth_year": "1994",
+    "birth_month": "9",
+    "birth_day": "10",
+    "bbref_id": "kerrra01",
+    "fangraphs_id": "23809",
+    "mlbam_id": "678061",
+    "nfbc_id": "11334",
+    "sfbb_id": "kerrra01",
+    "yahoo_id": "12293"
+  },
   "31539": {
     "prism_id": "02vlgbhh3r",
     "last_name": "Baldwin",
@@ -9419,6 +9434,21 @@
     "sfbb_id": null,
     "yahoo_id": "12506"
   },
+  "sa3019968": {
+    "prism_id": "bp4r4tflkd",
+    "last_name": "Morgan",
+    "first_name": "Zach",
+    "middle_name": null,
+    "birth_year": "2000",
+    "birth_month": "3",
+    "birth_day": "30",
+    "bbref_id": null,
+    "fangraphs_id": "sa3019968",
+    "mlbam_id": "681439",
+    "nfbc_id": "12735",
+    "sfbb_id": null,
+    "yahoo_id": "64236"
+  },
   "19361": {
     "prism_id": "bpbh7qwgk8",
     "last_name": "Burnes",
@@ -9523,6 +9553,21 @@
     "nfbc_id": "12202",
     "sfbb_id": "eldribr01",
     "yahoo_id": "62957"
+  },
+  "35462": {
+    "prism_id": "brnj2dtv74",
+    "last_name": "Kent",
+    "first_name": "Jackson",
+    "middle_name": null,
+    "birth_year": "2003",
+    "birth_month": "2",
+    "birth_day": "10",
+    "bbref_id": "kentja01",
+    "fangraphs_id": "35462",
+    "mlbam_id": "800600",
+    "nfbc_id": "12736",
+    "sfbb_id": null,
+    "yahoo_id": "64442"
   },
   "22896": {
     "prism_id": "brt3mhm03w",
@@ -13348,6 +13393,21 @@
     "nfbc_id": "10677",
     "sfbb_id": "brownse01",
     "yahoo_id": "11643"
+  },
+  "32053": {
+    "prism_id": "g6ecq5jjph",
+    "last_name": "Hill",
+    "first_name": "Turner",
+    "middle_name": null,
+    "birth_year": "1999",
+    "birth_month": "4",
+    "birth_day": "4",
+    "bbref_id": "hilltu01",
+    "fangraphs_id": "32053",
+    "mlbam_id": "806367",
+    "nfbc_id": "12737",
+    "sfbb_id": null,
+    "yahoo_id": "65532"
   },
   "29542": {
     "prism_id": "g6hrhnhb2h",
@@ -18389,6 +18449,21 @@
     "sfbb_id": "mcleano01",
     "yahoo_id": "62935"
   },
+  "33191": {
+    "prism_id": "mycz8w2px8",
+    "last_name": "Rodden",
+    "first_name": "Brock",
+    "middle_name": null,
+    "birth_year": "2000",
+    "birth_month": "5",
+    "birth_day": "25",
+    "bbref_id": "roddebr01",
+    "fangraphs_id": "33191",
+    "mlbam_id": "801126",
+    "nfbc_id": "12738",
+    "sfbb_id": null,
+    "yahoo_id": "63148"
+  },
   "24581": {
     "prism_id": "mydvrp54mr",
     "last_name": "Richardson",
@@ -22904,6 +22979,21 @@
     "sfbb_id": null,
     "yahoo_id": "65516"
   },
+  "15467": {
+    "prism_id": "t97llmldeh",
+    "last_name": "Gonzales",
+    "first_name": "Marco",
+    "middle_name": null,
+    "birth_year": "1992",
+    "birth_month": "2",
+    "birth_day": "16",
+    "bbref_id": "gonzama02",
+    "fangraphs_id": "15467",
+    "mlbam_id": "594835",
+    "nfbc_id": "8712",
+    "sfbb_id": "gonzama02",
+    "yahoo_id": "9627"
+  },
   "20370": {
     "prism_id": "t9lfxmppnr",
     "last_name": "Zimmermann",
@@ -25649,6 +25739,21 @@
     "sfbb_id": null,
     "yahoo_id": "60099"
   },
+  "21573": {
+    "prism_id": "xf23x1197d",
+    "last_name": "Kingham",
+    "first_name": "Nolan",
+    "middle_name": null,
+    "birth_year": "1996",
+    "birth_month": "8",
+    "birth_day": "18",
+    "bbref_id": "kinghno01",
+    "fangraphs_id": "21573",
+    "mlbam_id": "663884",
+    "nfbc_id": "12726",
+    "sfbb_id": null,
+    "yahoo_id": "62088"
+  },
   "25921": {
     "prism_id": "xf3y0cz9mm",
     "last_name": "Legumina",
@@ -27268,6 +27373,21 @@
     "nfbc_id": "9664",
     "sfbb_id": "brebbjo01",
     "yahoo_id": "10711"
+  },
+  "33514": {
+    "prism_id": "zbbwbywl5w",
+    "last_name": "Callahan",
+    "first_name": "Brett",
+    "middle_name": null,
+    "birth_year": "2001",
+    "birth_month": "11",
+    "birth_day": "2",
+    "bbref_id": "callabr01",
+    "fangraphs_id": "33514",
+    "mlbam_id": "814430",
+    "nfbc_id": "12739",
+    "sfbb_id": null,
+    "yahoo_id": "65550"
   },
   "22232": {
     "prism_id": "zbns9hg4l4",

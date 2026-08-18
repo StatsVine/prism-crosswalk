@@ -1,4 +1,19 @@
 {
+  "kerrra01": {
+    "prism_id": "02b9y2e7dw",
+    "last_name": "Kerr",
+    "first_name": "Ray",
+    "middle_name": null,
+    "birth_year": "1994",
+    "birth_month": "9",
+    "birth_day": "10",
+    "bbref_id": "kerrra01",
+    "fangraphs_id": "23809",
+    "mlbam_id": "678061",
+    "nfbc_id": "11334",
+    "sfbb_id": "kerrra01",
+    "yahoo_id": "12293"
+  },
   "baldwdr01": {
     "prism_id": "02vlgbhh3r",
     "last_name": "Baldwin",
@@ -18658,6 +18673,21 @@
     "nfbc_id": "10821",
     "sfbb_id": "whiteel04",
     "yahoo_id": "11402"
+  },
+  "gonzama02": {
+    "prism_id": "t97llmldeh",
+    "last_name": "Gonzales",
+    "first_name": "Marco",
+    "middle_name": null,
+    "birth_year": "1992",
+    "birth_month": "2",
+    "birth_day": "16",
+    "bbref_id": "gonzama02",
+    "fangraphs_id": "15467",
+    "mlbam_id": "594835",
+    "nfbc_id": "8712",
+    "sfbb_id": "gonzama02",
+    "yahoo_id": "9627"
   },
   "zimmebr02": {
     "prism_id": "t9lfxmppnr",
