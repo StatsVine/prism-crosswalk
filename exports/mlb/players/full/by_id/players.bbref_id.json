@@ -2399,6 +2399,21 @@
     "sfbb_id": "pilkiko01",
     "yahoo_id": "11307"
   },
+  "hannebr01": {
+    "prism_id": "2xsqz44be0",
+    "last_name": "Hanner",
+    "first_name": "Bradley",
+    "middle_name": null,
+    "birth_year": "1999",
+    "birth_month": "2",
+    "birth_day": "10",
+    "bbref_id": "hannebr01",
+    "fangraphs_id": "26097",
+    "mlbam_id": "690440",
+    "nfbc_id": "12719",
+    "sfbb_id": null,
+    "yahoo_id": "61826"
+  },
   "keasclu01": {
     "prism_id": "2xw5y9y8q8",
     "last_name": "Keaschall",
@@ -6793,6 +6808,21 @@
     "nfbc_id": "10845",
     "sfbb_id": "langesh01",
     "yahoo_id": "11728"
+  },
+  "baezjo02": {
+    "prism_id": "85c17jvjdh",
+    "last_name": "Baez",
+    "first_name": "Joshua",
+    "middle_name": null,
+    "birth_year": "2003",
+    "birth_month": "6",
+    "birth_day": "28",
+    "bbref_id": "baezjo02",
+    "fangraphs_id": "29596",
+    "mlbam_id": "695491",
+    "nfbc_id": "12502",
+    "sfbb_id": "baezjo02",
+    "yahoo_id": "12548"
   },
   "rajcima01": {
     "prism_id": "85k2x6zpmm",
@@ -14924,6 +14954,21 @@
     "sfbb_id": "torrebr01",
     "yahoo_id": "64242"
   },
+  "mcdouta01": {
+    "prism_id": "jns21vntxw",
+    "last_name": "McDougal",
+    "first_name": "Tanner",
+    "middle_name": null,
+    "birth_year": "2003",
+    "birth_month": "4",
+    "birth_day": "9",
+    "bbref_id": "mcdouta01",
+    "fangraphs_id": "29887",
+    "mlbam_id": "701780",
+    "nfbc_id": "12517",
+    "sfbb_id": "mcdouta01",
+    "yahoo_id": "12419"
+  },
   "boushca01": {
     "prism_id": "jpw0ntvyjw",
     "last_name": "Boushley",
@@ -21973,6 +22018,21 @@
     "nfbc_id": "9959",
     "sfbb_id": "quantca01",
     "yahoo_id": "10573"
+  },
+  "tiederi01": {
+    "prism_id": "t74vfebdvh",
+    "last_name": "Tiedemann",
+    "first_name": "Ricky",
+    "middle_name": null,
+    "birth_year": "2002",
+    "birth_month": "8",
+    "birth_day": "18",
+    "bbref_id": "tiederi01",
+    "fangraphs_id": "30165",
+    "mlbam_id": "694357",
+    "nfbc_id": "11605",
+    "sfbb_id": "tiederi01",
+    "yahoo_id": "12574"
   },
   "seymobo01": {
     "prism_id": "t75ezb9mx4",
