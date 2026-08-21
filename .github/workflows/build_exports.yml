@@ -2,6 +2,10 @@ name: Build and commit export files
 
 on:
   workflow_dispatch:  # manually triggered
+    inputs:
+      sports:
+        description: "Space-separated sports to rebuild"
+        default: "mlb nfl"
   repository_dispatch:
     types: [crosswalk-data-updated]
   #push:
@@ -38,20 +42,60 @@ jobs:
         run: |
           pip install -r tools/requirements.txt
 
+      - name: Work out which sports to build
+        id: sports
+        env:
+          INPUT_SPORTS: ${{ inputs.sports }}
+          PAYLOAD_SPORTS: ${{ join(github.event.client_payload.sports, ' ') }}
+        run: |
+          SPORTS="${INPUT_SPORTS:-$PAYLOAD_SPORTS}"
+          # An unfiltered dispatch means "rebuild everything"
+          SPORTS="${SPORTS:-mlb nfl}"
+          echo "Building: $SPORTS"
+          echo "sports=$SPORTS" >> "$GITHUB_OUTPUT"
+
+      # format(' {0} ', ...) makes the match whole-word. Plain contains(..., 'nfl')
+      # works for these two names but breaks the first time one sport name
+      # contains another.
       - name: Run MLB build script
+        if: contains(format(' {0} ', steps.sports.outputs.sports), ' mlb ')
         run: |
           python3 tools/crosswalk/build_players_exports.py data/data/mlb/players.csv exports/mlb --core-schema data/schema/players.yaml --source-schema data/schema/leagues/mlb/sources.yaml
 
       - name: Run NFL build script
+        if: contains(format(' {0} ', steps.sports.outputs.sports), ' nfl ')
         run: |
           python3 tools/crosswalk/build_players_exports.py data/data/nfl/players.csv exports/nfl --core-schema data/schema/players.yaml --source-schema data/schema/leagues/nfl/sources.yaml
 
       - name: Commit export files
+        id: commit
         run: |
           git config --global user.name "PRISM Build Bot"
           git config --global user.email "statvine+prism@gmail.com"
           git add exports/
-          git commit -m "Automated build: Update export files" || echo "No changes to commit"
-          git push origin main
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          else
+            git commit -m "Automated build: Update export files"
+            git pull --rebase origin main
+            git push origin main
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # This is the last point in the chain where the sport is still known, so
+      # the registry dispatch lives here rather than in a separate workflow
+      # reacting to `workflow_run` (which cannot carry a payload).
+      - name: Trigger prism-registry builds
+        if: steps.commit.outputs.changed == 'true'
+        env:
+          SPORTS: ${{ steps.sports.outputs.sports }}
+        run: |
+          for s in $SPORTS; do
+            curl -X POST https://api.github.com/repos/statsvine/prism-registry/dispatches \
+              -H "Accept: application/vnd.github+json" \
+              -H "Authorization: Bearer ${{ secrets.REGISTRY_DISPATCH_TOKEN }}" \
+              -d "{\"event_type\":\"crosswalk-updated-$s\"}"
+          done
