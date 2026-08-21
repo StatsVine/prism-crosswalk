@@ -1379,6 +1379,21 @@
     "sfbb_id": "davisbr04",
     "yahoo_id": "11436"
   },
+  "peckoet01": {
+    "prism_id": "1xq8ew11j4",
+    "last_name": "Pecko",
+    "first_name": "Ethan",
+    "middle_name": null,
+    "birth_year": "2002",
+    "birth_month": "8",
+    "birth_day": "25",
+    "bbref_id": "peckoet01",
+    "fangraphs_id": "33515",
+    "mlbam_id": "814490",
+    "nfbc_id": "12493",
+    "sfbb_id": "peckoet01",
+    "yahoo_id": "63202"
+  },
   "slateju01": {
     "prism_id": "1xtvws4mjm",
     "last_name": "Slaten",
@@ -9238,6 +9253,21 @@
     "nfbc_id": "10307",
     "sfbb_id": "meadopa01",
     "yahoo_id": "11310"
+  },
+  "wilkima02": {
+    "prism_id": "e14rhb5894",
+    "last_name": "Wilkinson",
+    "first_name": "Matt",
+    "middle_name": null,
+    "birth_year": "2002",
+    "birth_month": "12",
+    "birth_day": "10",
+    "bbref_id": "wilkima02",
+    "fangraphs_id": "33760",
+    "mlbam_id": "683363",
+    "nfbc_id": "12742",
+    "sfbb_id": "wilkima02",
+    "yahoo_id": "63166"
   },
   "tongjo01": {
     "prism_id": "e34kxtx4xr",
