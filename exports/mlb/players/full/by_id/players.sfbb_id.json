@@ -2377,8 +2377,8 @@
     "birth_year": "2005",
     "birth_month": "2",
     "birth_day": "19",
-    "bbref_id": null,
-    "fangraphs_id": "sa3022894",
+    "bbref_id": "jenkiwa01",
+    "fangraphs_id": "33571",
     "mlbam_id": "805805",
     "nfbc_id": "12040",
     "sfbb_id": "jenkiwa01",
@@ -8437,8 +8437,8 @@
     "birth_year": "2003",
     "birth_month": "4",
     "birth_day": "14",
-    "bbref_id": null,
-    "fangraphs_id": "sa3014677",
+    "bbref_id": "perallu02",
+    "fangraphs_id": "28148",
     "mlbam_id": "691384",
     "nfbc_id": "11984",
     "sfbb_id": "perallu02",
@@ -18149,6 +18149,21 @@
     "sfbb_id": "hampsga01",
     "yahoo_id": "10873"
   },
+  "furmana01": {
+    "prism_id": "sesll6bgp4",
+    "last_name": "Furman",
+    "first_name": "Nate",
+    "middle_name": null,
+    "birth_year": "2001",
+    "birth_month": "7",
+    "birth_day": "23",
+    "bbref_id": "furmana01",
+    "fangraphs_id": "31988",
+    "mlbam_id": "801501",
+    "nfbc_id": "12596",
+    "sfbb_id": "furmana01",
+    "yahoo_id": "60054"
+  },
   "giolilu01": {
     "prism_id": "sfgeckkdgr",
     "last_name": "Giolito",
@@ -18538,6 +18553,21 @@
     "nfbc_id": "10956",
     "sfbb_id": "mastrmi01",
     "yahoo_id": "12704"
+  },
+  "cabrejo01": {
+    "prism_id": "sygqw8mz8m",
+    "last_name": "Cabrera",
+    "first_name": "Jose",
+    "middle_name": "Manuel",
+    "birth_year": "2002",
+    "birth_month": "5",
+    "birth_day": "30",
+    "bbref_id": "cabrejo03",
+    "fangraphs_id": "30412",
+    "mlbam_id": "703615",
+    "nfbc_id": "12698",
+    "sfbb_id": "cabrejo01",
+    "yahoo_id": "65383"
   },
   "torregl01": {
     "prism_id": "syz08wh7ed",
@@ -19198,6 +19228,21 @@
     "nfbc_id": "7709",
     "sfbb_id": "chapmar01",
     "yahoo_id": "8616"
+  },
+  "beckbr01": {
+    "prism_id": "v0sfn0qhkd",
+    "last_name": "Beck",
+    "first_name": "Brendan",
+    "middle_name": null,
+    "birth_year": "1998",
+    "birth_month": "10",
+    "birth_day": "6",
+    "bbref_id": "beckbr01",
+    "fangraphs_id": "33043",
+    "mlbam_id": "694341",
+    "nfbc_id": "12667",
+    "sfbb_id": "beckbr01",
+    "yahoo_id": "12496"
   },
   "delosde01": {
     "prism_id": "v2g5gqr900",
