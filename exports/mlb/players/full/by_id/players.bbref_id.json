@@ -2264,6 +2264,21 @@
     "sfbb_id": "smithbu03",
     "yahoo_id": "9392"
   },
+  "depaujo03": {
+    "prism_id": "2p4sh5nvz4",
+    "last_name": "De Paula",
+    "first_name": "Josue",
+    "middle_name": null,
+    "birth_year": "2005",
+    "birth_month": "5",
+    "birth_day": "24",
+    "bbref_id": "depaujo03",
+    "fangraphs_id": "30871",
+    "mlbam_id": "800543",
+    "nfbc_id": "12506",
+    "sfbb_id": "depaljo01",
+    "yahoo_id": "63576"
+  },
   "bargead01": {
     "prism_id": "2p5fbwqhg8",
     "last_name": "Barger",
@@ -10213,6 +10228,21 @@
     "nfbc_id": "11398",
     "sfbb_id": "vivasjo01",
     "yahoo_id": "12341"
+  },
+  "martiru02": {
+    "prism_id": "csjvqf29ew",
+    "last_name": "Martin Jr.",
+    "first_name": "Rudy",
+    "middle_name": null,
+    "birth_year": "1996",
+    "birth_month": "1",
+    "birth_day": "31",
+    "bbref_id": "martiru02",
+    "fangraphs_id": "18582",
+    "mlbam_id": "657675",
+    "nfbc_id": "12717",
+    "sfbb_id": null,
+    "yahoo_id": "65747"
   },
   "melenmj01": {
     "prism_id": "csmt11v0r4",
