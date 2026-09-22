@@ -11024,6 +11024,21 @@
     "sfbb_id": "brownse01",
     "yahoo_id": "11643"
   },
+  "hilltu01": {
+    "prism_id": "g6ecq5jjph",
+    "last_name": "Hill",
+    "first_name": "Turner",
+    "middle_name": null,
+    "birth_year": "1999",
+    "birth_month": "4",
+    "birth_day": "4",
+    "bbref_id": "hilltu01",
+    "fangraphs_id": "32053",
+    "mlbam_id": "806367",
+    "nfbc_id": "12737",
+    "sfbb_id": "hilltu01",
+    "yahoo_id": "65532"
+  },
   "granian01": {
     "prism_id": "g6hrhnhb2h",
     "last_name": "Granillo",
@@ -13063,6 +13078,21 @@
     "nfbc_id": "11649",
     "sfbb_id": "butlela01",
     "yahoo_id": "12719"
+  },
+  "sandlda01": {
+    "prism_id": "jw4m6s89br",
+    "last_name": "Sandlin",
+    "first_name": "David",
+    "middle_name": null,
+    "birth_year": "2001",
+    "birth_month": "2",
+    "birth_day": "21",
+    "bbref_id": "sandlda01",
+    "fangraphs_id": "31743",
+    "mlbam_id": "689818",
+    "nfbc_id": "12306",
+    "sfbb_id": "sandlda01",
+    "yahoo_id": "60746"
   },
   "englema01": {
     "prism_id": "jwmrzb414m",
@@ -17398,6 +17428,21 @@
     "nfbc_id": "9504",
     "sfbb_id": "nolaau01",
     "yahoo_id": "11599"
+  },
+  "searsan01": {
+    "prism_id": "qf4bdwtm88",
+    "last_name": "Sears",
+    "first_name": "Andrew",
+    "middle_name": null,
+    "birth_year": "2002",
+    "birth_month": "8",
+    "birth_day": "30",
+    "bbref_id": "searsan01",
+    "fangraphs_id": "33664",
+    "mlbam_id": "808825",
+    "nfbc_id": "12745",
+    "sfbb_id": "searsan01",
+    "yahoo_id": "63140"
   },
   "rumfitj01": {
     "prism_id": "qh49shdnxr",
@@ -21793,6 +21838,21 @@
     "nfbc_id": "9860",
     "sfbb_id": "litteza01",
     "yahoo_id": "11035"
+  },
+  "bandusc01": {
+    "prism_id": "xw0swkt0t8",
+    "last_name": "Bandura",
+    "first_name": "Scott",
+    "middle_name": null,
+    "birth_year": "2001",
+    "birth_month": "8",
+    "birth_day": "2",
+    "bbref_id": "bandusc01",
+    "fangraphs_id": "33398",
+    "mlbam_id": "814154",
+    "nfbc_id": "12761",
+    "sfbb_id": "bandusc01",
+    "yahoo_id": "63225"
   },
   "hollija01": {
     "prism_id": "xwfenvbp4w",
